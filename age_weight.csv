@@ -1,0 +1,3778 @@
+Species,Common name,Adult weight (g),Male maturity (days),Gestation/Incubation (days),Litter/Clutch size,Maximum longevity (yrs)
+pulicaria,Daphnia,,,,,0.19
+melanogaster,Fruit fly,,7,,,0.3
+mellifera,Honey bee,,,,,8
+obscurior,Cardiocondyla obscurior,,,,,0.5
+niger,Black garden ant,,,,,28
+dentata,Pheidole dentata,,,,,0.4
+anynana,Squinting bush brown,,15,,,0.5
+americanus,American lobster,,,,,100
+bombina,Firebelly toad,,1095,,190,20
+orientalis,Oriental firebelly toad,,,,148,15.8
+variegata,Yellow-bellied toad,,,,73,29
+americanus,American toad,21.7667,910,8,6000,36
+boreas,Western toad,,1095,6,5200,11.5
+canorus,Yosemite toad,,1460,11,1750,15
+cognatus,Great plains toad,,730,4,11074,10.7
+debilis,Green toad,,,,1300,12.4
+hemiophrys,Canadian toad,,730,,,13.3
+punctatus,Red-spotted toad,,730,,1500,11.3
+retiformis,Sonoran green toad,,,2,,15.3
+terrestris,Southern toad,19.267,,3,3250,10
+varius,Veragoa stubfoot toad,,,,,10
+bufo,Common European toad,,1460,,,40
+alvarius,Colorado river toad,,1095,,7750,15.4
+asperginis,Kihansi spray toad,,,,,5
+lemur,Ridge-headed toad,,,,,10.7
+peltocephala,Cuban toad,,,,,20
+viridis,European green toad,,,,,11.9
+blombergi,Colombian giant toad,,,,,28.7
+marina,Cane toad,106.25,365,2,10000,24.8
+schneideri,Eurura toad,,,,,15.1
+aurita,Common horned frog,,,,,12.8
+calcarata,Colombian horned frog,,,,,15.9
+cornuta,Amazonian horned frog,,,,,10.3
+ornata,Ornate horned frog,,,,,14.7
+auratus,Green and black dart-poison frog,,365,12,6,20.5
+leucomelas,Yellow-banded poison frog,,75,12,7,11.5
+histrionica,Kokoe-pa poison dart frog,,,,,9.1
+pumilio,Strawberry poison frog,,,,,7.5
+occipitalis,African tigrine frog,48.1,,,,10.9
+crepitans,Northern cricket frog,,,,,4.9
+spurrelli,Maroon-eyed tree frog,,,,,5.5
+spatulata,Treefrog,,,,,12.8
+arborea,European tree frog,,,,,22
+chrysoscelis,Cope's gray treefrog,,547,21,35,7.8
+gratiosa,Barking treefrog,,,,2250,12.5
+japonica,Japanese treefrog,,1278,,920,8.9
+squirella,Squirrel treefrog,,,1,1000,8.5
+versicolor,Gray treefrog,7.2,730,4,1800,7.8
+caerulea,Australian green treefrog,,,,1100,20
+septentrionalis,Cuban treefrog,,120,1,1500,12.9
+vastus,Hispaniola giant treefrog,,,,,6.6
+dacnicolor,Mexican leaf frog,,,,,8.7
+bicolor,Waxy treefrog,,,,,10.3
+paradoxa,Paradox frog,,,,,11
+baudinii,Mexican treefrog,,,,2480,6.3
+fodiens,Lowland burrowing treefrog,,,,,5.1
+phaeota,Masked treefrog,,,,2000,4.1
+venulosus,Marbled treefrog,,,,,10.5
+truei,Coastal tailed frog,,,32,62,14
+pentadactylus,Tungara frog,,,,,18.8
+aurantiaca,Golden mantella,,,14,40,10.9
+expectata,Blue-legged mantella,,365,,,3
+carolinensis,Eastern narrow-mouthed toad,,365,1,722,6.8
+pulchra,Malaysian narrowmouth toad,,,,,11
+ornata,Ornate narrow-mouthed frog,,182,,,5
+bifasciatus,Red-banded frog,,,,,10.3
+gottlebei,Rainbow frog,,365,,,2
+fuscus,Common Eurasian spadefoot toad,,,8,1740,11
+goliath,Goliath frog,,,,,5.9
+pipa,Surinam toad,,,,,7.7
+laevis,African clawed frog,130,,2,,30.3
+adspersus,African bullfrog,,,,,45
+delalandii,Cape sand frog,,,,,11.3
+catesbeianus,American bullfrog,54.4,730,4,,16
+clamitans,Green frog,,730,,4000,10
+pipiens,Northern leopard frog,29.0222,365,,4146,9
+septentrionalis,Mink frog,,547,,2250,6
+sylvaticus,Wood frog,7.88,547,,900,5
+virgatipes,Carpenter frog,,730,,,6.2
+lessonae,Pool frog,,,,2420,6
+nigromaculatus,Black-spotted frog,,730,,2800,15
+perezi,Italian green frog,,912,6,,6.8
+ridibundus,Marsh frog,,1095,,6835,11
+amurensis,Siberian wood frog,,1640,,2125,9
+arvalis,Moor frog,,,,1750,11
+aurora,California red-legged frog,,,,,15
+esculenta,Edible frog,,,,,12
+iberica,Iberian frog,,,,318,8
+macrocnemis,Long-legged wood frog,,912,,2040,5
+temporaria,European frog,,1095,,2585,27
+couchii,Couch's spadefoot,,,,3000,6.7
+holbrookii,Eastern spadefoot,,730,8,3872,12.3
+intermontana,Great Basin spadefoot,,,3,676,20
+gracile,Northwestern salamander,,730,,150,10.2
+mabeei,Mabee's salamander,,,,,8.8
+macrodactylum,Long-toed salamander,,730,40,250,10
+maculatum,Spotted salamander,12.84,730,,125,32
+mexicanum,Axolotl,,548,18,,17
+opacum,Marbled salamander,,1113,,100,11.3
+rosaceum,Chihuahuan mole salamander,,,,,14.4
+talpoideum,Mole salamander,,730,,350,9
+texanum,Small-mouthed salamander,,,35,625,13.8
+tigrinum,Tiger salamander,9.402,1460,28,37,25
+ensatus,California giant salamander,,,150,85,16.9
+means,Two-toed amphiuma,200.967,1095,150,200,27
+tridactylum,Three-toed amphiuma,,,135,200,15.9
+davidianus,Chinese giant salamander,,,55,500,19.9
+japonicus,Japanese giant salamander,,1825,60,500,55
+alleganiensis,Hellbender,358.1,1825,72,275,29
+boulengeri,Boulenger's oriental salamander,,,,32,11.9
+leechii,Chinese salamander,,,,,7.1
+nebulosus,Clouded salamander,,,,,14.2
+retardatus,Japanese salamander,,,,,12.9
+fischeri,Long-tailed clawed salamander,,,,,17
+japonicus,Japanese clawed salamander,,,,17,14.2
+mustersi,Afghanistan salamander,,,,,11
+keyserlingii,Siberian salamander,,,23,70,8
+dofleini,Giant palm salamander,,,,,6.9
+mexicana,Palm salamander,,,,,12.2
+monticola,Seal salamander,,1277,45,25,17.7
+ochrophaeus,Allegheny mountain dusky salamander,0.6,1280,,16,19.8
+quadramaculatus,Black-bellied salamander,14.34,1280,,25,15
+welteri,Black mountain salamander,,1642,,26,20
+lucifuga,Cave salamander,,1095,13,73,9.1
+rathbuni,Texas blind salamander,,,,,10.3
+spelaea,Grotto salamander,,,,,9.9
+wilderae,Blue ridge two-lined salamander,,1278,,32,8
+palleucus,Tennessee cave salamander,,,,,18.5
+porphyriticus,Spring salamander,,1460,,61,18.5
+scutatum,Four-toed salamander,,912,,30,8.9
+hubrichti,Red Hills salamander,,,,9,19.7
+cinereus,Eastern red-backed salamander,0.5,730,,8,25
+dunni,Dunn's salamander,,1095,70,9.4,11
+elongatus,Del Norte salamander,,,,7,13.3
+glutinosus,Northern slimy salamander,4.2,910,,21,20.1
+jordani,Red-cheeked salamander,,1095,,,19.8
+vehiculum,Western red-backed salamander,,,,,11.1
+montanus,Mud salamander,,1095,,,15.1
+ruber,Red salamander,,1460,75,80,20.1
+italicus,Italian cave salamander,,1278,304,10,10.6
+maculosus,Mudpuppy,,1825,50,68,34
+anguinus,Olm,17,,133,35,102
+asper,Pyrenean brook newt,,,,,26
+ensicauda,Brown newt,,,,,17.9
+pyrrhogaster,Japanese firebelly newt,,913,20,200,25
+alpestris,Laureutis alpine salamander,,1095,,,15
+boscai,Bosca's newt,,,,160,8
+vulgaris,Smooth newt,,730,,180,20
+perstriatus,Striped newt,,487,,,12.9
+viridescens,Eastern newt,,2000,,,25
+brevipes,Tsitou newt,,,,,6.5
+chinensis,Asian newt,,,,,10.3
+poireti,Algerian newt,,,,,14
+waltl,Iberian ribbed newt,,,13,725,19.5
+atra,Golden alpine salamander,,,,,17
+salamandra,European fire salamander,19.1,,,,24
+torosa,California newt,,1095,45,122,21.8
+carnifex,Italian crested newt,,,,,11
+cristatus,Northern crested newt,,,16,225,28
+marmoratus,Marbled newt,,1460,,,25
+verrucosus,Mandarin salamander,,1460,,43,11
+intermedia,Lesser siren,,730,60,350,25.7
+lacertina,Greater siren,,,,500,25
+mexicanus,Mexican burrowing caecilian,,,,,13.8
+compressicauda,Cayenne caecilian,,,,,4.9
+kohtaoensis,Yellow-striped caecilian,,,,,7.3
+cooperii,Cooper's hawk,526.64,730,24,4,20.3
+gentilis,Northern goshawk,1044.2,730,33,3,22
+nisus,Eurasian sparrowhawk,237.5,365,,,20.2
+striatus,Sharp-shinned hawk,135,365,34,4,19.9
+monachus,Cinereous vulture,9625,,,,39
+adalberti,Spanish imperial eagle,3000,,,,44.5
+audax,Wedge-tailed eagle,3466,,,,40
+chrysaetos,Golden eagle,4800,1460,40,2,48
+fasciata,Bonelli's eagle,2000,,,,20
+heliaca,Eastern imperical eagle,3262,,,,56
+nipalensis,Steppe eagle,2745.5,,,,41
+pomarina,Lesser spotted eagle,1370,,,,26.1
+rapax,Tawny eagle,1996.1,,,,40.3
+indicus,Grey-faced buzzard,415,,,,8.5
+buteo,Buzzard,1012,730,,,28.8
+jamaicensis,Red-tailed hawk,1362,730,31,3,30.7
+lagopus,Rough-legged hawk,980.64,730,29,5,18.8
+lineatus,Red-shouldered hawk,607,365,33,3.5,22.4
+platypterus,Broad-winged hawk,454,365,25,2.5,18.3
+regalis,Ferruginous hawk,1500,730,32,3,23.7
+solitarius,Hawaiian hawk,505,,38,1,17
+swainsoni,Swainson's hawk,980.64,730,31,3,24.9
+anthracinus,Common black hawk,837,730,38,1.5,13.5
+gallicus,Short-toed eagle,1699.5,1095,,,17.3
+aeruginosus,Swamp harrier,711.5,730,,,20.1
+cyaneus,Northern harrier,392,365,31,4.4,17.1
+macrourus,Pallid harrier,388.5,,,,13.5
+pygargus,Montagu's harrier,315.5,730,,,16.3
+caeruleus,Black-winged kite,260.5,,,,6
+leucurus,White-tailed kite,280,,30,4.1,6
+melanoleucus,Black-chested buzzard-eagle,2447.5,,,,42
+barbatus,Bearded vulture,5070,,,,40
+angolensis,Palm-nut vulture,1600,,,,27.1
+africanus,White-backed vulture,5433,,,,19.7
+fulvus,Eurasian griffon,7436,1460,,,41.4
+albicilla,White-tailed sea-eagle,6696.5,1460,41,2,42
+leucocephalus,Bald eagle,3175,1460,35,2,48
+harpyja,Harpy eagle,4800,,,,16.8
+novaeguineae,New Guinea eagle,,,,,30
+morphnoides,Little eagle,791,,,,10.3
+mississippiensis,Mississippi kite,266,365,31,2,11.2
+monogrammicus,Lizard buzzard,280.5,,,,8.6
+isura,Square-tailed kite,585.5,,,,17
+migrans,Black kite,1000,1095,,,24
+milvus,Red kite,1080,1095,,,38
+percnopterus,Egyptian vulture,2082,,,,37
+unicinctus,Harris's hawk,994.26,365,34,3,25
+apivorus,Western honey-buzzard,758,1095,,,29
+jefferyi,Philippine eagle,6500,2555,63,1,41
+sociabilis,Snail kite,352.5,365,30,3,17
+ecaudatus,Bateleur,2200,,,,55
+aura,Turkey vulture,2200,4015,39,2,20.8
+atratus,Black vulture,2270,2920,35,2,25.5
+californianus,California condor,11175,2190,57,1,45
+papa,King vulture,3405,,57,,40
+gryphus,Andean condor,10500,2555,56,1,79
+haliaetus,Osprey,1362,1095,38,3,32
+galericulata,Mandarin duck,570,,29,10.5,10.4
+sponsa,Wood duck,452.8,365,31,12,22.5
+aegyptiaca,Egyptian goose,1900,730,29,7,25.5
+acuta,Northern pintail,721,240,22,7.5,27.4
+americana,American wigeon,793.8,365,23,9,21.3
+clypeata,Northern shoveler,613,240,23,11,22.6
+crecca,Green-winged teal,343.8,180,22,10,27.1
+cyanoptera,Cinnamon teal,411,365,23,10,12.9
+discors,Blue-winged teal,420,240,24,10,23.2
+fulvigula,Mottled duck,950,365,26,10,20
+laysanensis,Laysan duck,500,365,28,3.8,12
+penelope,Eurasian wigeon,660,365,24,8,35.2
+platyrhynchos,Mallard,1048.1,365,26,9,29.1
+querquedula,Garganey,326,365,,,14.7
+rubripes,American black duck,998.7,365,28,9,26.6
+strepera,Gadwall,791,240,26,10,28
+albifrons,Greater white-fronted goose,2681,1095,27,5,47
+anser,Greylag goose,3308.5,1095,,,31
+brachyrhynchus,Pink-footed goose,2645,1095,,,40.9
+fabalis,Bean goose,3348,1095,28,4,25.6
+affinis,Lesser scaup,787,365,24,10,18.3
+americana,Redhead,1077.3,365,26,13,22.6
+collaris,Ring-necked duck,737,365,27,9,20.4
+ferina,Common pochard,823,365,,,23.2
+fuligula,Tufted duck,701.5,365,,,45.2
+marila,Greater scaup,928.5,365,26,9,22.1
+valisineria,Canvasback,1208.8,240,24,9,29.5
+bernicla,Brent goose,1163.2,730,24,4,28.8
+canadensis,Canada goose,3200,730,26,5,42
+hutchinsii,Cackling goose,1940.1,,,,18.3
+leucopsis,Barnacle goose,1687,730,,,28.2
+sandvicensis,Hawaiian goose,2150,730,30,4,42
+albeola,Bufflehead,400,730,30,8,18.7
+clangula,Common goldeneye,895.86,730,30,10,18.4
+islandica,Barrow's goldeneye,957.15,730,29,11,18
+novaehollandiae,Cape barren goose,3980,,,,28.1
+caerulescens,Snow goose,2806.65,730,24,4,27.5
+canagica,Emperor goose,2148,365,24,4.9,12
+rossii,Ross's goose,1715,570,21,4,22.5
+hyemalis,Oldsquaw,872,730,24,7,22.7
+buccinator,Trumpeter swan,13000,730,35,5,32.5
+columbianus,Tundra swan,6350,730,31,4,24.1
+cygnus,Whooper swan,9350,1460,,,26.5
+olor,Mute swan,8300,1095,36,5.3,70
+autumnalis,Black-bellied whistling duck,828,365,27,14,8.2
+bicolor,Fulvous whistling duck,737.1,365,25,13,11.2
+viduata,White-faced whistling duck,610,,27,8,12
+histrionicus,Harlequin duck,561.25,365,28,6,14.6
+cucullatus,Hooded merganser,634.375,730,31,11,15.7
+fusca,White-winged scoter,1360.8,730,28,11,21.4
+nigra,Black scoter,1052.2,730,29,9,16.8
+perspicillata,Surf scoter,1097.5,730,,,9.5
+albellus,Smew,610,,,,10
+merganser,Common merganser,1445,730,30,10,14.8
+serrator,Red-breasted merganser,1020.6,730,32,10,21.3
+rufina,Red-crested pochard,1118,365,,,8.8
+australis,Blue-billed duck,798,,,,16
+jamaicensis,Ruddy duck,542,365,23,8,13.6
+gambensis,Spur-winged goose,3869,,,,11.3
+stelleri,Steller's eider,907.2,730,26,8,23
+fischeri,Spectacled eider,1558,730,,4.7,18
+mollissima,Common eider,2130,730,28,4,37.8
+spectabilis,King eider,1617,730,23,5,18.9
+tadorna,Common shelduck,1152,730,,,24.8
+saxatalis,White-throated swift,31,,24,4,10
+apus,Common swift,37.6,730,,,21.1
+melba,Alpine swift,102.7,730,,,26
+pelagica,Chimney swift,22.8,365,20,4.5,15
+niger,Black swift,45,365,24,1,16.1
+violiceps,Violet-crowned hummingbird,,,,,6.1
+yucatanensis,Buff-bellied hummingbird,3.9,,,,11.2
+alexandri,Black-chinned hummingbird,3,365,,2,11.2
+colubris,Ruby-throated hummingbird,3.1,365,13,2,9.1
+lucifer,Lucifer hummingbird,3.3,,15,2,4.1
+anna,Anna's hummingbird,4.4,365,16,2,8.5
+costae,Costa's hummingbird,3.1,,16,2,6
+latirostris,Broad-billed hummingbird,3.3,365,17,2,8.8
+fulgens,Magnificent hummingbird,8.1,365,14,2,11
+clemenciae,Blue-throated hummingbird,7.6,,18,2,12
+rhami,Garnet-throated hummingbird,7.8,,,,8
+platycercus,Broad-tailed hummingbird,4.2,365,16,2,14
+rufus,Rufous hummingbird,3.5,365,16,2,8.9
+calliope,Calliope hummingbird,2.6,365,15,2,7
+australis,Brown kiwi,2600,,75,1,35
+bicornis,Great hornbill,2798.5,,,,33.4
+subcylindricus,Grey-cheeked hornbill,1250,,,,31.8
+atrata,Black-casqued hornbill,1203.5,,,,19.3
+leadbeateri,Southern ground hornbill,3767.5,,,,70
+epops,Eurasian hoopoe,67.1,365,,,11.1
+carolinensis,Chuck-will's-widow,115,,20,2.5,14.8
+europaeus,Eurasian nightjar,67,365,,,11.9
+ruficollis,Red-necked nightjar,68.5,,,,13.2
+vociferus,Whip-poor-will,54,,19,2,15
+minor,Common nighthawk,79.3,,19,2,10
+bennetti,Dwarf cassowary,35000,,,,26
+casuarius,Southern cassowary,44000,,,,30
+unappendiculatus,Northern cassowary,47300,,,,22
+novaehollandiae,Emu,38925,,,,16.6
+cristatella,Crested auklet,289,1095,34,1,10.8
+pusilla,Least auklet,96,1095,30,1,8.1
+pygmaea,Whiskered auklet,120,1095,,1,15
+torda,Razorbill,726,1460,36,1,42
+marmoratus,Marbled murrelet,222,730,,,10
+columba,Pigeon guillemot,483.8,1095,31,2,15.2
+grylle,Black guillemot,427.5,1095,25,2,29.9
+monocerata,Rhinoceros auklet,544.1,1095,45,1,28.2
+arctica,Atlantic puffin,490.5,1460,42,1,40.8
+aleuticus,Cassin's auklet,184,730,,,16.2
+hypoleucus,Xantus' murrelet,167,730,34,2,15
+aalge,Common murre,992,1825,31,1,42.8
+lomvia,Thick-billed murre,964,2081,33,1,29
+oedicnemus,Eurasian thick-knee,459,,,,17.9
+alexandrinus,Snowy plover,37,331,24,3,19
+dubius,Little ringed plover,38.7,730,,,13
+hiaticula,Common ringed plover,64,365,,,20.8
+melodus,Piping plover,49,365,28,4,14
+montanus,Mountain plover,100,365,,6,10
+morinellus,Eurasian dotterel,108.5,,,,11.8
+semipalmatus,Semipalmated plover,52,912,24,4,9.2
+vociferus,Killdeer,88,365,24,4,10.9
+apricaria,European golden-plover and greater golden-plover,214,730,,,12.8
+dominica,American golden plover,118,365,26,4,13
+fulva,Pacific golden-plover,135,365,,,21.3
+squatarola,Black-bellied plover,224,730,27,4,25.6
+armatus,Blacksmith lapwing,156,,29,,18.6
+spinosus,Spur-winged lapwing,188,,,,17
+vanellus,Northern lapwing,218.5,730,24,4,24.5
+bachmani,Black oystercatcher,670,1825,26,2,16
+ostralegus,Eurasian oystercatcher,480,1095,,,43.3
+palliatus,American oystercatcher,565,1095,27,2,17
+minutus,Black noddy,110.4,730,34,1,27.1
+stolidus,Noddy tern,178,1460,35,1,26.2
+niger,Black tern,60,730,21,3,21
+genei,Slender-billed gull,281,730,,,31.7
+ridibundus,Black-headed gull,306,730,22,3,32.9
+nilotica,Gull-billed tern,221,1825,22,3,16
+alba,Fairy tern,98.1,1764,36,1,35.9
+minutus,Little gull,119,730,21,3,20.9
+caspia,Caspian tern,644,1095,21,2,30
+audouinii,Audouin's gull,535,1095,,,20.9
+melanocephalus,Mediterranean gull,256,1095,,,22.1
+inca,Inca tern,219,,28,,26
+argentatus,Herring gull,1094,1460,26,3,49
+cachinnans,Caspian gull,1117.2,1460,,,31.9
+californicus,California gull,691,1095,25,3,30
+canus,Mew gull,430.6,730,23,3,33.7
+delawarensis,Ring-billed gull,518.5,730,21,3,31.8
+fuscus,Lesser black-backed gull,766.2,1460,,,34.9
+glaucescens,Glaucous-winged gull,908,,27,3,32
+glaucoides,Iceland gull,945.5,1460,25,2.39,33
+heermanni,Heermann's gull,500,,,,24
+hyperboreus,Glaucous gull,1210,1460,27,3,21.1
+marinus,Great black-backed gull,1658.5,1825,27,3,29.2
+michahellis,Yellow-legged gull,,,,,19.2
+occidentalis,Western gull,931.5,1460,27,3,33.9
+pacificus,Pacific gull,1313.5,,,,14.5
+atricilla,Laughing gull,275.6,,24,3,22
+anaethetus,Bridled tern,133.3,,,,17.9
+fuscatus,Sooty tern,148,1460,28,1,35.8
+lunatus,Gray-backed tern,131.7,1825,,1,25.8
+eburnea,Ivory gull,550,730,25,2,23.9
+cerulea,Blue-gray noddy,53,,,,15
+brevirostris,Red-legged kittiwake,377,,,,27
+tridactyla,Black-legged kittiwake,317,1460,27,2,28.5
+niger,Black skimmer,315,730,23,4,20.2
+dougallii,Roseate tern,112,1095,23,2,25.7
+forsteri,Forster's tern,158,730,23,3,15.8
+hirundo,Common tern,120,1095,24,2.5,33
+paradisaea,Arctic tern,100,1095,21,2,34
+albifrons,Little tern,31,730,21,2,23.9
+antillarum,Least tern,40,1095,21,2,24.1
+elegans,Elegant tern,251,1095,26,1,20.9
+maximus,Royal tern,373,1095,28,2,28.6
+sandvicensis,Sandwich tern,250,1095,22,1,30.8
+himantopus,Black-winged stilt,161,,,,10.2
+mexicanus,Black-necked (Hawaiian) stilt,186,365,25,4,19.1
+avosetta,Pied avocet,304,730,,,27.8
+hypoleucos,Common sandpiper,48,365,,,14.5
+macularius,Spotted sandpiper,34,365,20,4,12
+interpres,Ruddy turnstone,136,730,22,4,22.3
+longicauda,Upland sandpiper,141,,22,4,8.9
+alba,Sanderling,50,730,27,4,18.6
+alpina,Dunlin,52.5,730,21,4,28.8
+canutus,Red knot,135,1095,22,4,27.3
+ferruginea,Curlew sandpiper,58.1,1095,,,19.7
+himantopus,Stilt sandpiper,57.3,730,,,11.1
+maritima,Purple sandpiper,65.2,1095,22,4,20.8
+mauri,Western sandpiper,26.19,730,21,4,9.2
+minuta,Little stint,21.1,730,,,14.7
+minutilla,Least sandpiper,26,365,20,4,16
+pusilla,Semipalmated sandpiper,27,365,20,4,19.3
+temminckii,Temminck's stint,23,,,,12.9
+delicata,Wilson's snipe,122,,,,9.2
+gallinago,Common snipe,131.6,365,19,4,18.2
+falcinellus,Broad-billed sandpiper,37.1,,,,6.8
+griseus,Short-billed dowitcher,105,365,21,4,13.3
+scolopaceus,Long-billed dowitcher,130,,20,4,13.2
+fedoa,Marbled godwit,336,1095,24,4,13.7
+lapponica,Bar-tailed godwit,322,730,21,4,34
+limosa,Black-tailed godwit,294,730,,,23.6
+minimus,Jack snipe,50.2,365,,,12.3
+arquata,Eurasian curlew,728,730,,,31.8
+phaeopus,Whimbrel,365.7,730,22,4,24.2
+tahitiensis,Bristle-thighed curlew,408.6,1065,,4,23.8
+lobatus,Red-necked phalarope,33.8,365,,,12.9
+tricolor,Wilson's phalarope,57,,23,4,10
+pugnax,Ruff,136,730,,,13.9
+minor,American woodcock,197.5,300,20,4,20.9
+rusticola,Eurasian woodcock,308.3,365,,,15.5
+erythropus,Spotted redshank,158,365,,,8.6
+glareola,Wood sandpiper,62.5,365,,,11.6
+nebularia,Common greenshank,187,365,,,24.4
+ochropus,Green sandpiper,90,365,,,11.5
+semipalmata,Willet,270,730,22,4,12.6
+stagnatilis,Marsh sandpiper,77.5,,,,7.1
+totanus,Common redshank,149,365,,,26.9
+cinereus,Terek sandpiper,78.8,,,,16
+antarcticus,Brown skua,1687,,,,28.8
+longicaudus,Long-tailed jaeger,298,,23,2,14
+maccormicki,South polar skua,1349,,,,23.5
+parasiticus,Parasidic jaeger,445.5,1200,26,2,31.1
+skua,Great skua,1340,2190,,,34.5
+oscitans,Asian openbill,,,,,18
+abdimii,Abdim's stork,1398,,,,21.6
+boyciana,Oriental white stork,4850.5,,,,48.1
+ciconia,European white stork,3350,1460,33,4,39
+episcopus,Woolly-necked stork,2061,,,,30.2
+maguari,Maguari stork,4000,,,,20.4
+nigra,Black stork,2926,,,,31.3
+asiaticus,Black-necked stork,4100,,,,34
+senegalensis,Saddle-billed stork,6162.5,,,,30.2
+mycteria,Jabiru,5470,,,,27.4
+crumeniferus,Marabou,8000,1460,30,2,44.7
+dubius,Greater adjutant,,,,,43
+javanicus,Lesser adjutant,5710,,,,31.1
+americana,Wood stork,2500,1460,30,3,27
+cinerea,Milky stork,,,,,12.4
+ibis,Yellow-billed stork,2166.5,,,,19.1
+leucocephala,Painted stork,3180,,,,28.6
+striatus,Speckled mousebird,51,,14,,11.5
+nicobarica,Nicobar pigeon,519,,17,1,20.5
+livia,Rock dove,358.7,140,18,2,35
+oenas,Stock dove and stock pigeon,291,365,,,12.6
+palumbus,Common wood-pigeon,490,365,,,17.7
+inca,Inca dove,50,,14,2,13.3
+passerina,Common ground dove,35,75,13,2,7.2
+striata,Zebra dove,56.6,,,,14
+verreauxi,White-tipped dove,147.5,,14,2,8.6
+melanoleuca,Wonga pigeon,429,,,,16.3
+fasciata,Band-tailed pigeon,315,365,19,1,18.5
+leucocephala,White-crowned pigeon,247,365,,1,14.4
+chinensis,Spotted dove,159,,15,2,9.8
+decaocto,Eurasian collared-dove,157.4,365,15,2,17.9
+risoria,Ring dove,,,,,12
+turtur,European turtle-dove,132,365,,,13.2
+asiatica,White-winged dove,140,365,13,2,25
+macroura,Mourning dove,119,80,14,2,31.3
+atthis,Common kingfisher,31.4,365,,,21
+rudis,Pied kingfisher,84.4,,,,3.9
+americana,Green kingfisher,34,,,3,5
+novaeguineae,Laughing kookaburra,305,365,25,,26.8
+smyrnensis,White-throated kingfisher,91.4,,,,5.5
+benghalensis,Indian roller,158,,,,8.9
+caudatus,Lilac-breasted roller,108,,21,,13.7
+garrulus,European roller,146,,,,9.2
+apiaster,European bee-eater,56.6,365,,,5.9
+bullockoides,White-fronted bee-eater,34.8,,,,7
+mexicanus,Russet-crowned motmot,75.7,,,,10.4
+momota,Blue-crowned motmot,133,,21,,20.3
+mexicanus,Puerto Rican tody,5.9,,,,12.6
+americanus,Yellow-billed cuckoo,57.8,365,14,3,5
+erythropthalmus,Black-billed cuckoo,37.5,365,14,2.5,5
+canorus,Common cuckoo and Eurasian cuckoo,111.5,365,,,12.9
+californianus,Greater roadrunner,376,365,20,4,9
+vieilloti,Puerto Rican lizard cuckoo,81.9,,,,7.6
+helias,Sunbittern,210,,27,2,15
+cheriway,Crested caracara,1031,,32,2,25.8
+plancus,Southern caracara,1348,,,,37.6
+berigora,Brown falcon,593.5,,,,24
+cherrug,Saker falcon,966,,,,15.9
+columbarius,Merlin,195,365,30,5,12.7
+eleonorae,Eleonora's falcon,390,,,,11.2
+femoralis,Aplomado falcon,342.5,,32,2.64,12
+mexicanus,Prairie falcon,858,365,31,4,17.2
+naumanni,Lesser kestrel,152.5,365,,,10.9
+peregrinus,Peregrine falcon,840,365,30,3,25
+punctatus,Mauritius kestrel,169.5,,,,10
+rusticolus,Gyrfalcon,1406.5,730,35,3.72,13.5
+sparverius,American kestrel,117,365,29,4.6,17
+subbuteo,Eurasian hobby,209.5,365,,,14.9
+tinnunculus,Common kestrel,184,365,,,23.8
+vespertinus,Red-footed falcon,152.5,,,,13.2
+globulosa,Wattled curassow,2500,,,,20
+rubra,Great curassow,4133,,,,24
+tuberosum,Razor-billed curassow,2813,,,,23
+vetula,Plain chachalaca,495.5,365,23,3,8.8
+lathami,Brush turkey,2340,,,,12.5
+maleo,Maleo,1564,,,,23
+californica,California quail,138,274,22,14,9.6
+gambelii,Gambel's quail,166,365,22,11,7.4
+virginianus,Northern bobwhite,194,365,23,15,6.4
+rufa,Red-legged partridge,528,,,,6.2
+umbellus,Ruffed grouse,532,120,24,11,11
+urophasianus,Sage grouse,1929.5,365,26,7,7
+amherstiae,Lady Amherst's pheasant,738,,24,,19.6
+pictus,Golden pheasant,625,365,22,10,13.4
+chinensis,King quail,45,,,,5
+coturnix,Common quail,96.5,365,,,14.6
+japonica,Japanese quail,115,52,17,,6
+obscurus,Blue grouse,1058.5,365,26,8,14
+canadensis,Spruce grouse,417.3,365,20,5,13
+francolinus,Black francolin,453,,19,7,7
+pondicerianus,Grey francolin,334,,18,7.5,8
+gallus,Red junglefowl,779.8,,,,30
+lagopus,Willow ptarmigan,595.875,365,21,6,9
+leucura,White-tailed ptarmigan,326,365,23,6,15
+tetrix,Eurasian black grouse,1079,365,,,12.2
+gallopavo,Wild turkey,6050,365,28,11,13
+cristatus,Indian peafowl,4200,730,29,5,23.2
+perdix,Grey partridge,492,365,24,16,5.2
+colchicus,Common pheasant,1094.8,240,24,11,27
+napoleonis,Palawan peacock-pheasant,550,365,19,2,15
+reevesii,Reeves's pheasant,1239,,,,9.2
+urogallus,Western capercaillie,2950,1095,,,18
+bonasia,Hazel grouse,429,,,,7.2
+cupido,Greater prairie chicken,908,183,23,13,5
+pallidicinctus,Lesser prairie chicken,794.5,183,23,11,13.5
+phasianellus,Sharp-tailed grouse,908,180,23,12,7.5
+arctica,Black-throated diver,2724,1095,29,1.74,28
+immer,Great northern diver,3405,1461,28,2,24.1
+stellata,Red-throated diver,1816,1095,28,2,24
+virgo,Demoiselle crane,2400,730,28,2,27
+regulorum,Grey crowned crane,3372,1095,30,,27.2
+americana,Whooping crane,7500,1460,31,2,40
+antigone,Sarus crane,8663,,32,,41.8
+canadensis,Sandhill crane,3890,1095,29,2,36.6
+grus,Common crane,5500,1825,,,43
+japonensis,Red-crowned crane,8500,1095,31,2,25.2
+leucogeranus,Siberian crane,5931,,,,36.2
+monacha,Hooded crane,3700,1040,,,24
+rubicunda,Brolga,6250.5,,,,33
+vipio,White-naped crane,5400,1095,31,2,45
+americana,American coot,450.8,365,23,10,22.3
+atra,Coot,734.3,365,,,20.6
+chloropus,Common moorhen,392,365,19,9,18.6
+australis,Weka,899.3,,,,13.8
+aquaticus,Water rail,111.5,365,,,8.9
+longirostris,Clapper rail,308,365,22,10,7.5
+leucotis,White-cheeked turaco,265,,,,12.4
+tarda,Great bustard,7895.5,,,,28.3
+frontalis,White-browed scrubwren,13.4,365,,,17.6
+arundinaceus,Great reed-warbler,30,365,,,10.1
+dumetorum,Blyth's reed-warbler,11.2,,,,7.8
+melanopogon,Moustached warbler,10.9,365,,,11.2
+palustris,Marsh warbler,11.5,365,,,9.8
+schoenobaenus,Sedge warbler,11.8,365,,,11.8
+scirpaceus,Eurasian reed-warbler,12.3,365,,,14
+sechellensis,Seychelles warbler,15.9,,,,17
+stentoreus,Indian great reed warbler,24.2,,,,10.6
+icterina,Icterine warbler,13.2,365,,,10.8
+polyglotta,Melodious warbler,11,365,,,8.9
+pallida,Olivaceous warbler,9,365,,,7.9
+caudatus,Long-tailed tit,8.6,365,,,11.1
+minimus,Bushtit,5.3,365,12,6,9.1
+arvensis,Eurasian skylark,37.5,365,11,3,10.1
+alpestris,Horned lark,33.5,365,11,43,8
+cristata,Crested lark,42.9,365,,,11.6
+arborea,Wood lark,26.9,365,,,6
+cedrorum,Cedar waxwing,30,365,14,4,8.2
+garrulus,Bohemian waxwing,54.5,365,14,5,13.5
+lapponicus,Lapland longspur,28.35,,12,5,6
+pictus,Smith's longspur,26.65,365,12,4,5
+hyperboreus,Mckay's bunting,42,,,4,4.8
+nivalis,Snow bunting,41.8,365,12,5,9.6
+cardinalis,Northern cardinal,42.6,365,12,3,28.5
+parellina,Blue bunting,15.7,,,,10.8
+amoena,Lazuli bunting,15.15,365,12,4,9.9
+caerulea,Blue grosbeak,28.4,365,11,4,10.2
+ciris,Painted bunting,14.75,365,11,4,12
+cyanea,Indigo bunting,15,365,12,3.5,11
+ludovicianus,Rose-breasted grosbeak,47.325,365,12,4,24
+melanocephalus,Black-headed grosbeak,42,365,12,3,25
+ludoviciana,Western tanager,30,365,13,4,15.3
+olivacea,Scarlet tanager,29,365,13,4,11.9
+rubra,Summer tanager,40,365,12,4,7.9
+americana,Dickcissel,33,365,12,4,4.8
+familiaris,Eurasian treecreeper,9.1,365,,,8.2
+cetti,Cetti's warbler,13.3,365,,,9.3
+cinclus,White-throated dipper,61.7,365,,,10.6
+mexicanus,American dipper,50.2,365,,4,8.1
+flaveola,Bananaquit,10.1,,,,8.6
+melanoramphos,White-winged chough,364,,,,16.3
+cinerea,Apostlebird,132,,,,25
+californica,Western scrub jay,88.7,,18,4,15.8
+coerulescens,Scrub jay,78.7,365,17,4,15
+insularis,Island scrub jay,114,365,18,4,15.3
+ultramarina,Mexican jay,130,,18,4,25
+monedula,Eurasian crow and Eurasian jackdaw,246,730,,,20.3
+brachyrhynchos,American crow,384.8,730,18,5,20
+caurinus,Northwestern crow,294,730,18,4,16.7
+corax,Common raven,1041.2,1095,19,5,69
+cornix,Hooded crow,,,,,16.8
+corone,Carrion crow,472.7,1095,,,19.2
+coronoides,Australian raven,645,,,,21.8
+cryptoleucus,Chihuahuan raven,534,,21,5,21.8
+frugilegus,Rook,453.5,730,,,22.9
+hawaiiensis,Hawaiian crow,520,1460,20,3,25
+ossifragus,Fish crow,418,730,17,4,14.5
+cristata,Blue jay,80.8,365,17,4,26.2
+stelleri,Steller's jay,99.1,365,16,4,16.1
+caeruleus,Azure jay,272,,,,36
+glandarius,Eurasian jay,159.7,365,,,17.9
+cyanocephalus,Pinyon jay,105,365,17,4,14.6
+caryocatactes,Spotted nutcracker,183,365,,,16.2
+columbiana,Clark's nutcracker,130,365,18,2.5,17.4
+canadensis,Gray jay,70.3,365,17,3,19.2
+infaustus,Siberian jay,84.4,,,,17.9
+hudsonia,Black-billed magpie,177,730,18,6.5,20
+nuttalli,Yellow-billed magpie,159,365,18,6.5,10
+pica,Eurasian magpie,178,730,21,,21.7
+graculus,Alpine chough,211.5,1095,,,24.4
+pyrrhocorax,Red-billed chough,277.8,730,,,20.3
+rupicola,Guianan cock-of-the-rock,195,,,,7
+ruficeps,Rufous-crowned sparrow,18.8,365,12,3,5.1
+caudacutus,Saltmarsh sharp-tailed sparrow,16.5,365,11,4,10
+henslowii,Henslow's sparrow,12.5,,,,6.5
+leconteii,Le Conte's sparrow,,,,,4.1
+maritimus,Seaside sparrow,20,365,12,4,9
+nelsoni,Nelson's sharp-tailed sparrow,15.2,,,,7.1
+savannarum,Grasshopper sparrow,17.6,365,11,4,9.1
+bilineata,Black-throated sparrow,13.5,,12,3,6
+rufivirgatus,Olive sparrow,22.4,,,3.5,8.2
+belli,Sage sparrow,17.1,,,,9.1
+melanocorys,Lark bunting,32.6,365,12,5,4.8
+grammacus,Lark sparrow,27.1,,12,4,7.8
+aureola,Yellow-breasted bunting,19.6,,,,7
+calandra,Corn bunting,48.8,365,,,10.6
+cirlus,Cirl bunting,25.6,365,,,6.1
+citrinella,Yellowhammer,29.7,365,,,13.2
+hortulana,Ortolan bunting,19.9,,,,6.8
+melanocephala,Black-headed bunting,28.4,,,,11
+schoeniclus,Reed bunting,18.4,365,,,12.2
+hyemalis,Dark-eyed junco,19,365,11,4,11.3
+phaeonotus,Yellow-eyed junco,20,365,13,2,6.6
+georgiana,Swamp sparrow,16.1,365,13,4,7.8
+lincolnii,Lincoln's sparrow,17.35,365,11,4,7.6
+melodia,Song sparrow,22.7,365,12,4,11.3
+aberti,Abert's towhee,46,365,14,3,8.6
+crissalis,California towhee,47,,13,,12.8
+fusca,Canyon towhee,44.4,365,11,3,12.8
+sandwichensis,Savannah sparrow,20.2,365,12,4,18
+iliaca,Fox sparrow,35.5,,13,4,10.3
+aestivalis,Bachman's sparrow,19.6,365,13,4,3.9
+chlorurus,Green-tailed towhee,28.88,365,12,4,7.7
+erythrophthalmus,Eastern towhee,39.4,365,12,4,12.3
+maculatus,Spotted towhee,40.4,730,,,11
+gramineus,Vesper sparrow,25.7,365,12,4,7.9
+breweri,Brewer's sparrow,11,365,11,3,6.2
+pallida,Clay-colored sparrow,11.45,335,12,4,6.9
+passerina,Chipping sparrow,12.2,365,12,4,11.8
+pusilla,Field sparrow,12.5,365,12,4,10.3
+arborea,American tree sparrow,16.6,365,12,4,10.8
+albicollis,White-throated sparrow,21.1,365,13,4,14.9
+atricapilla,Golden-crowned sparrow,31.55,365,12,4,10.5
+leucophrys,White-crowned sparrow,25.82,365,12,4,13.3
+querula,Harris's sparrow,33.1,365,13,4,11.7
+gouldiae,Gouldian finch,12,,13,,6
+striata,White-rumped munia,12.3,,,,10
+guttata,Zebra finch,12,60,,,12
+flammea,Common redpoll,14.2,365,10,5,12.2
+hornemanni,Hoary redpoll,19.25,365,12,4,6.8
+carduelis,European goldfinch,16,365,,,27
+erythrinus,Common rosefinch,24,365,,,9
+chloris,European greenfinch,26,365,,,13.6
+stejnegeri,Kauai amakihi,16.65,,14,3,9
+virens,Hawaii amakihi,13.35,,14,2.5,12
+coccothraustes,Hawfinch,56.6,365,,,12.6
+coelebs,Chaffinch,20.7,365,,,29
+montifringilla,Brambling,23.2,365,,,14.8
+cassinii,Cassin's finch,27.5,365,13,4,7
+mexicanus,House finch,21.4,,14,4,11.6
+purpureus,Purple finch,25.42,365,13,4,14
+wilsoni,Akiapolaau,28,365,,1,13
+vespertina,Evening grosbeak,54.9,,13,3,17
+sanguinea,Apapane,13.4,,13,3,11
+atrata,Black rosy-finch,24,365,13,5,8.6
+australis,Brown-capped rosy finch,26.6,,,,5.9
+tephrocotis,Gray-crowned rosy-finch,35.7,365,14,4,6.6
+cannabina,Eurasian linnet,19.5,365,,,9.4
+flavirostris,Twite,15.4,365,,,6.1
+curvirostra,Red crossbill,39.5,365,13,3,16.1
+leucoptera,White-winged crossbill,28.9,,13,3,4
+bailleui,Palila,37.85,730,16,2,13
+coccineus,Akepa,10.4,730,15,1.5,10
+parva,Anianiau,10,365,14,3,9.5
+phaeosoma,Poo-uli,25.5,,,,9.2
+dolei,Akohekohe or crested honeycreeper,26.2,730,17,1.5,9.2
+enucleator,Pine grosbeak,65.3,365,13,4,9.8
+pyrrhula,Eurasian bullfinch,24.4,365,,,17.5
+canaria,House canary,24.3,,,,24
+pinus,Pine siskin,12.7,,13,3,11
+psaltria,Lesser goldfinch,9.23,,12,4,5.7
+spinus,Eurasian siskin,13.2,365,,,13.5
+tristis,American goldfinch,12.8,,13,5,13
+cantans,Laysan finch,33.3,,16,3,12
+ultima,Nihoa finch,24.5,,15,3,12
+coccinea,Iiwi,18.3,,,,8.8
+daurica,Red-rumped swallow,22.2,,,,9
+urbicum,Common house-martin and northern house-martin,14.5,365,,,15
+rustica,Barn swallow,18.3,365,15,6,16
+fulva,Cave swallow,20.15,,,4,12.2
+pyrrhonota,Cliff swallow,23.24,365,14,4,11.8
+subis,Purple martin,45,365,15,5,13.8
+riparia,Bank swallow,12.7,365,15,4,10
+ruficollis,Southern rough-winged swallow,16,,14,6,5.9
+serripennis,Northern rough-winged swallow,15.7,365,,,5.9
+bicolor,Tree swallow,19,365,14,5,12.1
+thalassina,Violet-green swallow,14.2,,14,4,9.1
+phoeniceus,Red-winged blackbird,56.7,365,12,3.5,20
+tricolor,Tricolored blackbird,56.5,,11,3,13.2
+xanthomus,Yellow-shouldered blackbird,38.4,,,,12.6
+oryzivorus,Bobolink,35,365,13,5,9
+carolinus,Rusty blackbird,60.8,365,14,4.5,8.8
+cyanocephalus,Brewer's blackbird,64.55,365,13,5,12.5
+bullockii,Bullock's oriole,36.62,365,11,5,8.9
+cucullatus,Hooded oriole,24.3,,13,4,6
+galbula,Baltimore oriole,32.9,,13,4,14
+leucopteryx,Jamaican oriole,36.9,,,,12.2
+parisorum,Scott's oriole,36.2,,14,3,6.4
+pectoralis,Spot-breasted oriole,46.5,,,3,11.6
+spurius,Orchard oriole,21,,13,5,17.7
+ater,Brown-headed cowbird,38.1,365,11,,16.9
+major,Boat-tailed grackle,152.6,,13,4,13.9
+mexicanus,Great-tailed grackle,168.7,730,13,3,12.5
+quiscula,Common grackle,111,,14,5,23.1
+magna,Eastern meadowlark,94.71,365,13,5,12.6
+neglecta,Western meadowlark,85,365,14,3,10
+xanthocephalus,Yellow-headed blackbird,75.75,,12,4,18
+collurio,Red-backed shrike,28.4,365,,,10.1
+excubitor,Northern shrike,63.5,335,,5,12
+ludovicianus,Loggerhead shrike,46,365,11,5,12.5
+senator,Woodchat shrike,36,365,,,5.7
+lutea,Red-billed leothrix,21.5,,12,,15
+squamiceps,Arabian babbler,73.5,,,,13.5
+striata,Bengal jungle babbler,66,,,,16.5
+fluviatilis,River warbler,16.1,,,,6.9
+luscinioides,Savi's warbler,13.9,365,,,9.8
+naevia,Common grasshopper-warbler,13.3,365,,,5.9
+cyaneus,Superb fairywren,10.4,365,,,10.4
+carolinensis,Gray catbird,34.5,365,13,4,17.9
+fuscatus,Pearly-eyed thrasher,98.6,,,,10.6
+polyglottos,Northern mockingbird,53,365,12,4,20
+bendirei,Bendire's thrasher,62.2,,,3,9.5
+crissale,Crissal thrasher,62.7,274,14,2.5,4.8
+curvirostre,Curve-billed thrasher,80.65,365,13,3,10.8
+lecontei,Le conte's thrasher,61.82,312,16,3,5.7
+longirostre,Long-billed thrasher,67.65,,14,4,7.8
+redivivum,California thrasher,84.4,228,14,3,6.9
+rufum,Brown thrasher,67,274,13,4,12.8
+sandwichensis,Elepaio,15,365,,2,17.8
+cervinus,Red-throated pipit,20.9,,,,4.5
+petrosus,Rock pipit,22.4,365,,,10.9
+pratensis,Meadow pipit,18.4,365,,,8.8
+rubescens,American pipit,20.8,365,14,5,5.1
+spinoletta,Water pipit,21.2,,14,4,8.8
+trivialis,Tree pipit,23.4,365,,,8.8
+alba,White wagtail,24.1,365,13,5,13.7
+cinerea,Grey wagtail,17.2,365,,,8
+flava,Yellow wagtail,17.7,365,11,5,8.8
+malabaricus,White-rumped shama,29.35,,14,,7
+rubecula,European robin,17.3,365,,,19.3
+galactotes,Rufous-tailed scrub-robin,20.3,,,,7
+albicollis,Collared flycatcher,12.7,365,,,9.8
+hypoleuca,European pied flycatcher,13.9,365,,,15
+luscinia,Thrush nightingale,23.8,365,,,8.9
+megarhynchos,Common nightingale,19.7,365,,,10.9
+svecica,Bluethroat,17.3,365,13,6,11.4
+striata,Spotted flycatcher,15.9,365,,,11.8
+hispanica,Black-eared wheatear,15.1,,,,4.9
+oenanthe,Northern wheatear,25,365,14,,10.1
+ochruros,Black redstart,16.5,365,,,10.2
+phoenicurus,Common redstart,14.6,365,,,10.2
+rubetra,Whinchat,16.6,365,,,6.9
+torquatus,Common stonechat and stonechat,10.3,365,,,8.8
+asiaticus,Purple sunbird,8.1,,,,22
+oriolus,Eurasian golden-oriole,79,365,,,14.8
+xanthornus,Black-hooded oriole,56.3,,,,15.5
+viridis,Green figbird (hang-nest),121.5,,,,18
+biarmicus,Bearded parrotbill,13.8,365,,,7.1
+apoda,Greater bird-of-paradise,172,,,,12.1
+bicolor,Tufted titmouse,21,365,13,6,13.3
+inornatus,Plain titmouse or oak titmouse,15.9,365,15,6,9
+wollweberi,Bridled titmouse,10.4,365,13,6,6.6
+caeruleus,Blue tit,10.3,365,,,14.6
+cristatus,Crested tit,11.1,365,,,11.6
+major,Great tit,17.9,365,,,15.4
+ater,Coal tit,9.2,365,,,9.5
+atricapillus,Black-capped chickadee,10.4,180,12,7,12.4
+carolinensis,Carolina chickadee,10.25,365,13,6,10.9
+cinctus,Siberian tit or gray-headed chickadee,12.5,365,15,8,9
+gambeli,Mountain chickadee,11.5,365,14,7,10.1
+hudsonicus,Boreal chickadee,10,365,15,6,7
+montanus,Willow tit,11.1,,,,11.3
+palustris,Marsh tit,11.2,365,,,11.9
+rufescens,Chestnut-backed chickadee,9.8,365,13,6.5,9.5
+sclateri,Mexican chickadee,11,365,,6,10.1
+canadensis,Canada warbler,10,365,12,4,8
+pusilla,Wilson's warbler,7,365,10,5,8.9
+rubrifrons,Red-faced warbler,9.8,365,13,4,3
+formosa,Kentucky warbler,14,,12,4,6.9
+philadelphia,Mourning warbler,10,,12,4,7.9
+tolmiei,Macgillivray's warbler,10.4,,,,9
+trichas,Common yellowthroat,9.5,365,12,4,11.5
+vermivorum,Worm-eating warbler,12.5,365,13,5,8.1
+virens,Yellow-breasted chat,26,365,11,5,8.9
+celata,Orange-crowned warbler,9.2,365,12,4,8.6
+luciae,Lucy's warbler,6.6,,11,4.5,5.8
+peregrina,Tennessee warbler,8.5,365,11,6,6.4
+ruficapilla,Nashville warbler,7.5,365,11,4,10.2
+virginiae,Virginia's warbler,8.2,,,,6.2
+swainsonii,Swainson's warbler,13.5,365,14,3,9.9
+varia,Black-and-white warbler,10.9,365,11,5,12.2
+pictus,Painted redstart,9.75,304,13,4,6.6
+motacilla,Louisiana waterthrush,22.5,365,13,5,11.9
+noveboracensis,Northern waterthrush,16.3,365,12,4,8.9
+citrea,Prothonotary warbler,14.3,365,13,5,8.1
+aurocapilla,Ovenbird,18.8,365,12,4,11
+adelaidae,Adelaide's warbler,7,,,,10.6
+americana,Northern parula,7.9,365,13,4,7
+caerulescens,Black-throated blue warbler,10.2,365,13,4,10
+castanea,Bay-breasted warbler,11.5,,12,5,4.9
+cerulea,Cerulean warbler,8.625,365,12,4,6
+chrysoparia,Golden-cheeked warbler,10.2,365,,,11
+citrina,Hooded warbler,10.6,319,12,4,8.2
+coronata,Yellow-rumped (myrtle) warbler,12,,12,4,10
+discolor,Prairie warbler,7,,12,4,10.3
+dominica,Yellow-throated warbler,9.7,365,12,4,6.1
+fusca,Blackburnian warbler,9,,11,4,8.2
+kirtlandii,Kirtland's warbler,15.5,365,14,5,9
+magnolia,Magnolia warbler,7.5,365,12,4,8
+occidentalis,Hermit warbler,10,365,,4,9.1
+palmarum,Western palm warbler,10.3,,12,4,6.6
+pensylvanica,Chestnut-sided warbler,9,365,12,4,6.9
+petechia,Yellow warbler,9.8,365,12,3,11
+pinus,Pine warbler,11.8,365,13,4,10.2
+ruticilla,American redstart,8.5,365,12,4,10.1
+striata,Blackpoll warbler,15,365,12,5,8.1
+townsendi,Townsend's warbler,8.85,,12,4,10.7
+virens,Black-throated green warbler,9,365,12,4,6
+chrysoptera,Golden-winged warbler,8.8,319,10,5,7.9
+cyanoptera,Blue-winged warbler,8.9,365,11,5,9
+domesticus,House sparrow,25.3,365,11,5,23
+hispaniolensis,Spanish sparrow,24.2,365,,,11.2
+montanus,Eurasian tree sparrow,20.5,319,13,5,13.1
+petronia,Rock sparrow,30.2,,,,7
+collybita,Common chiffchaff and Eurasian chiffchaff,8.3,365,,,8
+sibillatrix,Wood warbler,9.2,365,,,10.2
+trochilus,Willow warbler,8.7,365,,,11.8
+albirostris,African ox birds,61.9,,,,20
+cucullatus,Village weaver,36.2,,,,24
+quelea,Red-billed quelea,17.5,730,,,10
+caerulea,Blue-grey gnatcatcher,6.5,319,13,4,4.2
+californica,California gnatcatcher,6,365,14,4,8
+modularis,Hedge sparrow,20.2,365,,,20.8
+jocosus,Red-whiskered bulbul,27.7,,12,2.5,11.1
+xanthopygos,White-spectacled bulbul,38.1,,,,8.8
+calendula,Ruby-crowned kinglet,6.75,365,12,8,5.6
+regulus,Goldcrest,5.6,365,,,7
+satrapa,Golden-crowned kinglet,5.5,365,14,8,6.3
+flaviceps,Verdin,6.8,365,14,4,5.6
+pendulinus,Eurasian penduline-tit,9.3,365,,,7
+canadensis,Red-breasted nuthatch,11.2,365,12,5,7.5
+carolinensis,White-breasted nuthatch,20.5,365,12,8,9.8
+europaea,Wood nuthatch or Eurasian nuthatch,20.4,365,,,12.9
+pusilla,Brown-headed nuthatch,10.8,365,14,5,5.8
+pygmaea,Pygmy nuthatch,10.7,365,15,7,8.2
+cristatellus,Crested myna,116.5,,15,4,13
+caudatus,Long-tailed glossy starling,121,,,,17.8
+hildebrandti,Hildebrandt's starling,55.8,,,,16.9
+rothschildi,Bali mynah,95,,13,3,25
+vulgaris,European starling,74,365,12,5,22.9
+fasciata,Wrentit,14.7,365,15,3.5,12.6
+atricapilla,Blackcap,16.7,365,,,13.8
+borin,Garden warbler,24.6,365,,,24
+communis,Whitethroat,17.7,365,,,8.9
+curruca,Lesser whitethroat,11.4,365,,,9
+melanocephala,Sardinian warbler,11.7,365,,,8.3
+nisoria,Barred warbler,22.5,365,,,11.9
+acutirostris,Marsh antwren,9.8,,,,16.2
+caeruleus,Purple honeycreeper,12,,,,17
+portoricensis,Puerto rican bullfinch,32.1,,,,15.6
+speculiferus,Puerto Rican tanager,35.2,,,,4
+torqueola,White-collared seedeater,8.7,,13,3,11.7
+episcopus,Blue-grey tanager,35,,13,2,9.5
+brunneicapillus,Cactus wren,38.9,,16,4,7.3
+bewickii,Bewick's wren,9.8,365,14,6,8
+ludovicianus,Carolina wren,17.5,365,14,4,9.2
+aedon,House wren,9.7,365,13,7,9
+troglodytes,Winter wren,9.1,365,15,5,7
+bicknelli,Bicknell's thrush,27.5,365,12,4,11.9
+fuscescens,Veery,28.8,365,11,4,10.1
+guttatus,Hermit thrush,27.8,365,12,4,10.8
+minimus,Grey-cheeked thrush,24.8,365,13,4,7.3
+ustulatus,Swainson's thrush,27.9,365,12,4,11
+mustelina,Wood thrush,43.3,365,13,3,10.2
+naevius,Varied thrush,78.5,365,14,3,5.6
+currucoides,Mountain bluebird,29.6,,13,5,9
+mexicana,Western bluebird,26.5,365,14,5,8.7
+sialis,Eastern bluebird,30.5,321,14,4,10.5
+grayi,Clay-colored robin,74,,12,3,9.6
+iliacus,Redwing,61.2,365,,,18.8
+merula,Common blackbird and Eurasian blackbird,103.2,365,,,21.8
+migratorius,American robin,75.5,365,13,3,17
+philomelos,Song thrush,67.8,365,,,17.7
+pilaris,Fieldfare,106,365,,,18.1
+plumbeus,Red-legged thrush,75.3,,,,14.6
+torquatus,Ring ouzel,109,365,,,9.1
+viscivorus,Mistle thrush,117.5,365,,,21.2
+imberbe,Northern beardless tyrannulet,7.4,,,2,5.8
+cooperi,Olive-sided flycatcher,32.8,365,15,3,11.1
+sordidulus,Western wood pewee,12.8,,14,3,8.1
+virens,Eastern wood pewee,13.9,365,13,3,8.2
+martinica,Caribbean elaenia,20.9,,,,13.6
+alnorum,Alder flycatcher,13.5,365,13,3.5,9.1
+difficilis,Pacific-slope flycatcher,11,365,14,3.5,6.9
+hammondii,Hammond's flycatcher,10.4,,,,7
+minimus,Least flycatcher,10,365,14,4,8
+oberholseri,Dusky flycatcher,10.95,365,15,4,9
+traillii,Willow flycatcher,12.6,365,13,3.5,11
+virescens,Acadian flycatcher,12.6,365,13,3,12.1
+antillarum,Puerto rican flycatcher,23.4,,,,13.6
+cinerascens,Ash-throated flycatcher,28.5,,15,4,11.9
+crinitus,Great crested flycatcher,32.1,365,14,5,14.9
+tyrannulus,Brown-crested flycatcher,35,,,,11
+rubinus,Vermilion flycatcher,12.87,365,14,3,5.5
+nigricans,Black phoebe,18.25,,16,4,8
+phoebe,Eastern phoebe,19.7,,16,5,10.3
+tyrannus,Eastern kingbird,39.9,365,12,3,11.1
+verticalis,Western kingbird,40.7,365,13,4,6.9
+atricapilla,Black-capped vireo,8.65,,15,4,12
+bellii,Bell's vireo,10,365,14,4,9.1
+flavifrons,Yellow-throated vireo,18,365,15,4,6.1
+gilvus,Warbling vireo,15,304,13,3.5,13.1
+griseus,White-eyed vireo,12,365,13,4,10.9
+huttoni,Hutton's vireo,11.3,,14,4,13.5
+latimeri,Puerto rican vireo,12,,,,16.8
+olivaceus,Red-eyed vireo,17,365,12,3.5,10.2
+philadelphicus,Philadelphia vireo,12,,14,4,9.8
+solitarius,Blue-headed vireo,16,365,12,4,7.4
+japonicus,Japanese white-eye,11.25,365,11,3.5,5.1
+lateralis,Silvereye,12.7,365,,,13
+alba,Great egret,873.5,730,23,3,22.8
+cinerea,Grey heron,1443,730,,,37.5
+cocoi,Cocoi heron,1937.7,,,,24.4
+goliath,Goliath heron,4468,,,,22.9
+herodias,Great blue heron,1870,669,28,4,24.5
+purpurea,Purple heron,1065.5,730,,,25.4
+lentiginosus,American bittern,706,365,34,4,8.3
+stellaris,Bittern,1324.5,730,,,11.3
+ibis,Cattle egret,390,730,22,3,23
+virescens,Green heron,175,730,20,4,11.6
+caerulea,Little blue heron,339.5,365,23,4,13.9
+garzetta,Little egret,312,365,,,22.3
+rufescens,Reddish egret,614,1461,,3,22
+thula,Snowy egret,314,365,18,4,22.8
+tricolor,Tricolored heron,309.9,669,21,4,17.7
+minutus,Little bittern,101,730,,,6.9
+nycticorax,Black-crowned night heron,800,365,25,4,21.1
+rex,Shoebill,5984,,,,35.7
+crispus,Dalmatian pelican,9550,,,,35.3
+erythrorhynchos,American white pelican,6129,1095,36,2,54
+occidentalis,Brown pelican,3115.8,730,29,3,43
+onocrotalus,Great white pelican,9520,,,,51
+carunculata,Wattled ibis,,,,,12
+hagedash,Hadada ibis,1238,,,,16
+albus,White ibis,940,730,22,3,27.6
+ruber,Scarlet ibis,615,,23,2,33.2
+calvus,Bald ibis,,,,,15.3
+eremita,Northern bald ibis,1202,,,,32.9
+nippon,Crested ibis,1900,,,,25.8
+infuscatus,Whispering ibis,559,,,,20
+ajaja,Roseate spoonbill,1036.97,1095,23,3,28
+alba,African spoonbill,1521,,,,17.9
+flavipes,Yellow-billed spoonbill,1747.5,,,,28.6
+leucorodia,Eurasian spoonbill,1868,1095,,,30.1
+minor,Black-faced spoonbill,1228,,,,15
+chihi,White-faced ibis,487.5,730,21,3.5,20.4
+falcinellus,Glossy ibis,431.2,1095,21,3,26.8
+ridgwayi,Puna ibis,584,,,,18
+papillosa,Black ibis,,,,,30
+caudatus,Buff-necked ibis,1726,,,,22
+melanopis,Black-faced ibis,,,,,34.5
+aethiopicus,Sacred ibis,1530,,,,37
+melanocephalus,Black-headed ibis,,,,,28.2
+molucca,Australian ibis,1806,,,,33.2
+spinicollis,Straw-necked ibis,1351.5,,,,39.4
+aethereus,Red-billed tropicbird,750,,44,1,17.6
+rubricauda,Red-tailed tropicbird,593.2,274,45,1,32.7
+minor,Lesser flamingo,1500,,,,41
+chilensis,Chilean flamingo,2277,,,,36.7
+roseus,Greater flamingo,2500,1825,30,1,44
+auratus,Northern flicker,120,365,11,4,12.5
+leucotos,White-backed woodpecker,117,,,,15.9
+major,Great spotted woodpecker,75.1,365,,,12.7
+medius,Middle spotted woodpecker,59,365,,,8
+minor,Lesser spotted woodpecker,19.8,365,,,9.8
+syriacus,Syrian woodpecker,76.8,,,,10.9
+martius,Black woodpecker,321,365,,,14
+pileatus,Pileated woodpecker,364,365,18,4,13
+torquilla,Eurasian wryneck,35,365,,,10
+carolinus,Red-bellied woodpecker,72.5,365,12,4,20.7
+erythrocephalus,Red-headed woodpecker,75,365,14,5,10
+formicivorus,Acorn woodpecker,79.7,766,14,4,17.2
+uropygialis,Gila woodpecker,65,,14,4,11
+borealis,Red-cockaded woodpecker,56,240,11,3,16.1
+nuttallii,Nuttall's woodpecker,37.4,,,,7.8
+pubescens,Downy woodpecker,25.6,365,12,5,11.9
+tridactylus,Eurasian three-toed woodpecker and three-toed woodpecker,65.7,,,,11.2
+villosus,Hairy woodpecker,62,365,14,4,15.9
+viridis,Eurasian green woodpecker,176,365,,,15.2
+nuchalis,Red-naped sapsucker,48.5,,,,4.9
+ruber,Red-breasted sapsucker,55,,,,4.8
+varius,Yellow-bellied sapsucker,45,365,12,5,7.8
+toco,Toco toucan,540,,16,,16.2
+occidentalis,Western grebe,1475.5,365,23,3,14
+cristatus,Great crested grebe,738.7,730,,,19.2
+grisegena,Red-necked grebe,1100,365,22,4.5,11
+nigricollis,Eared grebe,392,730,21,3,13.1
+ruficollis,Little grebe,174,365,,,17.5
+epomophora,Royal albatross,9000,,,,58
+exulans,Wandering albatross,7046.7,,,,50
+immutabilis,Laysan albatross,3150,3068,64,1,65
+irrorata,Waved albatross,3395,,,,40
+nigripes,Black-footed albatross,2800,1825,65,1,42.1
+chlororhynchos,Yellow-nosed albatross,3890,,,,37
+chrysostoma,Grey-headed albatross,3753,,,,47.2
+melanophris,Black-browed albatross,3232,,,,43.7
+pelagicus,European storm petrel,25.2,1095,35,1,33.8
+castro,Harcourt's storm petrel,42,1826,42,1,36
+furcata,Fork-tailed storm petrel,45.2,1095,52,1,18
+homochroa,Ashy storm-petrel,36.9,,,,31
+leucorhoa,Leach's storm petrel,44.6,1826,41,1,36
+bulwerii,Bulwer's petrel,99,1461,44,1,22.9
+diomedea,Cory's shearwater,535,1095,,,24.8
+capense,Cape petrel,408.6,,,,25
+glacialis,Northern fulmar,908,2200,55,1,51
+glacialoides,Southern fulmar,795,,,,45
+giganteus,Southern giant petrel,3697.5,,,,47
+nivea,Snow petrel,268,,,,46
+parkinsoni,Black petrel,702.5,,,,17
+alba,Phoenix petrel,259,,,,11.3
+hypoleuca,Bonin Island petrel,168.6,,49,1,30.8
+leucoptera,Gould's petrel,147.5,,,,20
+sandwichensis,Hawaiian petrel,434,,,,13.1
+carneipes,Flesh-footed shearwater,690,,,,30.2
+griseus,Sooty shearwater,740,,,,34
+pacificus,Wedge-tailed shearwater,337.8,1461,53,1,29
+puffinus,Manx shearwater,434,1643,51,1,50.9
+tenuirostris,Short-tailed shearwater,499.4,,53,1,39.9
+fischeri,Fischer's lovebird,48.3,,,,12.6
+lilianae,Nyasa loverbird,37.3,,,,19.2
+pullarius,Red-headed lovebird,43,,,,18
+taranta,Black-winged lovebird,57.5,,,,14.6
+scapularis,Australian king parrot,232.5,,,,26.6
+aestiva,Blue-fronted amazon,451,,,,49
+albifrons,White-fronted parrot,215,,,,25.3
+amazonica,Orange-winged amazon,370,,,,30
+auropalliata,Yellow-naped parrot,,,,,49
+autumnalis,Red-lored parrot,416,,,,27
+festiva,Festive amazon,430,,,,24.5
+finschi,Lilac-crowned parrot,302,,,,25.8
+guildingii,St. Vincent parrot,646,,,,28
+ochrocephala,Yellow-crowned parrot,430,,,,56
+rhodocorytha,Red-browed parrot,,,,,44
+hyacinthinus,Hyacinth macaw,1330,,,,38.8
+leari,Lear's macaw,940,,,,38.3
+erythropterus,Red-winged parrot,136,,,,24.4
+ambiguus,Great green macaw,1300,,,,29
+ararauna,Blue-and-yellow macaw,1030,,,,43
+chloropterus,Red-and-green macaw,1220,,28,2.5,50.1
+glaucogularis,Blue-throated macaw,784,,,,22
+macao,Scarlet macaw,1040,,,,33
+militaris,Military macaw,1134,,,,46
+rubrogenys,Red-fronted macaw,470,,,,23
+severus,Chestnut-fronted macaw,343,,,,28.5
+acuticaudata,Blue-crowned parakeet,171,,,,31
+auricapillus,Golden-capped parakeet,130,,,,20.9
+canicularis,Orange-fronted parakeet,85,,,,16.2
+erythrogenys,Red-masked parakeet,151,,,,26.2
+holochlora,Green parakeet,138,,,,21.8
+zonarius,Port Lincoln ringneck,150,,,,17.9
+orbygnesius,Andean parakeet,43.1,,,,9.2
+chiriri,Yellow-chevroned parakeet,61.6,,26,5,19
+pyrrhoptera,Grey-cheeked parakeet,64,,,,11.3
+sanctithomae,Tui parakeet,59,,,,13.2
+tirica,Plain parakeet,63,,,,11
+versicolurus,Canary-winged parakeet,71.6,730,25,5,10.3
+alba,White cockatoo,570,2000,30,2,26.9
+ducorpsii,Ducorps's cockatoo,394,,,,30.5
+galerita,Sulphur-crested cockatoo,800,,27,2,57
+goffiniana,Tanimbar cockatoo,275,,,,26
+haematuropygia,Philippine cockatoo,288,,,,17.3
+leadbeateri,Pink cockatoo,390,,,,83
+moluccensis,Salmon-crested cockatoo,830,,,,65.8
+ophthalmica,Blue-eyed cockatoo,492,,,,31.9
+pastinator,Western corella,637,,,,26.3
+sanguinea,Little corella,350,,,,46.9
+sulphurea,Yellow-crested cockatoo,340,,,,49.7
+tenuirostris,Long-billed corella,567,,,,43
+fimbriatum,Gang-gang cockatoo,256,,,,27.5
+banksii,Banksian cockatoo,723.7,,,,45.4
+baudinii,Long-billed black cockatoo,620,,,,47
+funereus,Yellow-tailed black cockatoo,678.5,,,,41
+atra,Black lory,260,,,,17.5
+sintillata,Yellow-streaked lory,190,,,,19.7
+papou,Papuan lorikeet,83,,,,11.3
+carolinensis,Carolina parakeet,100,,22,2.5,30
+nigra,Black parrot,193.5,,,,34.1
+vasa,Vasa parrot,525,,,,53.9
+patagonus,Patagonian conure,278,,,,19.5
+spixii,Spix's macaw,200,,,,27
+auriceps,Yellow-fronted parakeet,46,,,,9.3
+novaezelandiae,Red-fronted parakeet,92.6,,,,12.4
+accipitrinus,Red-fan parrot,246,,,,21.8
+nobilis,Red-shouldered macaw,151,,,,22.9
+roratus,Eclectus parrot,440,,,,28.5
+leptorhynchus,Slender-billed parakeet,193,,,,15.3
+roseicapilla,Galah,300,,,,40
+bornea,Red lory,156,,,,24.7
+cyanogenia,Black-winged lory,167,,,,18.1
+histrio,Red-and-blue lory,,,,,15.2
+reticulata,Blue-streaked lory,,,,,16.6
+squamata,Violet-necked lory,,,,,16.5
+cornutus,Horned parakeet,130,,,,19.7
+coelestis,Pacific parrotlet,26.2,,,,10.4
+cyanopygius,Mexican parrotlet,33.5,,,,10.5
+passerinus,Green-rumped parrotlet,24,,,,11.6
+xanthops,Yellow-faced parrotlet,,,,,10.5
+concinna,Musk lorikeet,70.8,,,,11.5
+porphyrocephala,Purple-crowned lorikeet,44,,,,12
+brachyurus,Short-tailed parrot,159,,,,13.2
+guarouba,Golden conure,250,,,,23.2
+galgulus,Blue-crowned hanging parrot,28,,,,14.3
+philippensis,Colasisi,34.9,,,,10.1
+vernalis,Vernal hanging parrot,35.7,,,,10.1
+domicella,Purple-naped lory,182,,,,26
+garrulus,Chattering lory,143,,,,26.6
+lory,Black-capped lory,177,,,,18.5
+undulatus,Budgerigar,30,180,18,5,21
+monachus,Monk parakeet,81.7,730,31,7,22.1
+nenday,Nanday parakeet,128,,,,18.7
+chrysostoma,Blue-winged parrot,46.1,,,,21
+pulchella,Turquoise parrot,41.4,,,,21
+splendida,Scarlet-chested parrot,38.6,,,,14
+bourkii,Bourke's parrot,45,,,,12.6
+notabilis,Kea,867.5,,,,47
+haematogaster,Bluebonnet,86.2,,,,15.3
+hollandicus,Cockatiel,90,,,,35
+leucogaster,White-bellied parrot,155,,,,26
+melanocephalus,Black-headed parrot,149,,,,22.6
+pileata,Pileated parrot,119,,,,16.8
+maximiliani,Scaly-headed parrot,293,,,,16.2
+menstruus,Blue-headed parrot,251,,,,20.6
+elegans,Crimson rosella,124.5,,,,26.8
+eximius,Eastern rosella,104,,,,27.4
+icterotis,Western rosella,63.3,,,,13.2
+venustus,Northern rosella,89.5,,,,19.1
+cryptoxanthus,Brown-headed parrot,140,,,,32.1
+gulielmi,Red-fronted parrot,275,,,,21
+meyeri,Brown parrot,117.5,,,,34.2
+robustus,Brown-necked parrot,344,,,,29.7
+rueppellii,Ruppel's parrot,116,,,,34.3
+rufiventris,Red-bellied parrot,120,,,,33.4
+senegalus,Senegal parrot,155,,,,40
+alexandrae,Alexandra's parrot,104,,,,23.9
+anthopeplus,Regent parrot,170,,,,13.8
+swainsonii,Superb parrot,153,,,,15.1
+maracana,Blue-winged macaw,256,,,,31
+aterrimus,Palm cockatoo,841,,,,56.3
+personata,Masked shining parrot,,,,,11.8
+splendens,Crimson shining parrot,,,,,20.1
+dissimilis,Hooded parrot,55,,,,18
+haematonotus,Red-rumped parrot,61.4,,,,12.2
+varius,Mulga parrot,61.5,,,,11.8
+fuscata,Dusky lory,149,,,,13.4
+aymara,Grey-hooded parakeet,30,,,,8.5
+alexandri,Red-breasted parakeet,147,,,,23.3
+calthropae,Layard's parakeet,,,,,14
+cyanocephala,Plum-headed parakeet,66,,,,18.8
+eupatria,Alexandrine parakeet,255,,,,30
+krameri,Rose-ringed parakeet,128,,,,34
+desmarestii,Large fig parrot,117,,,,14.9
+edwardsii,Edward's fig parrot,,,,,12
+salvadorii,Salvadori's fig parrot,118,,,,12
+erithacus,Grey parrot,333,,,,49.7
+iris,Iris lorikeet,,,,,24.1
+cyanurus,Blue-rumped parrot,,,,,10.2
+fulgidus,Pesquet's parrot,865,,,,25
+spurius,Red-capped parrot,116,,,,15.3
+leucotis,White-eared conure,,,,,18.5
+perlata,Crimson-bellied parakeet,87,,,,14.3
+pachyrhyncha,Thick-billed parrot,360,730,26,3,33
+habroptila,Kakapo,1750,1825,30,2.5,60
+megalorynchos,Great-billed parrot,325,,,,23
+sumatranus,Blue-backed parrot,270.5,,,,14.4
+euteles,Olive-headed lorikeet,73.7,,,,16
+haematodus,Rainbow lorikeet,115.1,,,,16.1
+johnstoniae,Mindanao lorikeet,55.2,,,,17.8
+ornatus,Ornate lorikeet,,,,,19.4
+malachitacea,Blue-bellied parrot,90,,,,11.9
+australis,Blue-crowned lorikeet,,,,,13.6
+peruviana,Blue lorikeet,29,,,,18.4
+patagonicus,King penguin,13036.8,,,,26
+minor,Little penguin,1105,,39,,25.6
+demersus,Jackass penguin,3135,,,,27.3
+magellanicus,Magellanic penguin,4000,1040,40,1,30
+acadicus,Northern saw-whet owl,117.9,365,27,5.5,17.5
+funereus,Boreal owl,120,365,27,5,15.9
+flammeus,Short-eared owl,406,365,25,6,21.8
+otus,Long-eared owl,249.7,365,27,4.5,27.8
+cunicularia,Burrowing owl,150,365,28,8,11
+noctua,Little owl,169,365,,,11.1
+bubo,Eurasian eagle-owl,2686,730,,,68
+scandiacus,Snowy owl,2042.5,730,32,6,28
+virginianus,Great horned owl,1191.2,730,27,3,29
+passerinum,Eurasian pygmy-owl,65.5,365,,,6
+asio,Eastern screech-owl,164.1,365,29,4,20.7
+kennicottii,Western screech-owl,205,365,30,4,19
+whitneyi,Elf owl,41,,24,2,14
+flammeolus,Flammulated owl,55.5,365,22,3,8.1
+scops,Common or Eurasian scops-owl,92,365,,,6.8
+perspicillata,Spectacled owl,770,,36,2,25
+aluco,Tawny owl,520,365,,,22.4
+nebulosa,Great grey owl,1120,365,30,2,15.9
+occidentalis,Spotted owl,588.7,365,30,2,25
+uralensis,Ural owl,784.5,365,,,23.8
+varia,Barred owl,715,730,28,2,24
+ulula,Northern hawk-owl,320,,27,7,16.2
+alba,Barn owl,580,365,33,6,34
+camelus,Ostrich,111000,,,,50
+anhinga,Anhinga,1080,730,28,4,16.4
+melanogaster,Darter,1486.6,,,,16
+andrewsi,Christmas Island frigatebird,1550,,,,25.6
+ariel,Lesser frigatebird,806,,,,27.6
+magnificens,Magnificent frigatebird,1078,1826,56,1,34
+minor,Great frigatebird,1400,1826,56,1,43
+aristotelis,European shag,1773,1095,,,30.6
+auritus,Double-crested cormorant,1817,730,24,4,22.5
+brasilianus,Neotropic cormorant,1550,365,26,3.5,12.6
+carbo,Great cormorant,3628.8,1460,30,4,27.2
+pelagicus,Pelagic cormorant,2041.2,730,22,4,17.8
+penicillatus,Brandt's cormorant,2426,730,30,3,18
+bassanus,Northern gannet,2950,1095,43,1,37.4
+serrator,Australasian gannet,2350,,,,33
+dactylatra,Masked booby,1739.2,1461,43,1.5,25.5
+granti,Nazca booby,1754,,,,21
+leucogaster,Brown booby,1134,1278,41,2,27.2
+nebouxii,Blue-footed booby,1530,,41,2,18
+sula,Red-footed booby,1017,730,44,1,23
+solitarius,Solitary tinamou,1390.5,,,,15
+wagneri,Volga lamprey,113.3,,,,4
+tridentatus,Pacific lamprey,275,,,,9
+danfordi,Carpathian lamprey,,,,,8
+mariae,Ukrainian brook lamprey,,,,,8
+castaneus,Chestnut lamprey,,,,,8
+greeleyi,Mountain brook lamprey,,,,,6
+unicuspis,Silver lamprey,,,,,8
+aepyptera,Least brook lamprey,,,,,8
+fluviatilis,European river lamprey,82.5,2250,,,10
+planeri,European brook lamprey,,1916,,,7
+appendix,American brook lamprey,,,,,5
+camtschaticum,Arctic lamprey,,1642,,,7
+kessleri,Siberian brook lamprey,,,,,7
+reissneri,Far eastern brook lamprey,,,,,4
+zanandreai,Po brook lamprey,,1916,,,6
+marinus,Sea lamprey,1375,3193,,,9
+acronotus,Blacknose shark,10395,1003,,3.9,19
+amblyrhynchos,Grey reef shark,18535,,,4.1,25
+brachyurus,Copper shark,167530,5840,,16.6,34.5
+brevipinna,Spinner shark,49335,,,8.5,19
+cautus,Nervous shark,,,,4.2,16.4
+falciformis,Silky shark,190300,2646,,6.5,23
+galapagensis,Galapagos shark,47025,2555,,8.7,24
+isodon,Finetooth shark,,1423,,4,8
+leucas,Bull shark,174075,6296,,9.8,32
+limbatus,Blacktip shark,67540,,,4.6,12
+longimanus,Oceanic whitetip shark,92070,,,6.1,22
+obscurus,Dusky shark,190575,7391,,10,35
+plumbeus,Sandbar shark,65000,5231,,7.9,32
+porosus,Smalltail shark,,2190,,4.5,24
+signatus,Night shark,42185,,,11.1,31.7
+sorrah,Spot-tail shark,15400,,,3.1,8
+tilstoni,Australian blacktip shark,28600,1277,,3,12
+cuvier,Tiger shark,444070,1825,,31.5,50
+brevirostris,Lemon shark,101035,,,7.4,20
+glauca,Blue shark,113245,,,30,20
+acutus,Milk shark,2750,,,,8
+taylori,Australian sharpnose shark,,,,4.5,7
+terraenovae,Atlantic sharpnose shark,3987.5,803,,4.4,10.2
+laticaudus,Spadenose shark,,,,,6
+obesus,Whitetip reef shark,10065,,,,25
+canicula,Small-spotted catshark,726,1642,,45.5,12
+stellaris,Nursehound,,,,,19
+lewini,Scalloped hammerhead,83820,1387,,20.1,35
+tiburo,Bonnethead shark,5940,857,,10,6.5
+macki,Whiskery skark,7095,1642,,19,11.5
+galeus,Tope shark,24585,,,24.9,55
+japanica,Japanese topeshark,,,,,15
+antarcticus,Gummy shark,16940,1715,,16,16
+californicus,Gray smoothhound,,584,,9.5,9
+canis,Dusky smooth-hound,6710,748,,9.5,16
+griseus,Spotless smooth-hound,,2190,,,9
+henlei,Brown smoothhound,,1131,,4.5,13
+lenticulatus,Spotted estuary smooth-hound,,1435,,10.7,19.5
+manazo,Starspotted smooth-hound,3146,772,,7.5,10
+mustelus,Smooth-hound,,2737,,11.5,24
+semifasciata,Leopard shark,10110,2555,,15,30
+capensis,Cape elephantfish,2887.5,1204,,22,12
+milii,Elephant fish,,1095,,13,6
+monstrosa,Rabbitfish,1375,,,22,29.4
+francisci,Horn shark,,,,,12
+galeatus,Crested bullhead shark,,,,,12
+cepedianus,Bluntnose sevengill shark,58850,5840,,88.5,49
+pelagicus,Pelagic thresher shark,,2737,,2,29
+superciliosus,Bigeye thresher,200090,3650,,2,21
+maximus,Basking shark,2200000,2920,,,32
+carcharias,Great white shark,1870000,3285,,6,50
+oxyrinchus,Shortfin mako,278190,,,12.5,25
+ditropis,Salmon shark,96250,,,4.5,20
+nasus,Porbeagle,126500,,,4,30
+taurus,Sand tiger shark,87340,1642,,2,12
+americana,Southern stingray,74580,,,4.2,18
+chrysonota,Blue stingray,,,,6.2,10
+dipterura,Diamond stingray,,,,2,28
+pastinaca,Common stingray,,,,6.2,21
+violacea,Pelagic stingray,,,,4.5,24
+birostris,Giant manta,1650000,,,,20
+flagellum,Longheaded eagle ray,7645,,,3.5,16
+californica,Bat ray,45155,1095,,3.8,24
+bonasus,Cownose ray,,,,1.1,15.5
+mucosa,Western shovelnose stingaree,,,,1.1,16
+personata,Masked stingaree,,,,1.2,14
+lobatus,Lobed stingaree,,,,1.3,14
+paucimaculatus,Sparsely-spotted stingaree,,,,2.5,12
+cirratum,Nurse shark,60280,,,,25
+plagiosum,Whitespotted bambooshark,,,,,25
+typus,Whale shark,18700000,6935,,300,54
+perotteti,Largetooth sawfish,325050,,,7.3,30
+albomaculata,White-dotted skate,,,,57,17
+parmifera,Alaska skate,10010,2920,,,17
+trachura,Roughtail skate,,,,,17
+radiata,Thorny skate,2337.5,1460,,31,16
+batis,Common skate,53405,4015,,40,50
+chilensis,Beaked skate,,,,48.2,22.5
+innominatus,New Zealand smooth skate,,2920,,38,24
+nasutus,New Zealand rough skate,,1460,,32,9
+pullopunctatus,Slime skate,,,,50,18
+trachyderma,Roughskin skate,,,,40,26
+erinacea,Little skate,,1551,,30,8
+naevus,Sandy ray,,3102,,90,14
+ocellata,Winter skate,,,,35,21
+senta,Smooth skate,,,,,14
+asterias,Starry skate,,,,73,6.3
+binoculata,Big skate,50050,,,1260,26
+brachyura,Blonde ray,7865,,,90,8
+clavata,Thornback ray,9900,3650,,142,12
+microocellata,Painted ray,2475,,,57.5,9
+miraletus,Brown ray,,,,61,8.2
+rhina,Longnose skate,,,,82,26
+texana,Roundel skate,,,,,9
+undulata,Undulate ray,,,,,13
+horkelii,Brazilian guitarfish,,,,6,28
+productus,Shovelnose guitarfish,5362.5,2920,,9,16
+acus,Needle dogfish,,,,5,20
+granulosus,Gulper shark,,,,1,25
+squamosus,Leafscale gulper shark,,,,8.1,70
+calcea,Birdbeak dogfish,,,,13,35
+licha,Kitefin shark,,,,12,18.4
+baxteri,Giant lanternshark,,,,11,57
+spinax,Velvet belly,467.5,,,6.8,7
+crepidater,Longnose velvet dogfish,,,,6,57
+microcephalus,Greenland shark,,,,,392
+acanthias,Spur dogfish,5005,3163,,8,75
+blainville,Longnose spurdog,,,,4,15
+megalops,Shortnose spurdog,,,,3,75
+mitsukurii,Shortspine dogfish,,,,3.6,27
+argentina,Argentine angelfish,,,,5.5,12
+californica,Pacific angel shark,,,,6,35
+occulta,Hidden angel shark,,,,6.5,21
+californica,Pacific electric ray,,,,17,16
+marmorata,Marbled electric ray,1650,,,11,20
+torpedo,Eyed electric ray,,,,3.4,10
+brevirostrum,Shortnose sturgeon,9325,,13,120000,67
+dabryanus,Yangtze sturgeon,,,,,100
+fulvescens,Lake sturgeon,70000,2920,6,350000,152
+gueldenstaedtii,Russian sturgeon,63250,4380,,,46
+oxyrinchus,Atlantic sturgeon,202400,,,,60
+ruthenus,Sterlet,8800,1460,,,46.1
+schrenckii,Amur sturgeon,104500,3285,,,60
+stellatus,Star sturgeon,44000,2190,,,27
+sturio,European sturgeon,220000,3467,,,100
+transmontanus,White sturgeon,448800,6022,,,104
+dauricus,Kaluga,550000,6387,,,55
+huso,Beluga sturgeon,1139600,4745,,,118
+hermanni,Little shovelnose sturgeon,27.775,,,,6
+spathula,Mississippi paddlefish,49885,2190,,,55
+senegalus,Gray bichir,,,,,34
+chalumnae,Coelacanth,52250,,,,48
+forsteri,Australian lungfish,,,,,80
+paradoxa,South American lungfish,,,,,8.3
+annectens,African lungfish,,,,,18
+calva,Bowfin,5362.5,1460,,,30
+oculatus,Spotted gar,2442,,,,18
+osseus,Longnose gar,12540,1277,,,36
+platostomus,Shortnose gar,1430,,,,20
+telfairi,Lesser hedgehog tenrec,180,365,55,6,19
+semispinosus,Streaked tenrec,180,,59,4,2.7
+dobsoni,Dobson's shrew tenrec,37.8,669,61,2.67,5.6
+talazaci,Talazac's shrew tenrec,50,639,61,2,5.8
+setosus,Greater hedgehog tenrec,225,258,54,3,14.1
+ecaudatus,Tenrec,900,,58,18,8.7
+americana,Pronghorn,46100,547,235,2,15.5
+nasomaculatus,Addax,92500,,282,1,28
+melampus,Impala,52500,395,198,1,25.6
+buselaphus,Hartebeest,159000,,247,1,22.5
+lervia,Aoudad,92500,,149,1.2,21.7
+marsupialis,Springbok,39000,400,168,1,19.8
+cervicapra,Blackbuck,37500,,168,1,23.9
+bison,American bison,630000,912,274,1,33.5
+bonasus,European bison,610000,730,270,1,26.4
+frontalis,Gaur,825000,550,275,1,26.2
+grunniens,Yak,667000,738,274,1,26.3
+javanicus,Banteng,700000,,295,1,27.1
+taurus,Domestic cattle,750000,,277,1,20
+tragocamelus,Nilgai,180000,,255,1.5,21.7
+bubalis,Water buffalo,725000,,311,1.375,34.9
+depressicornis,Anoa,155000,730,300,1,36.1
+quarlesi,Mountain anoa,150000,,295,1,29.2
+taxicolor,Takin,180000,730,210,1,21.9
+caucasica,West Caucasian tur,70000,,157,1,19.3
+cylindricornis,East Caucasian tur,50000,914,161,1.2,20.2
+falconeri,Markhor,41000,,163,2,19.1
+hircus,Domestic goat,61000,685,155,1.5,20.8
+ibex,Ibex,82500,1256,169,1.1,20.9
+nubiana,Nubian ibex,46250,,150,1,22.4
+sibirica,Siberian ibex,130000,,175,,22.3
+crispus,Japanese serow,80000,1095,215,1,24
+sumatraensis,Serow,95000,1004,213,1,18.5
+dorsalis,Bay duiker,11600,,236,1,17.5
+jentinki,Jentink's duiker,70000.3,,,1,21
+natalensis,Natal duiker,10000,,213,1,15.2
+niger,Black duiker,18100,,128,1,14.8
+nigrifrons,Black-fronted duiker,13900,,,,17.9
+rufilatus,Red-flanked duiker,13000,270,230,1,15.2
+silvicultor,Yellow-backed duiker,62000,,165,1,22.5
+weynsi,Weyns's duiker,,,,,15.2
+gnou,Black wildebeest,132250,,259,1,21.8
+taurinus,Blue wildebeest,164500,912,253,1,24.3
+lunatus,Topi,110000,,238,1,23.6
+pygargus,Sassaby or blesbok,84500,,243,1.2,23
+rufifrons,Red-fronted gazelle,15011,,175,1,14.5
+thomsonii,Thomson's gazelle,25000,,170,1,20
+cuvieri,Cuvier's gazelle,17500,180,171,1.5,17.9
+dorcas,Dorcas gazelle,14500,589,182,1,23.7
+gazella,Mountain gazelle,23250,,180,1,18.3
+leptoceros,Rhim gazelle,48500,,176,1,14.6
+subgutturosa,Goitered gazelle,48500,746,175,1.3,16.3
+hylocrius,Nilgiri tahr,75000,,188,1.3,17.3
+jemlahicus,Himalayan tahr,35200,730,183,1,21.8
+equinus,Roan antelope,225000,814,284,1,25.9
+niger,Sable antelope,225000,1184,271,1,22.2
+ellipsiprymnus,Waterbuck,175333,,264,1,30
+kob,Kob,105000,365,251,1,21.9
+leche,Lechwe,94800,1050,229,1,25.4
+megaceros,Nile lechwe,90000,730,235,1,21.1
+walleri,Gerenuk,43500,,204,1,17.3
+guentheri,Gunther's dik-dik,4550,,178,1,17.5
+kirkii,Kirk's dik-dik,5000,304,172,1,17.3
+baileyi,Red goral,28863,,213,1.5,19
+caudatus,Chinese goral,27000,,,,20.3
+goral,Goral,31750,500,215,1,17.6
+dama,Dama gazelle,73000,,208,1,19.3
+granti,Grant's gazelle,67000,,196,1,19.7
+soemmerringii,Soemmering's gazelle,48500,,190,1,15.5
+moschatus,Suni,6500,183,180,1,13.5
+pygmaeus,Royal antelope,2250,,183,1,11.1
+americanus,Mountain goat,90000,912,184,1.2,20.8
+oreotragus,Klipspringer,12000,365,196,1,25.9
+dammah,Scimitar-horned oryx,177500,,247,1,27.5
+gazella,Gemsbok,170000,550,270,1,23.8
+leucoryx,Arabian oryx,121350,,243,1,20.8
+ourebi,Oribi,17000,426,193,1,15.9
+moschatus,Muskox,315000,1278,258,1,27.4
+ammon,Argali,160000,823,170,1,16.8
+aries,Domestic sheep or mouflon,80000,914,146,1.58,22.8
+canadensis,Bighorn sheep,70275,749,180,1,20.6
+dalli,Dall's sheep,73100,639,173,1,19.6
+maxwellii,Maxwell's duiker,7000,,120,1,18.3
+monticola,Blue duiker,6250,685,193,1,15.9
+gutturosa,Mongolian gazelle,30000,,185,1.3,12
+nayaur,Bharal,55000,,160,1.5,20.9
+campestris,Steenbok,13000,243,197,1,9.3
+arundinum,Southern reedbuck,58000,,224,1,16.8
+fulvorufula,Mountain reedbuck,30000,335,216,1,15
+rupicapra,Chamois,37500,669,122,1,17.6
+grimmia,Bush duiker,18500,255,165,1,15.4
+caffer,African buffalo,700000,1674,331,1,32.8
+derbianus,Giant eland,680000,,264,1,20.3
+oryx,Eland,500000,571,274,1,26.1
+quadricornis,Four-horned antelope,19000,,212,1.5,17.4
+angasii,Nyala,120000,,224,1,18.5
+eurycerus,Bongo,307500,914,288,1,21.9
+imberbis,Lesser kudu,82500,504,235,1,19.8
+scriptus,Bushbuck,60000,,188,1,15.3
+spekii,Sitatunga,87500,,242,1,22.6
+strepsiceros,Greater kudu,217500,,228,1,23.5
+bactrianus,Bactrian camel,475000,1278,395,1,35.4
+dromedarius,Dromedary,434000,2191,405,1,28.4
+glama,Llama,140000,800,330,1,28.9
+guanicoe,Guanaco,127500,730,335,1,33.7
+pacos,Alpaca,62000,500,345,1.04,25.8
+vicugna,Vicugna,50000,730,340,1,31.6
+axis,Chital,36000,913,226,1.03,20.8
+calamianensis,Calamian deer,40500,,224,2,17.2
+kuhlii,Bawean deer,55000,,227,1.2,17.8
+porcinus,Hog deer,43000,,232,1,22.9
+capreolus,Western roe deer,21666.7,655,153,1.6,17.5
+elaphus,Red deer,200000,730,245,1,31.5
+nippon,Sika deer,42000,500,210,1,26.3
+dama,Fallow deer,70000,507,233,1,21.1
+cephalophus,Tufted deer,33500,730,180,1,22.7
+davidianus,Pere David's deer,186500,1186,288,1,27.5
+inermis,Chinese water deer,11500,,190,2.7,13.9
+americana,Red brocket,33000,365,225,1.3,17.1
+gouazoubira,Gray brocket,17000,365,212,1,14.8
+muntjak,Indian muntjac,21000,332,210,1.17,18.8
+reevesi,Reeves's muntjac,18000,,199,1,23.2
+hemionus,Mule deer,57000,503,207,1.5,22
+virginianus,White-tailed deer,87000,417,198,2,23
+bezoarticus,Pampas deer,32500,,213,1,21.9
+albirostre,Thorold's deer,135000,,253,1,21.3
+puda,Southern pudu,10000,320,200,1,18.3
+tarandus,Caribou and reindeer,101250,680,228,1,21.8
+duvaucelii,Barasingha,170000,,250,1,24.5
+eldii,Eld's deer,122500,,241,1,20.5
+alfredi,Visayan spotted deer,46475,,243,,18.5
+timorensis,Timor deer,63000,,251,1,21.1
+unicolor,Sambar,185000,,232,1,26.4
+camelopardalis,Giraffe,800000,1644,457,1,39.5
+johnstoni,Okapi,225000,790,458,1,33.5
+liberiensis,Pygmy hippopotamus,215000,1644,199,1,42.3
+amphibius,Hippopotamus,3750000,1279,234,1,61.2
+babyrussa,Babirusa,71500,548,153,1.3,22.9
+africanus,Wart hog,100000,578,164,3,20.9
+porcus,Red river hog,88000,1096,122,3,22
+barbatus,Bearded pig,102750,,122,4,16.2
+salvanius,Pygmy hog,8000,700,108,3,14
+scrofa,Wild boar,130000,768,115,7,27
+verrucosus,Javan pig,76000,,120,6,17
+tajacu,Collared peccary,20200,358,145,2,31.5
+pecari,White-lipped peccary,22000,548,158,2,28.5
+meminna,Indian spotted chevrotain,2450,,150,1.5,14.5
+javanicus,Lesser mouse-deer,2850,167,144,1,14
+napu,Greater mouse-deer,6500,135,153,1,16.7
+fulgens,Red panda,4325,550,116,2,19
+microtis,Short-eared dog,9500,,,,11.9
+adustus,Side-striped jackal,10250,274,64,4,13.7
+aureus,Golden jackal,11000,334,63,3,18.8
+familiaris,Domestic dog,40000,510,63,6,24
+latrans,Coyote,13250,274,63,6,21.8
+lupus,Gray wolf,26625,669,62,6,20.6
+mesomelas,Black-backed jackal,10250,251,60,4,16.7
+thous,Crab-eating fox,6500,274,55,4,12.7
+brachyurus,Maned wolf,21500,,64,3,16.8
+alpinus,Dhole,15750,365,61,5,16.1
+culpaeus,Culpeo,13000,,61,4,13.1
+griseus,Argentinian gray fox,3990,,56,4.2,10.9
+gymnocercus,Pampas fox,8500,,57,4,13.7
+sechurae,Sechuran fox,4000,,,,9.9
+vetulus,Hoary fox,5350,,,3,12.6
+pictus,African wild dog,26500,639,72,8,17
+procyonoides,Raccoon dog,6500,304,61,6,16.6
+megalotis,Bat-eared fox,4150,,68,4,17
+venaticus,Bush dog,6000,365,68,4,14.1
+cinereoargenteus,Gray fox,4750,365,57,4,16.2
+corsac,Corsac fox,2700,,53,4.7,13
+lagopus,Arctic fox,5200,304,52,9,16.3
+macrotis,Kit fox,2500,,54,4,15.8
+pallida,Pale fox,2800,,52,4,16
+rueppellii,Ruppell's sand fox,3200,,,2,14.3
+velox,Swift fox,2400,365,55,4.5,15.9
+vulpes,Red fox,4131.7,304,52,5,21.3
+zerda,Fennec,1250,274,51,2.2,16.3
+ferox,Fossa,9500,,90,3,23.1
+fossana,Malagasy civet,1540,,82,1,21.4
+elegans,Ring-tailed mongoose,800,,72,1,26
+jubatus,Cheetah,53500,456,88,3,20.5
+caracal,Caracal,16000,456,74,3,20.3
+temminckii,Asiatic golden cat,13500,,95,1,23
+catus,Domestic cat,3900,,65,4,30
+chaus,Jungle cat,10000,,60,3,20
+manul,Pallas' cat,3500,,72,4.1,15.9
+margarita,Sand cat,2750,,67,4.5,13.9
+nigripes,Black-footed cat,2125,434,66,2,15.6
+silvestris,Wild cat,5500,304,64,3.7,19
+colocolo,Colocolo,2950,,,2.5,19.6
+geoffroyi,Geoffroy's cat,4000,,75,2,23
+pardalis,Ocelot,8800,600,77,2,28.2
+tigrinus,Little spotted cat,2250,,75,1.5,21.9
+wiedii,Margay,3666.7,,81,1.5,24
+serval,Serval,13350,,70,2.5,22.4
+canadensis,Canada lynx,10100,573,63,3.5,26.8
+lynx,Eurasian lynx,23000,1004,66,2,23.7
+rufus,Bobcat,8600,730,65,3,32.3
+nebulosa,Clouded leopard,19500,1095,89,2,19.8
+leo,Lion,175000,1095,109,3,27
+onca,Jaguar,81150,730,99,2,28
+pardus,Leopard,53750,771,97,2,27.3
+tigris,Tiger,119700,1415,105,2.5,26.3
+bengalensis,Leopard cat,5000,,62,2.5,17
+planiceps,Flat-headed cat,6750,,56,,14
+rubiginosus,Rusty-spotted cat,1350,,68,2.5,17.9
+viverrinus,Fishing cat,10650,,72,2,17.2
+aurata,African golden cat,10650,,81,2,21
+concolor,Cougar,63000,912,92,2.5,23.8
+yagouaroundi,Jaguarundi,7000,,73,2,18.6
+uncia,Snow leopard,50000,730,96,2,21.2
+paludinosus,Marsh mongoose,3300,255,76,2,20.8
+nigripes,Black-footed mongoose,2000,,,1,15.8
+obscurus,Long-nosed cusimanse,790,274,58,4,13.3
+penicillata,Yellow mongoose,598.5,,56,2,15.2
+pulverulenta,Cape gray mongoose,650,,61,2.6,11.7
+sanguinea,Slender mongoose,500,365,65,2,12.6
+parvula,Dwarf mongoose,274.8,,55,3,18
+edwardsi,Indian gray mongoose,1000,,59,2.6,12.3
+javanicus,Javan mongoose,800,122,49,2,16.6
+smithii,Ruddy mongoose,1702.5,,,2.5,17.8
+urva,Crab-eating mongoose,1863.2,,66,3,13.3
+vitticollis,Striped-necked mongoose,2250,,,2.5,12.8
+albicauda,White-tailed mongoose,3500,,,2.3,14.8
+mungo,Banded mongoose,1331.5,,60,2.5,17.4
+suricatta,Meerkat,776,365,77,4,20.6
+crocuta,Spotted hyena,63000,639,110,2,41.1
+brunnea,Brown hyena,42250,,92,2.5,31.9
+hyaena,Striped hyena,40000,800,90,2.5,25
+cristata,Aardwolf,10000,,84,2.5,20
+chinga,Molina's hog-nosed skunk,3400,,,,10
+leuconotus,Hog-nosed skunk,1900,319,56,3.4,10.2
+mephitis,Striped skunk,3500,335,63,5,13.9
+putorius,Eastern spotted skunk,600,152,31,5,10.5
+capensis,African clawless otter,23500,365,63,2.5,14.2
+cinereus,Oriental small-clawed otter,3000,,63,1.42,23
+collaris,Hog badger,10500,,42,3,15.8
+barbara,Tayra,4500,183,66,2,22.3
+lutris,Sea otter,25850,1369,140,1,27
+cuja,Lesser grison,1000,,,,10.2
+vittata,Greater grison,2300,,40,2,12.5
+gulo,Wolverine,16333.3,776,35,3,19.5
+maculicollis,Spotted-necked otter,4000,,61,2,22.9
+striatus,Striped polecat,910,393,36,2,14
+canadensis,Northern river otter,9000,730,62,2.5,27
+lutra,European otter,6750,548,61,2,18.2
+americana,American marten,884,365,28,3,17.8
+flavigula,Yellow-throated marten,2500,,150,2.5,16
+foina,Beech marten,1700,730,30,3.5,18.2
+martes,European pine marten,1300,426,28,4,18.2
+pennanti,Fisher,3175,365,45,2.5,14.3
+zibellina,Sable,1066.7,456,30,3,18.4
+meles,Old World badger,13000,365,49,3,18.6
+capensis,Honey badger,10000,,180,2,31.3
+moschata,Chinese ferret-badger,672,,,2.5,19
+erminea,Ermine,110.3,365,43,6.77,12.5
+eversmanii,Steppe polecat,1350,319,36,9.4,9.1
+frenata,Long-tailed weasel,150.6,365,25,6.2,8.8
+lutreola,European mink,590,323,54,4,8.4
+nigripes,Black-footed ferret,1021,365,43,3,9.4
+nivalis,Least weasel,46.9,120,36,5,9.1
+putorius,European polecat,809,322,42,7.5,11.1
+sibirica,Siberian weasel,565,,29,6,8.8
+vison,American mink,925,371,42,4.5,11.4
+brasiliensis,Giant otter,24000,,68,1.5,17.3
+taxus,American badger,8000,441,41,3,25
+peregusna,Marbled polecat,542.5,,61,5.76,8.8
+binotata,African palm civet,1900,1095,64,2,21
+australis,South American fur seal,110000,2556,236,1,30.6
+pusillus,South African fur seal,127551,1643,368,1,32.1
+jubatus,Steller sea lion,415000,2420,274,1,32.8
+cinerea,Australian sea lion,190000,2191,258,1,24.1
+flavescens,Southern sea lion,207500,2191,357,1,29
+californianus,California sea lion,180000,1826,259,1.2,35.7
+grypus,Gray seal,268000,1887,240,1,42.9
+vitulina,Harbor seal,115000,1460,253,1,47.6
+hispida,Ringed seal,90000,2191,251,1,46
+sibirica,Baikal seal,90000,2557,273,1.02,56
+alleni,Allen's olingo,1235,,,,25.2
+gabbii,Olingo,1235,594,73,1,21.8
+astutus,Ringtail,1015,300,52,3,19
+sumichrasti,Cacomistle,900,300,64,2,24
+narica,White-nosed coati,3750,712,78,4.17,26.4
+nasua,South american coati,4750,730,73,4,23.7
+flavus,Kinkajou,3000,550,115,1,38.4
+cancrivorus,Crab-eating raccoon,6270,365,63,3,19
+lotor,Common raccoon,6000,365,63,4,21
+melanoleuca,Giant panda,117500,2192,48,1.5,36.8
+malayanus,Sun bear,46000,,95,1,35.9
+ursinus,Sloth bear,100000,1095,198,1.5,33.3
+ornatus,Spectacled bear,109250,,228,1.5,39
+americanus,American black bear,154250,1278,70,2,34
+arctos,Brown bear,277500,1313,103,2,40
+maritimus,Polar bear,475000,1734,65,2,43.8
+thibetanus,Asiatic black bear,103750,1095,228,2,39.2
+binturong,Binturong,12250,840,92,2,27
+trivirgata,Small-toothed palm civet,2250,,45,2.5,16.1
+civetta,African civet,13666.7,213,65,2.5,28
+genetta,Small-spotted genet,1866.7,,78,2,22.7
+maculata,Panther genet,2225,,,2.3,20
+tigrina,Large-spotted genet,1820,,70,2.5,21.3
+derbyanus,Banded palm civet,2400,,,2,16
+larvata,Masked palm civet,4300,,,2.3,27.4
+hermaphroditus,Asian palm civet,3100,,60,3.4,24.5
+civettina,Malabar civet,12061,,,,15.4
+tangalunga,Malayan civet,7350,,,2,15
+zibetha,Large indian civet,10000,,80,3,21.7
+mysticetus,Bowhead whale,100000000,8212,396,1,211
+australis,Southern right whale,45000000,,365,1,70
+glacialis,North atlantic right whale,23000000,2920,350,1,67
+acutorostrata,Common minke whale,7500000,2740,312,1,50
+borealis,Sei whale,20000000,3652,345,1,74
+edeni,Bryde's whale,16000000,3104,376,1,72
+musculus,Blue whale,136000000,1827,350,1,110
+physalus,Fin whale,70000000,2864,342,1,114
+novaeangliae,Humpback whale,30000000,1643,342,1,95
+macrorhynchus,Short-finned pilot whale,2200000,5332,452,1,63
+melas,Long-finned pilot whale,1060000,4380,450,1,60
+griseus,Risso's dolphin,425000,,365,1,42.5
+acutus,Atlantic white-sided dolphin,208000,,316,1.25,27
+obliquidens,Pacific white-sided dolphin,103000,,320,1,46
+brevirostris,Irrawaddy dolphin,190000,1826,426,1,30
+orca,Killer whale,3987500,4930,435,1,90
+electra,Melon-headed whale,206000,2465,365,1,47
+crassidens,False killer whale,748000,6756,451,1,62.5
+attenuata,Pantropical spotted dolphin,112500,3956,345,1,46
+coeruleoalba,Striped dolphin,112500,3025,350,1.5,57.5
+bredanensis,Rough-toothed dolphin,114000,,,,32
+truncatus,Bottlenosed dolphin,200000,3689,365,1,51.6
+robustus,Gray whale,28500000,2922,395,1,77
+bairdii,Baird's beaked whale,11380000,2922,517,1,84
+ampullatus,Northern bottlenose whale,6500000,3287,365,1,37
+europaeus,Gervais's beaked whale,5600000,,,,48
+cavirostris,Cuvier's beaked whale,2701000,,365,1,62
+geoffrensis,Amazon dolphin,84000,,287,1,31.3
+vexillifer,Yangzte river dolphin or baiji,83500,,319,1,24
+breviceps,Pygmy sperm whale,424600,,335,1,17
+leucas,Beluga,1430000,2283,416,1,40
+monoceros,Narwhal,1250000,2922,450,1,50
+phocaenoides,Finless porpoise,32500,1460,320,1,33
+phocoena,Harbor porpoise,52500,1461,320,1,20.4
+dalli,Dall's porpoise,120000,2375,347,1,22
+macrocephalus,Sperm whale,28500000,3650,502,1,77
+bilineata,Greater sac-winged bat,7.9,,,1,6
+fulvus,Fulvus roundleaf bat,7,563,158,1,13
+gigas,Australian false vampire bat,150,,,1,22.6
+lyra,Greater false vampire bat,38.6,450,150,1,14
+schreibersii,Schreibers's long-fingered bat,13,730,100,1,22
+molossus,Pallas's mastiff bat,14,,108,1,5.6
+brasiliensis,Brazilian free-tailed bat,12.5,547,78,1,12
+teniotis,European free-tailed bat,35,,,1,13
+tuberculata,New Zealand lesser short-tailed bat,23.5,,,1,7.6
+leporinus,Greater bulldog bat,50,,,1,11.8
+geoffroyi,Geoffroy's tailless bat,15.2,,120,1,10
+jamaicensis,Jamaican fruit-eating bat,42.2,289,76,1,19.2
+perspicillata,Seba's short-tailed bat,15,258,95,1,17
+rotundus,Vampire bat,33.2,285,189,1,29.2
+ecaudata,Hairy-legged vampire bat,28,,,1,8
+soricina,Pallas's long-tongued bat,10,,106,1,11
+curasoae,Southern long-nosed bat,25,,122,1,10.1
+californicus,California leaf-nosed bat,11.6,,270,1,17
+waterhousii,Waterhouse's leaf-nosed bat,16,,,1,10.4
+discolor,Pale spear-nosed bat,43.4,,105,1,9
+hastatus,Greater spear-nosed bat,81,,120,1,18
+lineatus,White-lined broad-nosed bat,22,,106,1,13
+lilium,Little yellow-shouldered bat,20,,105,1,12
+brachyotis,Lesser short-nosed fruit bat,45,213,112,1,10.1
+sphinx,Greater short-nosed fruit bat,75,525,120,1.2,10
+moluccensis,Moluccan naked-backed fruit bat,430,,150,1,12.3
+helvum,Straw-colored fruit bat,306.25,,275,1,21.8
+gambianus,Gambian epauletted fruit bat,80,,150,1,7.8
+wahlbergi,Wahlberg's epauletted fruit bat,80,,165,1,10.1
+fischeri,Philippine pygmy fruit bat,18,315,90,1,10
+alecto,Black flying fox,672.1,,,1.2,19.7
+dasymallus,Ryukyu flying fox,435,,,1,24
+giganteus,Indian flying fox,1175,365,145,1,40
+hypomelanus,Variable flying fox,450,,,1,20.3
+livingstonii,Comoro black flying fox,696.5,,152,1,15
+lylei,Lyle's flying fox,316.7,,,,20.4
+niger,Greater mascarene flying fox,456.3,,,1,19.4
+poliocephalus,Gray-headed flying fox,675,540,190,1,23.6
+pselaphon,Bonin flying fox,,,,1,16.7
+pumilus,Little golden-mantled flying fox,200,,,,17.2
+rodricensis,Rodriguez flying fox,350,,198,1,28
+scapulatus,Little red flying fox,300,540,,1,15.8
+vampyrus,Large flying fox,872,,,1,20.9
+aegyptiacus,Egyptian rousette,125,365,116,1,22.9
+lanosus,Long-haired rousette,103,,,,18.7
+leschenaultii,Leschenault's rousette,108.25,455,115,1,14
+euryale,Mediterranean horseshoe bat,8.2,821,90,1,13
+ferrumequinum,Greater horseshoe bat,22.875,730,80,1,30.5
+hipposideros,Lesser horseshoe bat,4.6,471,67,1,29.4
+pallidus,Pallid bat,20.8,365,62,2,14.8
+barbastellus,Western barbastelle,10.25,,,2,23
+townsendii,Townsend's big-eared bat,14.25,,78,1,20.5
+fuscus,Big brown bat,23,730,35,2,19
+nilssonii,Northern bat,13,,,1.5,20
+serotinus,Serotine,18.2,,68,1.5,21
+noctivagans,Silver-haired bat,10,152,55,2,12
+cinereus,Hoary bat,24,,56,2,14
+bechsteinii,Bechstein's bat,10.5,,,1,21
+blythii,Lesser mouse-eared bat,23,,,1,33
+brandtii,Brandt's bat,7,,,,41
+dasycneme,Pond bat,15,,,1,20.5
+daubentonii,Daubenton's bat,8.5,730,54,1,28
+emarginatus,Geoffroy's bat,11,456,,1,22.7
+evotis,Western long-eared myotis,7.4,,,1,22
+grisescens,Gray myotis,9.25,456,,1,16.5
+keenii,Keen's myotis,7.4,,,1,19
+leibii,Eastern small-footed myotis,5.6,,,1,12
+lucifugus,Little brown bat,10,210,55,1,34
+myotis,Mouse-eared bat,28.55,502,65,1,37.1
+mystacinus,Whiskered bat,5.3,456,,1,24
+nattereri,Natterer's bat,7.5,,,1,23.7
+nigricans,Black myotis,4.2,98,55,1,7
+sodalis,Indiana bat,7.7,,,1,20
+thysanodes,Fringed myotis,6,,55,1,18.3
+velifer,Cave myotis,10.1,365,65,1,11.3
+vivesi,Fish-eating bat,25,,,1,10
+volans,Long-legged myotis,7,,,1,21
+yumanensis,Yuma myotis,6.25,,,1,14
+leisleri,Lesser noctule,16,,,1.5,16
+noctula,Noctule,27.75,455,60,1.5,12
+humeralis,Evening bat,9.75,,,2,6
+subflavus,Eastern pipistrelle,7.5,,44,2,14.8
+kuhlii,Kuhl's pipistrelle,6,,,1.5,8
+nathusii,Nathusius's pipistrelle,10,91,,2,11
+pipistrellus,Common pipistrelle,5,456,42,1.2,16.6
+auritus,Brown big-eared bat,7.8,365,65,1.33,30
+austriacus,Gray big-eared bat,12,,,,25.5
+balstoni,Western broad-nosed bat,11.7,,210,1.5,9.7
+murinus,Particolored bat,18.7,730,50,2,14.5
+vellerosus,Screaming hairy armadillo,840,,,,16.2
+villosus,Large hairy armadillo,3000,273,67,2,25.2
+novemcinctus,Nine-banded armadillo,5500,365,133,4,22.3
+septemcinctus,Seven-banded armadillo,1475,,132,6,16.8
+sexcinctus,Six-banded armadillo,4850,274,68,2,22.1
+maximus,Giant armadillo,33000,320,122,1.5,15
+matacus,Southern three-banded armadillo,1500,320,120,1,36.8
+pichiy,Pichi,1500,320,60,2,12.5
+laniger,Kultarr,24,350,12,6,3.5
+agilis,Agile antechinus,18,,27,10,4.7
+bellus,Fawn antechinus,34,,30,13,3.4
+flavipes,Yellow-footed antechinus,45,,25,7,3.9
+stuartii,Brown antechinus,27.5,285,30,7,5.4
+swainsonii,Dusky antechinus,41,,28,8,3.3
+cristicauda,Mulgara,115,315,38,7,7.4
+byrnei,Kowari,105,216,33,6,8
+geoffroii,Western quoll,890,,16,6,6.2
+hallucatus,Northern quoll,525,315,,6.8,5.9
+maculatus,Australian tiger cat,5500,340,21,3,6.8
+viverrinus,Eastern quoll,1090,335,20,6,6.8
+apicalis,Southern dibbler,70,315,48,8,5.5
+calura,Red-tailed phascogale,43,,29,7.5,4.7
+tapoatafa,Brush-tailed phascogale,193.5,365,29,6.4,5.9
+maculata,Pygmy planigale,10,,20,7.65,5.8
+tenuirostris,Narrow-nosed planigale,5.3,,19,6,5.2
+macdonnellensis,Fat-tailed marsupial mouse,32.5,350,43,6,7
+harrisii,Tasmanian devil,6500,730,26,3,13
+crassicaudata,Fat-tailed dunnart,15,159,14,7,5
+griseoventer,Gray-bellied dunnart,17.5,,,,3.6
+macroura,Stripe-faced dunnart,20,159,12,4,4.9
+virginiae,Red-cheeked dunnart,34,,15,2.5,5.3
+youngsoni,Lesser hairy-footed dunnart,10,,,5.5,5.3
+fasciatus,Numbat,471.5,,14,4,11
+derbianus,Central American woolly opossum,330,240,,3,8.7
+philander,Bare-tailed woolly opossum,350,,24,4.5,8.9
+minimus,Water opossum (yapok),700,,,4,3.1
+aurita,Big-eared opossum,850,,,6.2,4
+marsupialis,Southern opossum,1530,240,12,6,4.2
+virginiana,Virginia opossum,3000,243,12,15,6.6
+agilis,Paraguayan slender mouse opossum,22,,,12,6.1
+crassicaudata,Lutrine opossum,370,,14,8,2.9
+murina,Murine mouse opossum,26,,13,8.4,3.6
+robinsoni,Robinson's mouse opossum,75,365,14,10,5
+noctivagus,Rio Napo mouse opossum,21,,,,4.5
+nudicaudatus,Brown four-eyed opossum,440,,,5,3
+adusta,Sepia short-tailed opossum,35,,,,4.1
+brevicaudata,Short bare-tailed opossum,90,180,,7,3.9
+domestica,Gray short-tailed opossum,105,122,15,9,5.1
+opossum,Gray four-eyed opossum,450,,,5,4.4
+pygmaeus,Pygmy gliding possum,13,365,,3,8.8
+parvus,Mountain pygmy possum,45,320,15,3.5,12
+nanus,Eastern pygmy possum,40,190,,4,10.3
+dorianus,Doria's tree kangaroo,9581,,,1,19
+goodfellowi,Goodfellow's tree kangaroo,7400,,45,1,23.6
+inustus,Grizzled tree kangaroo,11400,,,1,23.8
+matschiei,Matschie's tree kangaroo,7200,,32,1,26.9
+ursinus,Black tree kangaroo,8000,,,1,20
+luctuosa,Gray dorcopsis,3570,,,1,13.9
+muelleri,Brown dorcopsis,5000,,,1,12.4
+macleayi,Papuan mountain wallaby,2988,,,1.2,7.9
+conspicillatus,Spectacled hare-wallaby,3000,,30,1,8.8
+hirsutus,Rufous hare-wallaby,1310,,,1,13.2
+agilis,Agile wallaby,16000,425,29,1,16.9
+antilopinus,Antilopine wallaroo,49500,,34,1,19.8
+bernardus,Black wallaroo,17500,,,1,11.8
+eugenii,Tammar wallaby,6500,730,28,1,15.1
+fuliginosus,Western gray kangaroo,28250,880,30,1,23.2
+giganteus,Eastern gray kangaroo,49500,1290,36,1,25
+parma,Parma wallaby,4250,620,34,1,15.9
+robustus,Wallaroo,30000,670,32,1,22
+rufogriseus,Red-necked wallaby,16200,608,29,1,15.2
+rufus,Red kangaroo,55000,806,33,1,25
+fraenata,Ridled nail-tailed wallaby,5500,,23,1,7.4
+unguifera,Northern nail-tailed wallaby,5800,,,1,5.5
+brachyotis,Western rock wallaby,3700,,,1,10.1
+concinna,Nabarlek,1250,,30,1,11.7
+penicillata,Brush-tailed rock wallaby,6000,590,30,1,14.3
+xanthopus,Ringtailed rock wallaby,6000,,31,1.1,14.4
+brachyurus,Quokka,3500,389,26,1,13.8
+billardierii,Tasmanian pademelon,5000,435,29,1,8.8
+brunii,Dusky pademelon,,,,1,9.4
+stigmatica,Red-legged pademelon,4100,,29,1,9.7
+thetis,Red-necked pademelon,3800,,,1,9
+bicolor,Swamp wallaby,14625,426,36,1,16.8
+trivirgata,Striped possum,318,,,1.5,9.6
+leadbeateri,Leadbeater's possum,127,464,16,1.5,14.1
+australis,Yellow-bellied glider,572.5,,,1,15
+breviceps,Sugar glider,110,456,16,2,17.8
+norfolcensis,Squirrel glider,405,,20,1.5,14.8
+gymnotis,Ground cuscus,2400,,13,1,18.9
+maculatus,Spotted cuscus,3500,243,13,2,17
+vulpecula,Brush-tailed possum,2395,730,17,1,15.9
+cinereus,Koala,9300,1095,31,1,22.1
+rufescens,Rufous 'rat'-kangaroo,3250,380,23,1,12.8
+penicillata,Woylie,1500,,18,1,18.8
+longipes,Long-footed potoroo,1650,,38,1,15.3
+tridactylus,Long-nosed potoroo,1430,,30,1,14.5
+lemuroides,Lemuroid ringtail possum,1040,,,1,5.4
+peregrinus,Ring-tailed possum,850,365,,2,10.1
+krefftii,Northern hairy-nosed wombat,31000,,,1,30
+latifrons,Southern hairy-nosed wombat,25500,547,21,1,29.9
+ursinus,Coarse-haired wombat,25500,730,27,1,30
+albiventris,Four-toed hedgehog,500,,35,6,11.4
+amurensis,Amur hedgehog,,,,,8
+concolor,Eastern European hedgehog,719,,35,4.5,7
+europaeus,Western European hedgehog,750,253,30,1.5,11.7
+auritus,Long-eared hedgehog,342,,39,4,7.6
+aethiopicus,Desert hedgehog,188,,37,3,6.3
+hypomelas,Brandt's hedgehog,292,,,3.2,7
+arboreus,Tree hyrax,3000,365,229,2,13.6
+capensis,Rock hyrax,3600,500,215,3,14.8
+brachyurus,Japanese hare,2519,,38,2.1,13
+californicus,Black-tailed jackrabbit,4175,,44,1,11.8
+europaeus,European hare,4175,,42,2,10.7
+timidus,Mountain hare,4175,,50,2,18
+cuniculus,European rabbit,1800,,30,5,9
+audubonii,Audubon's cottontail rabbit,900,107,29,3,7.8
+floridanus,Eastern cottontail,1150,,30,5,9.8
+nuttallii,Mountain cottontail,760,,30,3.6,7.4
+palustris,Marsh rabbit,1233,,34,2.3,7.6
+transitionalis,New England cottontail,902.6,,28,4.8,9.3
+hyperborea,Northern pika,120,,28,3,9.4
+princeps,American pika,100,,30,3,7
+intufi,Long-eared elephant shrew,52,183,52,1.6,9.3
+rozeti,North African elephant shrew,48,,76,2.5,7.2
+rufescens,Rufous elephant shrew,58,50,61,1,7.9
+proboscideus,Short-eared elephant shrew,40,,65,1.6,8.7
+chrysopygus,Golden-rumped elephant shrew,540,,42,1,11
+anatinus,Duck-billed platypus,1250,548,17,2,22.6
+aculeatus,Short-beaked echidna,3500,548,22,1,49.5
+bruijni,Long-nosed echidna,7500,,10,1,41.2
+rufescens,Long-nosed echymipera,1250,,,2.2,3.1
+auratus,Golden bandicoot,485,,12,2.6,6.7
+macrourus,Northern brown bandicoot,1600,200,12,4,6.8
+obesulus,Southern brown bandicoot,700,,15,2.73,6.5
+bougainville,Western barred bandicoot,226,,12,1.8,5.8
+gunnii,Eastern barred bandicoot,766,152,12,2,6.1
+nasuta,Long-nosed bandicoot,859,,12,2.7,5.6
+raffrayana,Raffray's bandicoot,675,150,,3,3.2
+lagotis,Rabbit-bandicoot or bilby,1300,,17,2,9.6
+asinus,African wild ass,164998,1005,359,1,47
+caballus,Horse,300000,973,337,1,57
+grevyi,Grevy's zebra,384000,1461,406,1,31
+hemionus,Kulan,230000,1187,339,1,31.6
+kiang,Kiang,275000,,299,,30.1
+quagga,Quagga,280000,900,365,1,38
+zebra,Mountain zebra,296000,1279,362,1,33.2
+simum,White rhinoceros,2175000,1643,515,1,45
+sumatrensis,Sumatran rhinoceros,1260000,,236,1,32.8
+bicornis,Black rhinoceros,1100000,2254,474,1,49
+unicornis,Indian rhinoceros,1602330,2557,479,1,43.5
+indica,Malayan tapir,250000,1095,392,1,36.5
+bairdii,Baird's tapir,300000,,401,1,29.6
+pinchaque,Mountain tapir,148950,,398,1,28.5
+terrestris,Brazilian tapir,250000,1095,398,1,39.6
+didactylus,Southern two-toed sloth,6250,1644,279,1,36.8
+hoffmanni,Hoffmann's two-toed sloth,6250,1095,350,1,41
+tridactyla,Giant anteater,28500,1186,184,1,31
+mexicana,Northern tamandua,4500,,163,,16
+tetradactyla,Southern tamandua,4500,,160,1,19
+azarae,Azara's night monkey,1230,,,1,30
+lemurinus,Lemurine night monkey,874,,135,1,33.8
+trivirgatus,Northern night monkey,800,730,142,1,30.1
+vociferans,Noisy night monkey,873,,,1,22.1
+caraya,Black howler monkey,5462.5,928,187,1,32.4
+palliata,Mantled howler monkey,7000,1278,186,1,24
+seniculus,Red howler monkey,6543.2,,190,1,25
+belzebuth,White-bellied spider monkey,7535,1826,184,1,37
+chamek,Chamek spider monkey,6000,,,,42.8
+fusciceps,Brown-headed spider monkey,7000,1826,227,1,46
+geoffroyi,Central American spider monkey,7267.5,1826,232,1,47.1
+marginatus,White-whiskered spider monkey,6000,,,,44
+paniscus,Black spider monkey,7887.5,1280,229,1,46
+arachnoides,Woolly spider monkey or muriqui,11170,,232,1,40
+lagothricha,Humboldt's woolly monkey,7650,1520,223,1,32
+goeldii,Goeldi's monkey,555,395,153,1,22.2
+geoffroyi,Geoffroy's marmoset,342,,,,17.6
+jacchus,White-tufted-ear marmoset,255.2,382,144,2,22.8
+kuhlii,Weid's black-tufted-ear marmoset,342,,,,20
+penicillata,Black-pencilled marmoset,307,,,2,15.4
+pygmaea,Pygmy marmoset,124,638,125,2,18.6
+fuscicollis,Saddlebacked tamarin,456.5,730,147,1.8,24.9
+nigricollis,Black-mantled tamarin,519.2,,140,1.8,20.2
+chrysomelas,Golden-headed lion tamarin,535,,,2,21.3
+chrysopygus,Golden-rumped lion tamarin,570,,,,17.9
+rosalia,Golden lion tamarin,654.5,730,128,2,31.6
+argentatus,Silvery marmoset,343.2,334,144,2,16.5
+humeralifer,Tassel-eared marmoset,355.8,334,144,2,15
+bicolor,Brazilian bare-faced tamarin,495.8,,160,1.63,19
+geoffroyi,Geoffroy's tamarin,499.3,,142,2,20.5
+imperator,Emperor tamarin,518.5,730,145,2,23.7
+labiatus,Red-chested mustached tamarin,501.3,,147,1.9,20.5
+leucopus,Silvery-brown bare-face tamarin,490,,142,2,15.2
+midas,Midas tamarin,553.8,,127,2,21
+mystax,Black-chested mustached tamarin,543.5,540,145,2,20
+oedipus,Cotton-top tamarin,445.5,550,178,1.9,26.2
+albifrons,White-fronted capuchin,2467.5,1310,158,1,40.4
+capucinus,White-faced capuchin,2655,2921,162,1,54
+olivaceus,Weeping capuchin,2552.5,,162,1,47
+boliviensis,Bolivian squirrel monkey,615,,158,1,30.3
+sciureus,South American squirrel monkey,925,1826,161,1,30.2
+apella,Brown capuchin,2642.5,,158,1.5,46
+nigroviridis,Allen's swamp monkey,4702.5,,,1,27
+lhoesti,L'hoest's monkey,4700,,,1,24.1
+preussi,Preuss's monkey,5250,,,1,26
+agilis,Agile mangabey,8000,,,,31
+torquatus,Red-capped mangabey,9492.5,,167,1,46
+ascanius,Black-cheeked white-nosed monkey,3705,,147,1,31.2
+campbelli,Campbell's monkey,3600,,180,1,30
+cephus,Moustached monkey,3585,,172,1,36
+diana,Diana monkey,4550,,,1,35.1
+erythrogaster,Red-bellied monkey,3250,,,1,24
+hamlyni,Owl-faced monkey,4425,,,,28.6
+mitis,Blue monkey,9000,1673,132,1,37.8
+mona,Mona monkey,4500,,,1,30
+neglectus,De Brazza's monkey,5945,2555,177,1,30.8
+nictitans,White-nosed guenon,5465,,172,1,31
+petaurista,Lesser white-nosed monkey,3650,,,1,29
+pogonias,Crowned guenon,3580,,165,1,27
+wolfi,Wolf's monkey,3390,,,1,24
+aethiops,Vervet,5620,1825,162,1,30.8
+angolensis,Angolan colobus,8625,,,1,35.3
+guereza,Guereza,9950,2192,175,1,35
+polykomos,King colobus,9525,730,185,1,33.9
+patas,Patas monkey,7750,1400,167,1,28.3
+albigena,Gray-cheeked mangabey,9317.5,,181,1,36
+arctoides,Stump-tailed macaque,9275,2099,177,1,29.2
+assamensis,Assam macaque,9100,,,,31.4
+fascicularis,Long-tailed macaque,6362.5,1544,165,1,39
+fuscata,Japanese macaque,8882.5,1369,174,1.5,38.5
+maura,Moor macaque,5575,,165,1,33
+mulatta,Rhesus monkey,8235,2007,165,1,40
+nemestrina,Pigtail macaque,7912.5,1095,172,1,37.6
+nigra,Celebes crested macaque,7965,,176,1,34
+ochreata,Booted macaque,3950,,,,29
+radiata,Bonnet macaque,6755,1795,161,1,30
+silenus,Liontail macaque,7875,2511,176,1,40
+sinica,Toque macaque,4370,,152,1,29.3
+sylvanus,Barbary macaque,10875,2007,164,1.5,29.1
+thibetana,Tibetan macaque,10300,,170,1,27
+tonkeana,Tonkean macaque,11950,,173,,28.4
+leucophaeus,Drill,18250,,179,1,39
+sphinx,Mandrill,23000,,173,1,40
+talapoin,Talapoin,1384.5,2008,169,1,27.7
+larvatus,Proboscis monkey,14617.5,,166,1.25,25.1
+hamadryas,Hamadryas baboon,18000,1762,171,1,37.5
+melalophos,Mitred leaf monkey,6540,,,1,20
+nemaeus,Douc langur,9720,,171,1,26
+roxellana,Golden snub-nosed monkey,14750,,199,1,29.5
+entellus,Hanuman langur,13516.5,1886,192,1,29
+johnii,Hooded leaf monkey,12000,,,1,34
+vetulus,Purple-faced leaf monkey,7081.8,,211,1,26.1
+gelada,Gelada baboon,16200,2190,168,1,36
+auratus,Javan langur,9720,,,,31.1
+cristatus,Silvered leaf monkey,6185,,,1,28.3
+francoisi,Fran?ois's leaf monkey,7325,,,,26.3
+obscurus,Dusky leaf monkey,7080,,145,1,33.9
+phayrei,Phayre's leaf monkey,8400,,167,1,28.3
+pileatus,Capped leaf monkey,11450,,,,25.2
+major,Greater dwarf lemur,395,365,65,2.2,13.4
+medius,Fat-tailed dwarf lemur,380,,61,22.2,29
+murinus,Gray mouse lemur,64.8,243,61,2,18.2
+coquereli,Giant mouse lemur,311.2,275,89,1.8,17.4
+furcifer,Fork-marked lemur,400,,174,1,25
+madagascariensis,Aye-aye,2277.5,,165,1,32.3
+moholi,South African galago,169.2,372,124,1.4,16.6
+senegalensis,Senegal galago,192.2,300,126,1.5,17.1
+demidoff,Demidoff's galago,60,270,111,1.1,13.4
+crassicaudatus,Greater galago,1094.5,639,130,1.5,22.7
+garnettii,Small-eared galago,1300,600,132,1,20
+gorilla,Gorilla,139842,4015,256,1,60.1
+sapiens,Human,62035,5110,280,1,122.5
+paniscus,Pygmy chimpanzee or bonobo,39925,,232,1,55
+troglodytes,Chimpanzee,44983.5,2920,229,1,59.4
+pygmaeus,Orangutan,64475,2555,249,1,59
+hoolock,Hoolock gibbon,6875,,,1,41
+agilis,Agile gibbon,5925,,,1,49
+klossii,Kloss's gibbon,5900,,213,1,37
+lar,White-handed gibbon,6810,1825,217,1,56
+moloch,Silvery gibbon,6207.5,,243,1,45
+muelleri,Borneo gibbon,5765,,207,1,60
+pileatus,Pileated gibbon,5735,,228,1,38
+concolor,Crested gibbon,6852.5,,207,1,46.1
+leucogenys,White-cheeked gibbon,6000,,,,44.1
+syndactylus,Siamang,10900,2190,231,1,43
+diadema,Diademed sifaka,5550,913,157,1,21
+tattersalli,Golden-crowned sifaka,3545,,,,20
+verreauxi,Verreaux's sifaka,5000,912,148,1,31
+coronatus,Crowned lemur,1645,,126,1.24,27
+fulvus,Brown lemur,2485,633,118,1.1,35.5
+macaco,Black lemur,2467,266,120,1.4,37.5
+mongoz,Mongoose lemur,1555,1065,120,1,36.2
+rubriventer,Red-bellied lemur,2191.5,1350,120,1,31.7
+griseus,Bamboo lemur,1012.5,1346,145,1.1,23.3
+catta,Ring-tailed lemur,2555,912,135,1.1,37.3
+simus,Greater bamboo lemur,1737.5,,142,1,17.6
+rubra,Red ruffed lemur,3601.3,650,98,2.2,37.5
+variegata,Ruffed lemur,3482.3,649,98,1.9,39.4
+calabarensis,Calabar angwantibo,257.5,270,133,1,13
+tardigradus,Slender loris,238.2,365,166,1.3,21.6
+coucang,Slow loris,890.5,,188,1,25.8
+pygmaeus,Pygmy slow loris,419,,188,2,19.3
+potto,Potto,919.9,547,170,1,32.4
+calvus,Red uakari,3165,,182,1,35.8
+albinasus,White-nosed bearded saki,2910,,160,1,20
+satanas,Brown-bearded saki,2942.5,,160,1,19.6
+monachus,Monk saki,1780,,,1,25
+pithecia,Guianan saki,1480,1460,158,1,36
+cupreus,Coppery titi,1120,,132,1,26.4
+donacophilus,Bolivian titi,795,,,1,25
+moloch,Dusky titi,804,,163,1,26.2
+syrichta,Philippine tarsier,119.2,,179,1,16
+bancanus,Western tarsier,122.5,,178,1,16.3
+maximus,Asiatic elephant,3178000,3287,644,1,65.5
+africana,African bush elephant,4800000,3650,670,1,65
+bennettii,Bennett's chinchilla rat,265.5,,,3,2.3
+anselli,Ansell's mole-rat,90,365,,,20.6
+damarensis,Damaraland mole-rat,180,,93,2.5,15.5
+hottentotus,African mole rat,132.5,,81,2.86,11
+mechowi,Giant mole-rat,250,,112,2.6,16
+capensis,Cape mole-rat,181,304,44,5,11.2
+glaber,Naked mole-rat,35,,70,7,31
+bailwardi,Mouse-like hamster,20.4,,,3.3,9.4
+pilorides,Desmarest's hutia,4683.3,304,125,2,13.8
+brownii,Brown's hutia,1500,,123,2,13.5
+aedium,Hispaniolan hutia,1267,,119,1,15.9
+canadensis,American beaver,20250,639,128,3.5,23.4
+aperea,Brazilian guinea pig,341,77,63,2.5,6
+porcellus,Guinea pig,728,76,68,3.8,12
+tschudii,Montane guinea pig,637.5,,64,1.9,6.3
+patagonum,Patagonian mara,12500,183,85,2,14.4
+musteloides,Common yellow-toothed cavy,337.9,60,54,2.63,3.5
+spixii,Spix's yellow-toothed cavy,450,112,53,2.5,4.6
+hydrochaeris,Capybara,55000,456,150,4.8,15.1
+rupestris,Rock cavy,950,,75,1.5,12.9
+lanigera,Long-tailed chinchilla,642.5,240,111,2,17.2
+viscacia,Mountain viscacha,1540,,134,1.5,19.5
+maximus,Plains viscacha,6000,456,154,2,10.8
+semicanus,Mongolian silver vole,,,,,3.8
+amphibius,European water vole,120,45,21,5.1,2.5
+taylori,Northern pygmy mouse,8,75,20,3,3.3
+barabensis,Striped dwarf hamster,,,,5.3,5.3
+cricetus,Black-bellied hamster,506.7,56,20,7,3.6
+groenlandicus,Collared lemming,66,85,20,3.4,3.3
+talpinus,Northern mole vole,40,,26,3.7,5
+lagurus,Steppe lemming,20.3,44,20,4.5,3.8
+brandtii,Brandt's vole,40,,,6,4.1
+lemmus,Norway lemming,70,44,19,7,3.3
+imhausi,Crested rat,755,,,1.75,7.5
+auratus,Golden hamster,105,48,16,9,3.9
+brandti,Brandt's hamster,174,,15,8,4.4
+agrestis,Field vole,46,42,21,4.4,4.8
+arvalis,Common vole,27.5,56,21,5.1,4.8
+guentheri,Vole,51.6,95,21,6,3.9
+ochrogaster,Prairie vole,40,,23,3.8,5.3
+pinetorum,Woodland vole,25.5,,21,3,3.8
+glareolus,Bank vole,20.8,72,20,4.3,4.9
+albigula,White-throated woodrat,209,101,29,2,9.5
+floridana,Eastern woodrat,291,,33,3.5,8.6
+lepida,Desert woodrat,236,76,33,3,10.5
+sumichrasti,Vesper rat,50,,30,2.25,5.7
+nuttalli,Golden mouse,22,,30,2.7,8.4
+leucogaster,Northern grasshopper mouse,32.5,114,31,4,5.6
+torridus,Southern grasshopper mouse,22,41,30,3.7,4.6
+californicus,California mouse,42,,30,2,5.5
+crinitus,Canyon mouse,16.5,70,24,3,7.7
+eremicus,Cactus mouse,25,,26,2.6,7.4
+guatemalensis,Guatemalan deer mouse,40,,,1.9,5.7
+leucopus,White-footed mouse,23,,26,4.5,7.9
+maniculatus,Deer mouse,20.5,,24,5,8.3
+polionotus,Oldfield mouse,14,,24,3.8,5.5
+truei,Pinyon mouse,25,,26,3.4,5.4
+roborovskii,Desert hamster,,,21,6,4.8
+sungorus,Dzhungarian hamster,23.4,,20,5.5,3.9
+floridanus,Florida mouse,32,,23,2.5,7.4
+auritus,Bunny or coney rat,72.2,,,4.5,5.5
+hispidus,Hispid cotton rat,185,40,27,5,5.2
+nudicaudus,Peters's climbing rat,280,109,40,2.4,5.4
+gundi,Gundi,288.8,,74,1.9,5.8
+paca,Lowland paca,9000,365,116,1,16.3
+taczanowskii,Mountain paca,8999.9,,,1,18.9
+azarae,Azara's agouti,2650,,,,11.8
+cristata,Crested agouti,2650,,,2,14
+fuliginosa,Black agouti,3500,,,,18
+leporina,Agouti,3265,,112,1,17.8
+mexicana,Mexican agouti,2700,,,,13.1
+prymnolopha,Black-rumped agouti,2900,,,1.5,16.3
+punctata,Central American agouti,2150,,112,2,13.8
+ruatanica,Ruatan agouti,,,,,13.7
+acouchy,Red acouchi,775,304,99,2,14.8
+branickii,Pacarana,12250,,253,2,12.8
+elater,Small five-toed jerboa,58.7,142,,4.5,5.2
+euphratica,Euphrates jerboa,232,,,5,4.2
+major,Great jerboa,350,,,4,7
+sibirica,Mongolian five-toed jerboa,117.5,,,3.4,4.5
+jaculus,Lesser Egyptian jerboa,55,137,38,3,7.3
+orientalis,Greater Egyptian jerboa,134,,35,2.5,5.5
+hudsonius,Meadow jumping mouse,18,61,19,5.5,5.6
+gymnurus,Armored rat,504,,60,2.1,7
+brevicauda,Andean spiny rat. Short-tailed spiny-rat,285,,,,6.8
+semispinosus,Spiny rat,500,146,64,2.4,5.8
+apereoides,Brazilian spiny rat,373.5,,94,3.1,7
+prehensilis,Prehensile-tailed porcupine,3900,578,203,1,26.6
+dorsatus,North American porcupine,8600,1095,210,1,23.4
+mexicanus,Mexican hairy dwarf porcupine,2000,,,1,16.7
+bursarius,Plains pocket gopher,176.7,91,51,4,12
+bottae,Botta's pocket gopher,115.5,319,19,5.5,6.1
+nitedula,Forest dormouse,26,,28,3,4.1
+melanurus,Asian garden dormouse,122.5,,25,5,6.2
+quercinus,Garden dormouse,82.5,365,23,5,5.5
+japonicus,Japanese dormouse,27,,30,4,7
+glis,Fat dormouse,125,335,25,4,8.7
+murinus,Woodland dormouse,24,,24,3,6.9
+platyops,Rock dormouse,46.1,,,5.2,7.3
+avellanarius,Hazel dormouse,27.3,335,23,4,5.3
+fallax,San Diego pocket mouse,18.7,166,25,3,8.3
+formosus,Long-tailed pocket mouse,19,365,28,5,7.1
+deserti,Desert kangaroo rat,116,,30,3,8.6
+heermanni,Heermann's kangaroo rat,65,,31,3.1,8.3
+merriami,Merriam's kangaroo rat,42,,28,2.3,9.7
+ordii,Ord's kangaroo rat,57,,29,3,9.9
+spectabilis,Banner-tailed kangaroo rat,145,,23,2,12.7
+amplus,Arizona pocket mouse,11.7,,,,5.9
+longimembris,Little pocket mouse,8,,22,5,8.3
+parvus,Great Basin pocket mouse,20.1,,24,4.8,5.8
+africanus,African brush-tailed porcupine,2750,,106,1.5,22.9
+africaeaustralis,Cape porcupine,24000,390,94,2.1,23.1
+brachyura,Malayan porcupine,8000,,112,1.5,27.3
+cristata,African porcupine,20000,,66,2.3,28
+indica,Indian crested porcupine,20000,,113,2,27.1
+cahirinus,Spiny mouse,45.2,59,38,3,5.9
+cilicicus,Turkish spiny mouse,,,,,4
+wilsoni,Wilson's spiny mouse,20,,39,2.3,5.6
+argenteus,Small Japanese field mouse,,61,,4.1,5
+flavicollis,Yellow-necked mouse,29.4,52,26,5.5,4.5
+peninsulae,Korean field mouse,32.9,,,4.7,4.4
+speciosus,Large Japanese field mouse,44,,,4.5,5.3
+sylvaticus,Long-tailed field mouse,23.4,65,23,5.2,6.3
+niloticus,Nile kusu,110,45,22,5,6.7
+gliroides,Pencil-tailed tree mouse,29,,20,2.2,3.6
+penicillatus,Brush-tailed rabbit rat,144,,35,2,4.5
+heaneyi,Panay crateromys,,,,,8.8
+auricularis,Cape short-eared gerbil,54.5,,29,3.3,6.1
+campestris,North African gerbil,28.4,,,4.3,7.3
+afra,Cape gerbil,74.8,115,23,3.9,5.7
+validus,Southern savanna gerbil,113,99,25,4.3,5
+gerbillus,Lesser Egyptian gerbil,30,,,4.1,5.9
+nanus,Baluchistan gerbil,18.5,,22,5,4.5
+perpallidus,Pale gerbil,50,,20,4.5,5.5
+pyramidum,Greater Egyptian gerbil,37,73,21,3.3,8.2
+dolichurus,Woodland mouse,60,,24,3,4.4
+chrysogaster,Golden-bellied water rat,850,135,36,3.8,7.3
+barbarus,Barbary striped grass mouse,26.2,,,4.6,4.4
+striatus,Typical striped grass mouse,42.3,,25,4.54,4.8
+conditor,Greater stick-nest rat,332.5,240,38,2.2,5.3
+crassus,Sundevall's jird,35,82,22,4,5.6
+libycus,Libyan jird,100,,26,5,5.2
+meridianus,Mid-day jird,53,,23,5.6,6.8
+persicus,Persian jird,100,,26,4.3,6
+unguiculatus,Mongolian jird,53.2,36,25,5,6.3
+vinogradovi,Vinogradov's jird,150,,22,7,6.7
+gouldii,Black-footed tree rat,900,,44,2,7.8
+macrurus,Golden-backed tree rat,268.5,,48,2,7.1
+namaquensis,Rock mouse,47.6,,22,3.8,4.7
+minutus,Old World harvest mouse,6,37,20,5.2,3.8
+gleadowi,Sand-colored rat,70,,,2.3,4
+minutoides,Mouse,7.2,77,20,4.3,4.3
+musculus,House mouse,20.5,42,19,7,4
+spicilegus,Mound-building mouse,,,,6.7,3.5
+alexis,Spinifex hopping mouse,35,75,35,3.9,6.4
+mitchellii,Mitchell's hopping mouse,52,90,37,3.3,5.3
+duprasi,Fat-tailed gerbil,40,61,20,4.5,8.3
+cumingi,Slender-tailed cloud rat,1750,,,1,13.6
+pallidus,Northern Luzon slender-tailed cloud rat,1744,,,,10.7
+macrourus,Long-tailed tree mouse,57,,,2.4,3.1
+tullbergi,Tullberg's rock rat,30,75,24,3.5,5.2
+obesus,Fat sand rat,212,,24,3.5,3.2
+australis,Australian native mouse,65,180,31,3.1,7.9
+chapmani,Western pebble-mound mouse,12,,,,6.8
+fumeus,Smoky mouse,70,,,3.5,6.5
+laborifex,Kimberly mouse,12,,,,6.9
+shortridgei,Heath mouse,64,335,,3,6
+fuscipes,Bush rat,130,90,26,5,5.3
+lutreolus,Australian swamp rat,115,,27,5,4.4
+norvegicus,Norway rat,300,70,21,9.9,3.8
+rattus,Rat,200,112,22,7.3,4.2
+pumilio,Four-striped grass mouse,51,64,25,6,4.5
+opimus,Great gerbil,285,105,28,5,4.5
+calurus,Bushy-tailed jird,65,,,2.9,7.3
+indica,Indian gerbil,146.7,91,26,5.4,7
+palatilis,Carpentarian rock rat,123,,,,6.2
+pedunculatus,Central rock rat,100,,,,7.5
+coypus,Nutria,7850,152,131,6,8.5
+emini,Giant rat,1300,,,1,7.4
+gambianus,Gambian rat,1500,,34,3.5,8.4
+melanotis,Gray climbing mouse,7.4,,25,4.6,4.2
+mesomelas,Brant's climbing mouse,13,,,4.4,3.3
+antimena,Malagasy giant rat,1250,365,120,1,12.6
+albicaudatus,White-tailed mouse,106,,38,3,6.3
+campestris,Pouched mouse,47.4,,21,6.8,4.5
+degus,Degu,235,182,90,6,14
+cyanus,Coruro,98,,80,2.4,10.8
+capensis,Springhare,3500,,80,1,20
+harrisii,Harris's antelope squirrel,126,,30,6.8,10.6
+leucurus,White-tailed antelope squirrel,105,365,29,8,11.2
+caniceps,Gray-bellied squirrel,257,,,2.2,13.7
+erythraeus,Pallas's squirrel,272,,,1.9,17
+finlaysonii,Finlayson's squirrel,,,,,12.8
+notatus,Plantain squirrel,190,,,3.07,14.8
+prevostii,Prevost's squirrel,400,,48,1.8,21.1
+lateralis,Golden-mantled ground squirrel,157.6,,30,5.12,10.4
+ludovicianus,Black-tailed prairie dog,1125,730,30,4,11
+anerythrus,Thomas's rope squirrel,218,,,1.5,10
+pyrropus,Fire-footed rope squirrel,271.7,,,1.8,9.5
+sabrinus,Northern flying squirrel,149,,40,3,14.2
+volans,Southern flying squirrel,65.4,,40,4,19
+rufobrachium,Red-legged sun squirrel,326.5,,,2.7,8.7
+tridecemlineatus,Thirteen-lined ground squirrel,172.7,225,28,7,7.9
+caligata,Hoary marmot,4300,,29,4.2,12.1
+flaviventris,Yellow-bellied marmot,3500,730,30,4,21.2
+marmota,Alpine marmot,3500,730,35,4,17.4
+monax,Woodchuck,4000,548,32,4.5,14
+vancouverensis,Vancouver marmot,4750,,30,3.3,12.1
+variegatus,Rock squirrel,663,,30,4.3,9.8
+alborufus,Red and white giant flying squirrel,1700,,,,21.4
+leucogenys,Japanese giant flying squirrel,1650,,,,19.2
+franklinii,Franklin's ground squirrel,459,327,28,7.5,7.2
+volans,Siberian flying squirrel,130,,30,2.6,11.4
+bicolor,Black giant squirrel,2000,,32,1.4,19
+indica,Indian giant squirrel,2000,,84,1,20
+aureogaster,Red-bellied squirrel,600,,,2,11.5
+carolinensis,Eastern gray squirrel,533,401,44,4,23.6
+granatensis,Red-tailed squirrel,374,,,1.93,11.5
+niger,Eastern fox squirrel,800,353,44,3,16
+variegatoides,Variegated squirrel,485,,,5,15.1
+vulgaris,Eurasian red squirrel,600,320,38,5,14.8
+citellus,European ground squirrel,217,314,27,6,6.7
+pygmaeus,Little ground squirrel,136,,27,7.1,7.1
+hippurus,Horse-tailed squirrel,312.5,,,,14
+lowii,Low's squirrel,67,,,2.5,11.1
+tenuis,Slender squirrel,75,,,3,10
+dorsalis,Cliff chipmunk,62.8,,30,5.2,12.6
+minimus,Least chipmunk,44.1,,30,4.9,10
+sibiricus,Siberian chipmunk,85,350,35,4.8,9.6
+striatus,Eastern chipmunk,96,228,31,5,9.5
+townsendii,Townsend's chipmunk,75,,28,4.5,9.3
+hudsonicus,Red squirrel,200,,37,4.2,9.8
+mohavensis,Mohave ground squirrel,150,,24,6,7.8
+tereticaudus,Round-tailed ground squirrel,163.3,325,28,5.4,8.9
+erythropus,Striped ground squirrel,600,365,71,3.5,10.3
+inauris,South African ground squirrel,588,365,45,2.2,11.5
+badius,Lesser bamboo rat,650,,42,1.8,4.8
+ehrenbergi,Palestine mole rat,160,,,3,20.2
+swinderianus,Greater cane rat,6600,365,155,4,5.4
+belangeri,Northern tree shrew,200,,46,2,11.1
+glis,Common tree shrew,200,90,46,2,12.4
+minor,Pygmy tree shrew,58.6,,,2,12.2
+tana,Large tree shrew,197.8,,,2.2,11.6
+everetti,Mindanao tree shrew,350,,55,2,11.5
+dugon,Dugong,360000,3470,374,1,73
+inunguis,Amazonian manatee,480000,1096,328,1,40
+manatus,West Indian manatee,322000,913,335,1,69
+paradoxus,Hispaniolan solenodon,1000,,50,2,12.1
+brevicauda,Northern short-tailed shrew,21.6,65,17,6,2.2
+hylophaga,Elliot's short-tailed shrew,14.5,42,23,6.5,2.8
+flavescens,Greater red musk shrew,45,,25,3.3,2.2
+leucodon,Bicolored shrew,11,95,30,5,2.9
+russula,White-toothed shrew,11.6,75,29,4,4
+suaveolens,Lesser shrew,7.7,365,27,4,2.8
+parva,Least shrew,4.5,43,21,4.5,3.5
+varius,Forest shrew,17.5,,,3,2.1
+fodiens,Eurasian water shrew,15,106,20,5,3.1
+araneus,Eurasian shrew,9,335,21,6,3.2
+caecutiens,Laxmann's shrew,5.4,,,6.4,3
+etruscus,White-toothed pygmy shrew,2.1,365,27,4,3.2
+murinus,Asian house shrew,45.9,36,30,3,3.2
+cristata,Star-nosed mole,55.3,304,40,4.4,2.5
+wogura,Japanese mole,97,,40,3.8,3.2
+afer,Aardvark,60000,730,225,1,29.8
+mississippiensis,American alligator,150000,4380,,,77
+sinensis,Chinese alligator,,,,,65
+crocodilus,Spectacled caiman,,,,,40
+latirostris,Broad-snouted caiman,,,,,58
+niger,Black caiman,,,,,40
+palpebrosus,Dwarf caiman,,,,,24.1
+trigonatus,Smooth-fronted caiman,,,,,40
+acutus,American crocodile,,,,,47
+intermedius,Orinoco crocodile,,,,,41
+johnstoni,Johnson's crocodile,,,,,55
+moreletii,Morelet's crocodile,,,,,25.4
+niloticus,Nile crocodile,,,,,56
+novaeguineae,New Guinea crocodile,,,,,51
+palustris,Mugger or marsh crocodile,,,,,44
+porosus,Saltwater crocodile,,,,,57
+rhombifer,Cuban crocodile,,,,,48
+siamensis,Siamese crocodile,,,,,49
+cataphractus,African slender-snouted crocodile,,,,,56.1
+tetraspis,West African dwarf crocodile,40000,1825,,10,70
+gangeticus,Gharial,,,,,59
+schlegelii,False gharial,,,,,24.7
+punctatus,Tuatara,430,4380,,,90
+arafurae,Arafuran file snake,,,,,8.8
+javanicus,Javan wart snake,,,,,5.8
+atricollis,Plains agama,,,,,6
+impalearis,Bibron's agama,,,,,6
+versicolor,Indian changeable lizard,,,,,5
+kingii,Frilled lizard,,,,,9.9
+amboinensis,Sailfin lizard,,,,,24.4
+pustulatus,Philippine sailfin lizard,,,,,15.2
+stellio,Levant starred lizard,,,,,6
+belliana,Butterfly lizard,,,,,5.6
+cocincinus,Water dragon,,,,,15.3
+lesueurii,Eastern water dragon,,,,,18.9
+barbata,Eastern bearded dragon,,,,,9.9
+vitticeps,Central bearded dragon,500,,,,12
+acanthinura,North African spiny dabb lizard,,,,,11.4
+aegyptia,Egyptian spiny-tailed lizard,,,,,15.3
+dispar,Sudan mastigure,,,,,17
+alba,Red worm lizard,,,,,15.1
+cinereus,Spanish grey amphisbaena,,,,,16
+fragilis,Slow worm,,,,,54
+monotropis,Galliwasp,,,,,12.3
+kingii,Madrean alligator lizard,,,,,12.3
+multicarinata,Southern alligator lizard,31.5,,,,9.8
+ventralis,Eastern glass lizard,,,,,14.8
+apodus,Armored glass lizard,450,730,42,8,54
+bibronii,Bibron's mole viper,,,,,23.9
+constrictor,Boa constrictor,3532,1095,125,35,40.4
+angulifer,Cuban boa,,,,,22.6
+chrysogaster,Turks and Caicos boa,,,,,14.2
+exsul,Abaco Island boa,,,,,21.7
+fordii,Haitian ground boa,,,,,24.4
+inornatus,Puerto rican boa,,,,,23.9
+striatus,Haitian boa,,,,,22.1
+subflavus,Jamaica boa,,,,,24.3
+annulatus,Annulated boa,,,,,15.3
+caninus,Emerald tree-boa,,,,,18.6
+hortulanus,Amazonian tree boa,,,,,15
+cenchria,Rainbow boa,,,,,31
+deschauenseei,Dark-spotted anaconda,,,,,23.2
+murinus,Green anaconda,,,,,31.8
+notaeus,Paraguayan anaconda,,,,,23.6
+dussumieri,Round Island boas,,,,,17.8
+aspera,New Guinea boa,,,,,9.9
+bibroni,Pacific tree boa,,,,,16.9
+carinata,Pacific ground boa,,,,,16.6
+milii,Thick-tailed gecko,,,,,12
+parsonii,Parson's chameleon,,,,,9
+chamaeleon,Common chameleon,,,,,3.6
+dilepis,Flapneck chameleon,,,,,4
+labordi,Labord's chameleon,,60,260,11,0.4
+pardalis,Panther chameleon,,,,,5.2
+jacksonii,Jackson's chameleon,,,,,8.2
+bottae,Rubber boa,,,,,26.5
+trivirgata,Rosy boa,450,,130,7,31
+continentalis,Round-spot banana boa,,,,,17.7
+panamensis,Panama wood snake,,,,,14.2
+elegans,Glossy snake,,,,,19.1
+subocularis,Trans-pecos rat snake,,730,,5,23.8
+blandingii,Blanding's cat snake,,,,,12.6
+cynodon,Dog-tooth cat snake,,,,,9.6
+dendrophila,Mangrove snake,,,,,17
+irregularis,Brown tree snake,,,,,13.1
+trigonata,Common catsnake/indian gamma snake,,,,,8.2
+coccinea,Scarlet snake,,,,,10.4
+stramineus,Banded sand snake,,,,,4
+clelia,Mussarana,,,,,11.5
+kirtlandii,Kirtland's snake,,,,,8.4
+constrictor,Northern black racer,,,,,10
+ravergieri,Palaearctic tail-lined snake,,,,,13.8
+medici,East African egg-eating snake,,,,,8.6
+scabra,African egg-eating snake,,,,,22.1
+rufozonatum,Red barded snake,,,,,13.7
+corais,Indigo snake,,,,6,25.9
+bairdi,Baird's rat snake,,,,,16.3
+climacophora,Japanese rat snake,,,,,13.1
+flavirufa,Yellow-red/tropical rat snake,,,,,16.3
+guttata,Corn snake,900,600,,12,32.3
+helena,Trinket snake,,730,,,15
+moellendorffi,Red-headed rat snake,,,,,21.1
+obsoleta,Black rat snake,,1460,,,33.9
+quadrivirgata,Japanese four-lined rat snake,,,,,16.8
+schrenckii,Russian ratsnake,,,,,13.7
+situla,European leopard snake,,,,,23
+taeniura,Taipan beauty snake,,,,,11.6
+vulpina,Eastern fox snake,,,,,17
+abacura,Western mud snake,,,,,19
+oxycephalum,Red-tailed rat snake,,,,,15.1
+nasicus,Mexican hognose snake,,730,56,13,19.8
+platirhinos,Eastern hognose snake,,730,,,9.1
+gigas,False water snake,,,,,16.9
+torquata,Night snake,,,,,12.2
+alterna,Gray-banded kingsnake,,,,,19.7
+calligaster,Prairie kingsnake,,1095,,,23.8
+getula,Common kingsnake,,1095,,,33.3
+mexicana,Greer's kingsnake,,,,,15.6
+pyromelana,Sonoran mountain kingsnake,,,,,22.4
+triangulum,Milk snake,,,,,22.6
+zonata,California mountain kingsnake,,,,,28.8
+fuliginosus,African house snake,,182,,,9
+madagascariensis,Madagascar giant hognose snake,,,,,27.2
+mexicanus,Parrot snake,,,,,7.7
+cucullatus,False smooth snake,,,,,5.9
+flagellum,Coachwhip,,,,,20.2
+capensis,Lapi file snake,,,,,10.9
+natrix,Grass snake,96.25,1460,,,20
+erythrogaster,Plain-bellied water snake,,,,,14.8
+sipedon,Northern water snake,,730,,,9.6
+taxispilota,Brown water snake,,,,,6.1
+aestivus,Rough greensnake,,730,,,7.2
+vernalis,Smooth green snake,,,,,6.1
+aeneus,Brown vine snake,,,,,15.2
+catenifer,Gopher snake,,,,,33.8
+melanoleucus,Bull snake,,,,,22.4
+subtaeniatus,Stripe-belly sand racer,,,,,5.8
+cana,Mole snake,,,,,8.3
+mucosus,Indian rat snake,,,,,11.3
+septemvittata,Queen snake,,1095,,,19.3
+oxyrhynchus,Rufous beaked snake,,,,,13.3
+lecontei,Western long-nosed snake,,,,,19.8
+hexalepis,Western patch-nosed snake,,,,,14.3
+triaspis,Green rat snake,,,,,19.8
+diadema,Diademed snake,,547,,,17
+pullatus,Tropical rat snake,,,,,17.5
+dekayi,Brown snake,,730,,,7
+occipitomaculata,Redbelly snake,,730,,,4.6
+semiannulatus,Eastern tiger snake,,,,,7.6
+butleri,Butler's garter snake,,,,12,14
+couchii,Western aquatic garter snake,,,,,7.7
+cyrtopsis,Eastern blackneck garter snake,,,,,10.8
+elegans,Western terrestrial garter snake,,,,,17.8
+marcianus,Checkered garter snake,,547,,,7
+ordinoides,Northwestern garter snake,,,,,15.8
+radix,Plains garter snake,,,,,8.4
+sauritus,Eastern ribbon snake,,730,,14,10.6
+sirtalis,Common garter snake,150,730,100,,14
+biscutatus,Western lyresnake,,,,,11.8
+oxyrhynchus,Pointed snake,,,,,18.9
+striatula,Rough earth snake,,547,,,7.2
+valeriae,Smooth earth snake,,,,,9.5
+cataphractus,Armadillo girdled lizard,,,,,20.2
+cordylus,Rough-scaled girdled lizard,,,,,15.6
+giganteus,Giant spinytail lizard,,,,,24.9
+warreni,Warren's spinytail lizard,,,,,19.8
+major,Rough-scaled plated lizard,,,,,24
+validus,Giant plated lizard,,,,,17.2
+guttatus,Lesser flat lizard,,,,,15.6
+imperator,Emperor flat lizard,,,,,14
+plumifrons,Green basilisk,,,,,13
+vittatus,Brown basilisk,,,,,9.1
+cristatus,Smooth helmeted iguana,,,,,7.1
+longipes,Eastern casquehead iguana,,,,,15.4
+bimaculatus,Panther anole,,,,,7
+carolinensis,Green anole,,,,,7.2
+cuvieri,Puerto Rican giant anole,,,,,9.2
+equestris,Knight anole,,,,,16.5
+roquet,Anole,,,,,6.7
+duvaucelii,Giant gecko,,,,,25
+elegans,Auckland green gecko,,,,,20
+gemmeus,Jewelled gecko,,,,,16
+grayii,Northland green gecko,,,,,16
+rudis,Rough scale gecko,,,,,13
+marmorata,Marbled velvet gecko,,,,,21.2
+leachianus,New Caledonia giant gecko,,,,,8.5
+antarcticus,Common death adder,,,,,9.3
+lubricus,Coral snake,,,,,9
+scutatus,Shieldnose cobra,,,,,13.5
+caeruleus,Indian krait,,,,,17.4
+fasciatus,Red-headed krait,,,,,13.2
+multicinctus,Many-banded krait,,,,,13.7
+angusticeps,Common mamba,,,,,18.8
+jamesoni,Jameson's mamba,,,,,13.1
+polylepis,Black mamba,,,,,26.2
+viridis,Green mamba,,,,,18.7
+sundevallii,Sundevall's garter sanke,,,,,11.6
+haemachatus,Ringneck spitting cobra,,,,,13
+euryxanthus,Western coral snake,,,,,17.6
+fulvius,Eastern coral snake,,,,,19
+atra,Indian/golden spitting cobra,,,,,11.7
+haje,Egyptian cobra,,,,,22.1
+kaouthia,Indian/monocled cobra,,,,,25.4
+melanoleuca,Black and white-lipped cobra,,,,,29.1
+mossambica,Mozambique spitting cobra,,,,,16.7
+naja,Indian cobra,,,,,32.3
+nigricollis,Blackneck spitting cobra,,,,,23.2
+nivea,Cape cobra,,,,,26
+pallida,Red spitting cobra,,,,,20.2
+samarensis,Indian/southeastern philippine cobra,,,,,11.4
+sputatrix,Indian/Indochinese spitting cobra,,,,,13.5
+scutatus,Mainland tigersnake,,,,,14.1
+hannah,King cobra,,,,,22.5
+scutellatus,Taipan,,,,,15.6
+australis,King grown/brown snake,,,,,11.1
+porphyriacus,Australian purplish death adder,,,,,11.6
+colubrinus,Kenya sand-boa,,,,,20.7
+conicus,Rough-scaled sand-boa,,,,,28.2
+jaculus,Caucasian sand-boa,,,,,24.7
+johnii,John's Indian sand-boa,,,,,24.4
+tataricus,Tartar sand-boa,,,,,24
+elegans,Mexican banded gecko,,,,,11
+variegatus,Western banded gecko,,,,,15.2
+macularius,Leopard gecko,,400,55,2,28.5
+caudicinctus,African fat-tailed gecko,,,,,16.2
+angulifer,Namib sand gecko,,,,,10.8
+bibronii,Bibron's gecko,,,,,6.1
+marmoratus,Marbled gecko,,,,,12.8
+pacificus,Pacific sticky-toed gecko,,,,,13
+oceanica,Oceanic dtella,,,,,10.5
+gecko,Tokay gecko,,,,,23.5
+turcicus,Mediterranean house gecko,,,,,8.4
+binoei,Prickly gecko,,,,,13.6
+granulatus,Forest gecko,,,,,21
+astriata,Seychelles small day gecko,,,,,7.4
+cepediana,Blue-tailed day gecko,,,,,9.3
+guentheri,Round island day gecko,,,,,17.8
+guimbeaui,Orange-spotted day gecko,,,,,7.1
+laticauda,Broad-tailed day gecko,,,,,8.7
+lineata,Striped day gecko,,,,,10
+madagascariensis,Madagascar day gecko,,,,,13.6
+standingi,Standing's day gecko,,,,,9.6
+sundbergi,Seychelles giant day gecko,,,,,15.9
+maculatus,Gray gecko,,,,,37
+horridum,Beaded lizard,,,,,34.4
+suspectum,Gila monster,,,,,28.9
+tentaculatum,East Indian tentacled snake,,,,,13.6
+chinensis,Chinese water snake,,,,,4.2
+cristatus,Marine iguana,,,,,6.4
+fasciatus,Fiji banded iguana,,,,,5.9
+pallidus,Santa Fe land iguana,,,,,17.1
+bakeri,Baker's spinytail iguana,,,,,13.8
+hemilopha,Cape spinytail iguana,,,,,9.6
+palearis,Honduran dwarf spiny-tailed iguana,,,,,10.2
+pectinata,Western spiny-tailed iguana,,,,,8.2
+similis,Black iguana,,,,,22.4
+cornuta,Rhinoceros iguana,,,,,22.9
+cychlura,Andros island iguana,,,,,23.4
+nubila,Cayman rock iguana,,,,,47.6
+dorsalis,Desert iguana,69.5,,,,14.6
+iguana,Common green iguana,,1640,,,19.8
+ater,Northern chuckwalla,,,,,9.3
+hispidus,Spiny chuckwalla,,,,,17.2
+varius,Piebald chuckwalla,,,,,11.3
+magister,Desert spiny lizard,,,,,5.9
+poinsettii,Crevice spiny lizard,,,,,8
+serrifer,Blue spiny lizard,,,,,6.7
+galloti,Gallot's Canary Island lizard,,,,,5.6
+simonyi,Simony's Canary Island lizard,,,,,5.4
+viridis,European green lizard,21.5,,,,10
+vivipara,Viviparous lizard,,365,,,11
+muralis,Common wall lizard,,,,,10
+dugesii,Madeira wall lizard,,,,,4.8
+lepidus,Jeweled lizard,,912,,,17
+carinatus,Northern curly-tailed lizard,,,,,10.8
+bicolor,Mexican burrowing python,,,,,32.8
+cuvieri,Cuvier's Madagascar swift,,,,,21.2
+cyclurus,Merrem's Madagascar swift,,,,,9.3
+notata,Colorado desert fringe-toed lizard,,,,,8.1
+hasselquistii,Fan-footed gecko,,,,,10.9
+annularis,Ringed wall gecko,,,,,11.8
+mauritanica,Common wall gecko,,,,,14
+childreni,Children's python,,,,,25.7
+melanocephalus,Black-headed python,,,,,22.6
+boa,Bismarck ringed python,,,,,22.2
+albertisii,D'albert's python,,,,,18
+fuscus,Brown water python,,,,,26.8
+mackloti,Macklot's python,,,,,17.4
+amethistina,Scrub python,,,,,13.8
+boeleni,Boelen's python,,,,,20.1
+spilota,Carpet python,,,,,19.6
+viridis,Green tree python,,,,,20.6
+curtus,Short-tailed python,,,,,27.8
+molurus,Indian python,12370,1095,100,40,34.2
+regius,Ball python,,1825,77,7,47.5
+reticulatus,Reticulated python,32000,,,,29.4
+sebae,African python,,,,,27.3
+timoriensis,Timor python,,,,,20.5
+dumerili,Dumeril's ground boa,,,,,26
+madagascariensis,Madagascar boa,,,,,28.4
+madagascariensis,Madagascar tree boa,,,,,21.8
+ocellatus,Palaearctic eyed skink,,,,,14
+zebrata,Solomon Island skink,,,,,24.3
+macgregori,Mcgregor's skink,,,,,20
+cunninghami,Cunningham's skink,,,,,26.5
+hosmeri,Hosmer's skink,,,,,24.5
+luctuosa,Mourning skink,,,,,18.2
+major,Land mullet,,,,,10.8
+stokesii,Gidgee skink,,,,,18.2
+algeriensis,Algerian skink,,,,,22.8
+laticeps,Broadhead skink,,,,,7.7
+obsoletus,Great Plains skink,30,,,,7.3
+gerrardii,Pink-tongued skink,,,,,12.9
+otagense,Otago skink,,,,,44
+gigas,Great moluccan skink,,,,,17.3
+nigrolutea,Australian black and yellow skink,,,,,11.5
+scincoides,Australian blue-tongued lizard,493,,,10,26.6
+rugosus,Shingleback skink,,,,,20.9
+albogularis,Yellowhead gecko,,,,,5.6
+scincus,Common wonder gecko,,,,,12.6
+ameiva,Giant ameiva,,,,,4.6
+sexlineatus,Six-lined racerunner,,,,,6
+tigris,Western whiptail,18,,,,7.8
+guianensis,Guyana caiman lizard,,,,,9.3
+rufescens,Red tegu,,,,,10.8
+teguixin,Columbian tegu,,,,,16.1
+canus,Dwarf boa,,,,,16.1
+caymanensis,Cayman islands dwarf boa,,,,,25.9
+haetianus,Haitian dwarf boa,,,,,15.3
+bengalensis,Bengal monitor,,,,,11.2
+dumerilii,Dumeril's monitor,,,,,10.7
+exanthematicus,Bosc's monitor and Savannah monitor,35500,,,,12.7
+giganteus,Perentie,,,,,19.7
+gouldii,Sand monitor,,,,,18.3
+griseus,Desert monitor,,,,,17
+indicus,Indian monitor lizard and Indian monitor,,,,,17.4
+komodoensis,Komodo dragon,87000,1825,49,22,62
+mertensi,Merten's water monitor,,,,,20.3
+niloticus,Nile monitor,,,,,14.6
+olivaceus,Gray's monitor lizard,,,,,15.2
+prasinus,New Guinea green tree monitor,,,,,14.2
+salvator,Common water monitor,,,,,15.7
+timorensis,Spotted tree monitor,,,,,14.9
+varius,Lace monitor,,,,,14.7
+bilineatus,Cantil,,,,,24.3
+contortrix,Northern copperhead,,730,,6,29.8
+piscivorus,Water moccasin,,,,8,24.5
+nummifer,Jumping pit viper,,,,,19
+picadoi,Picado's pit viper,,,,,13
+arietans,Puff adder,,,,,15.8
+gabonica,Gaboon viper,,,,,18
+nasicornis,Rhinoceros viper,,,,,9.4
+aurifer,Yellos-spotted palm pit viper,,,,,13.7
+lateralis,Side-striped palm pit viper,,,,,12.5
+rowleyi,Rowley's palm pit viper,,,,,12.8
+schlegelii,Eyelash palm pit viper,,,,,19.5
+alternatus,Urutu,,,,,15.2
+asper,Fer-de-lance,,,,,20.4
+atrox,Common lancehead,,,,,8.5
+caribbaeus,Saint Lucia lancehead,,,,,14.4
+lanceolatus,Martinique lancehead,,,,,13
+neuwiedi,Yara,,,,,15.1
+rhombeatus,Cape viper,,,,,6.6
+cerastes,Horned viper,,,,,18
+godmani,Godman's montane pit viper,,,,,15.8
+adamanteus,Eastern diamondback rattlesnake,,,,,22.8
+atrox,Western diamond-backed rattlesnake,,1095,,14,27
+basiliscus,Mexican West-Coast rattlesnake,,,,,16
+catalinensis,Saint Catalina rattlesnake,,,,,11.8
+cerastes,Sidewinder,,,,,27.3
+durissus,Neotropical rattlesnake,1150,1095,120,6,19.8
+enyo,Baja California rattlesnake,,,,,17.1
+horridus,Timber rattlesnake,,1825,135,9,30.2
+lepidus,New Mexico banded rock rattlesnake,,,,,33.6
+mitchelli,Southwestern speckled rattlesnake,,,,,22
+molossus,Northern black-tailed rattlesnake,,,,,20.7
+pricei,Twin-spotted rattlesnake,,,,,15.7
+ruber,Red diamond rattlesnake,,,,,19.2
+scutulatus,Mojave rattlesnake,,,,,14.4
+tigris,Tiger rattlesnake,,,,,15.3
+tortugensis,Tortuga Island rattlesnake,,,,,18.3
+vegrandis,Uracoan rattlesnake,,,,,19.8
+viridis,Southern Pacific rattlesnake,,,,,24.1
+willardi,Arizona ridge-nosed rattlesnake,,,,,21.3
+russelii,Russell's viper,,,,,15
+carinatus,Saw-scaled viper,,,,,23.8
+coloratus,Palestine saw-scaled viper,,,,,28.3
+macmahonii,Mcmahon's viper,,,,,14.6
+blomhoffii,Japanese mamushi,,,,,13.8
+muta,Bushmaster,,1460,77,10,31.6
+lebetina,Bluntnose viper,,,,,13.3
+melanurus,Black-tailed montane pit viper,,,,,17.1
+undulatus,Mexican horned pit viper,,,,,14.9
+okinavensis,Okinawan habu,,,,,19
+persicus,Persian horned viper,,,,,17.1
+catenatus,Massasauga,,1100,,8,20
+miliarius,Pigmy rattlesnake,,,,,16.1
+ravus,Pygmy rattlesnake,,,,,14.8
+albolabris,White-lipped tree viper,,,,,11.4
+flavoviridis,Yellow-spotted pit viper,,,,,24.9
+gramineus,Indian green tree viper,,,,,8.4
+popeorum,Pope's pit viper,,,,,14
+ammodytes,Long-nosed viper,,,,,22
+aspis,Asp viper,,1460,,,25
+berus,Northern palaearctic viper,,,,,19
+latastei,Lataste's viper,,,,,9.7
+raddei,Armenian viper,,,,,10.7
+xanthina,Palestine viper,,,,,16.4
+flavimaculatum,Yellow-spotted night lizard,,,,,11
+henshawi,Granite night lizard,,,,,14.3
+riversiana,Island night lizard,,,,,13.9
+vigilis,Desert night lizard,,,,,10.9
+unicolor,Sunbeam snake,,,,,12.1
+typus,Boomslang,,,,,8.7
+insculpta,Pignose turtle,,,,,38.4
+longicollis,Common snake-necked turtle,,,,,37
+fimbriatus,Mata mata,,,,,35.8
+dentata,Northern Australian snapping turtle,,,,,21.8
+krefftii,Krefft's river turtle,,,,,15.8
+macquarii,Macquarie turtle,,,,,20.9
+dahli,Dahl's toad-headed turtle,,,,,27.4
+latisternum,Serrated snapping turtle,,,,,26.5
+geoffroanus,Geoffrey's sideneck turtle,,,,,37.5
+hilarii,Hilaire's side-necked turtle,,,,,37.4
+platycephala,Twistneck turtle,,,,,20
+caretta,Loggerhead sea turtle,156500,3650,60,115,37
+mydas,Green sea turtle,160000,3650,59,150,75
+serpentina,Common snapping turtle,10250,2646,,,47
+temminckii,Alligator snapping turtle,58500,4015,120,30,70.3
+mawii,Central american river turtle,,,,,11.3
+coriacea,Leatherback sea turtle,420000,,60,105,30
+marmorata,Southwestern pond turtle,,,,,27.3
+picta,Painted turtle,371.8,1642,,,61
+guttata,Spotted turtle,,2920,77,3,30
+reticularia,Chicken turtle,,912,,,24
+blandingii,Blanding's turtle,,4380,,8,77
+orbicularis,European pond turtle,,,,,120
+insculpta,Wood turtle,,5840,,,60
+muhlenbergii,Bog turtle,,2900,90,3,40
+barbouri,Barbour's map turtle,,,,,31.7
+caglei,Cagle's map turtle,,,,,14.5
+nigrinoda,Black-knobbed map turtle,,,,,20.3
+oculifera,Ringed map turtle,,,,,20.3
+pseudogeographica,Mississippi map turtle,,,,,35.4
+pulchra,Alabama map turtle,,,,,15.7
+concinna,River cooter,,1277,,,44
+nelsoni,Florida red-bellied turtle,,,,,26.1
+carolina,Eastern box turtle,,2190,,,138
+coahuila,Coahuilan box turtle,,,,,18.8
+nelsoni,Spotted box turtle,,,,,24.9
+ornata,Ornate box turtle,,2920,63,5,28.4
+scripta,Common slider,240,1460,75,13,41.3
+baska,Indian batagur terrapin,,,,,21.7
+amboinensis,Southeast Asian box turtle,,,,,38.2
+flavomarginata,Yellow-margined box turtle,,,,,19.1
+trifasciata,Chinese three-striped box turtle,,,,,31.8
+dentata,Asian leaf turtle,,,,,14.7
+hamiltonii,Indian black pond turtle,,,,,19.2
+thurjii,Crowned river turtle,,,,,18
+annandalii,Yellow-headed temple turtle,,,,,9.3
+grandis,Giant asian pond turtle,,,,,29.6
+spinosa,Spiny turtle,,,,,22.9
+subtrijuga,Malayan snail-eating turtle,,,,,14.2
+annamensis,Annam leaf turtle,,,,,23.9
+caspica,Caspian turtle,,,,,17.6
+japonica,Japanese pond turtle,,,,,16.2
+leprosa,Spanish pond turtle,,,,,24.5
+mutica,Yellow pond turtle,,,,,22.1
+nigricans,Red-necked pond turtle,,,,,18
+reevesii,Reeves' turtle,,,,,24.2
+sinensis,Chinese stripe-necked turtle,,,,,22.8
+trijuga,Indian black turtle,,,,,40
+platynota,Malayan flat-shelled turtle,,,,,18.8
+smithii,Brown roofed turtle,,,,,13.8
+tecta,Indian roofed turtle,,,,,11
+areolata,Furrowed wood turtle,,,,,19.3
+pulcherrima,Painted wood turtle,,,,,20.4
+rubida,Mexican spotted wood turtle,,,,,11.8
+bealei,Beal's eyed turtle,,,,,27.3
+crassicollis,Thick-necked turtle,,,,,16.7
+angustatus,Narrow-bridged musk turtle,,,,,16.1
+baurii,Striped mud turtle,,690,,,49.6
+herrerai,Herrera's mud turtle,,,,,19.5
+integrum,Mexican mud turtle,,,,,18.5
+leucostomum,White-lipped mud turtle,,,,,19.2
+scorpioides,Scorpion mud turtle,,,,,44.7
+sonoriense,Sonoran mud turtle,,,,,36.5
+subrubrum,Common mud turtle,,1460,76,4,40
+salvinii,Pacific Coast giant musk turtle,,,,,26.3
+triporcatus,Mexican giant musk turtle,,,,,33.5
+carinatus,Keel-backed musk turtle,,,,,29.3
+minor,Loggerhead musk turtle,,1460,,,23.9
+odoratus,Stinkpot,,1277,,,54.8
+subrufa,Helmeted turtle,,,,,20.1
+castaneus,West African mud turtle,,,,,41
+subniger,East African black mud turtle,,,,,47
+megacephalum,Big-headed turtle,,,,,27
+erythrocephala,Red-headed Amazon side-neck turtle,,,,,18
+expansa,South American river turtle,,,,,25.3
+gigantea,Aldabra tortoise,,,,,152
+radiata,Radiated tortoise,,,,,32.8
+sulcata,African spurred tortoise,43000,,,,54.3
+carbonaria,Red-footed tortoise,,,,,49
+denticulata,Yellow-footed tortoise,,,,,35.2
+nigra,Galapagos tortoise,,,,,177
+elegans,Indian star tortoise,,,,,24.3
+agassizii,Desert tortoise,,5500,118,8,62.8
+berlandieri,Berlandier's tortoise,,,,,30.7
+areolatus,Parrot-beaked tortoise,,,,,28.6
+forstenii,Travancore tortoise,,,,,32.9
+belliana,Hingeback tortoise,,,,,26.5
+erosa,Serrated forest hingeback tortoise,,,,,24.8
+tornieri,Pancake tortoise,,,,,25.9
+emys,East Indian upland tortoise,,,,,19.9
+pardalis,Leopard tortoise,,,,,30
+graeca,Mediterranean spur-thighed tortoise,,4560,,,127
+kleinmanni,Egyptian tortoise,,,,,21
+marginata,Marginated tortoise,,,,,21.2
+ferox,Florida softshell turtle,,,,,26.2
+spinifera,Spiny softshell turtle,,3285,,,25.2
+punctata,Indian flapshell turtle,,,,,17.8
+steindachneri,Wattle-necked softshell turtle,,,,,41
+triunguis,African softshell turtle,,,,,50.6
+anguilla,European eel,3629.45,4015,,,88
+australis,Shortfin eel,4100,,,,32
+bicolor,Indonesian shortfin eel,,,,,20
+dieffenbachii,New Zealand longfin eel,13000,,,,60
+marmorata,Marbled eel,11275,,,,40
+mossambica,African longfin eel,412.5,,,,20
+nebulosa,Long-finned eel,11000,,,,15
+reinhardtii,Speckled longfin eel,8965,3650,,,41
+rostrata,American eel,4031.5,1642,,,50
+presbyter,Sand smelt,,,,,4
+affinis,Topsmelt,,,,,9
+californiensis,Jacksmelt,,,,,11
+sicculus,Brook silverside,,120,,,2
+tenuis,California grunion,,,,,8
+beryllina,Inland silverside,,,,,2
+extensa,Waccamaw silverside,,,,,3
+menidia,Atlantic silverside,,,,,2
+myops,Snakefish,,730,,,7
+latipes,Japanese medaka,,,10,,5
+melanochir,Dusky sea garfish,330,912,,,10
+saira,Pacific saury,,,,,2
+splendens,Alfonsino,,2737,,,23
+atlanticus,Orange roughy,3850,7208,,,149
+imberi,Spot-tail,165,,,,5
+macrolepidotus,Silversides,1100,,,,5
+vittatus,Tiger fish,15400,,,,8
+acutidens,Sharptooth tetra,1.1,,,,3
+bimaculatus,Twospot astyanax,,,,,18
+brachypomus,Pirapitinga,13750,,,,28
+niloticus,Nile distichodus,3410,,,,7.5
+odoe,Pike characid,2200,,,,5
+aestivalis,Blueback shad,110,1277,,,8
+agone,Twaite shad,825,,,,25
+alabamae,Alabama shad,,,,,4
+alosa,Alice shad,2200,1277,,,10
+caspia,Caspian shad,65,,,,7
+chrysochloris,Blue herring,935,,,,4
+macedonica,Macedonia shad,330,,,,10
+maeotica,Black sea shad,,,,,6
+pontica,Pontic shad,,730,,,7
+pseudoharengus,Alewife,110,1277,,,8
+sapidissima,American shad,3025,1569,,,13
+sirm,Spotted sardinella,,350,,,8
+harengus,Atlantic herring,,1095,,,22
+pallasii,Pacific herring,,,,,19
+cultriventris,Black sea sprat,,912,,,5
+cepedianum,American gizzard shad,1089,730,,,6
+petenense,Threadfin shad,,730,,,4
+aestuaria,Gilchrist's round herring,,,,,6
+jaguana,Scaled herring,,365,,,3
+richmondia,Australian freshwater herring,,,,,11
+pilchardus,True sardine,,730,,,15
+aurita,Round sardinella,125.95,365,,,7
+gibbosa,Goldstripe sardinella,,,,,7
+longiceps,Indian oil sardine,110,719,,,4
+sagax,Pacific sardine,267.3,821,,,25
+sprattus,European sprat,,730,,,6
+compressa,Deepbody anchovy,,,,,6
+mysticetus,Anchoveta,,365,,,4
+australis,Australian anchovy,,,,,6
+encrasicolus,European anchovy,,365,,,3
+japonicus,Japanese anchovy,,365,,,3
+mordax,Californian anchoveta,,,,,7
+ringens,Peruvian anchoveta,,,,,3
+barbatula,Stone loach,,,,,7
+carpio,River carpsucker,2524.5,,,,10
+cyprinus,Quillback,1617,,,,11
+velifer,Highfin carpsucker,,,,,11
+catostomus,Longnose sucker,1800,,,,20
+commersonii,White sucker,1617,,,,12
+macrocheilus,Largescale sucker,,,,,15
+microps,Modoc sucker,,,,,18
+occidentalis,Sacramento sucker,,,,,10
+platyrhynchus,Mountain sucker,,1003,,,9
+rimiculus,Klamath smallscale sucker,,,,,9
+tahoensis,Tahoe sucker,,,,,15
+cujus,Cui-ui,1496,5657,,,41
+liorus,June sucker,,,,,40
+elongatus,Blue sucker,,,,,13
+meridionalis,Southeastern blue sucker,,,,,33
+luxatus,Lost river sucker,,,,,18
+oblongus,Creek chubsucker,,,,,6
+nigricans,Northern hog sucker,700,700,,,11
+roanokense,Roanoke hog sucker,,,,,5
+bubalus,Smallmouth buffalo,20515,,,,15
+cyprinellus,Bigmouth buffalo,17545,,,,20
+niger,Black buffalo,15785,,,,24
+melanops,Spotted sucker,676.5,,,,6
+anisurum,Silver redhorse,5940,,,,10
+breviceps,Hookfin redhorse,750,1460,,,8
+carinatum,River redhorse,3089,1095,,14500,12
+duquesnii,Black redhorse,1250,1095,,,10
+erythrurum,Golden redhorse,2244,,,,11
+macrolepidotum,Shorthead redhorse,2194.5,,,,9
+atripinnis,Blackfin sucker,,,,,4
+hamiltoni,Rustyside sucker,,,,,5
+rhothoeca,Torrent sucker,,,,,7
+fossilis,Loach,,,,,21.7
+brama,Bream,3305.5,1825,,,23
+aspius,Asp,4950,1277,,,11
+bynni,Barb,,,,,16.3
+mattozi,Papermouth,745.25,,,,9
+treurensis,Treur barb,,,,,6
+oligolepis,Largescale stoneroller,,,,,5
+auratus,Goldfish,,,,,41
+nasus,Sneep,825,,,,15
+cumberlandensis,Blackside dace,,,,,4
+eos,Northern redbelly dace,,,,,3
+erythrogaster,Southern redbelly dace,,,,,3
+neogaeus,Finescale dace,,,,,6
+elongatus,Redside dace,,,,,4
+plumbeus,Lake chub,,,,,5
+idella,Silver orfe,24750,1460,,,21
+analostana,Satinfin shiner,,,,,4
+galactura,Whitetail shiner,,,,,4
+lutrensis,Red shiner,,,,,2
+spiloptera,Spotfin shiner,,,,,5
+whipplei,Steelcolor shiner,,,,,3
+carpio,Common carp,10600,1095,4,300000,47
+rerio,Zebra danio or zebrafish,,,,,5.5
+laurae,Tonguetied minnow,,,,,4
+maxillingua,Cutlip minnow,,,,,2
+orcuttii,Arroyo chub,,,,,4
+robusta,Roundtail chub,,,,,8
+gobio,Gudgeon,,,,,8
+altivelis,Rednose labeo,1980,,,,9
+rohita,Rohu,24750,985,,,10
+aeneus,Smallmouth yellowfish,4310.35,,,,12
+mollispinis,Virgin spinedace,,,,,3
+delineatus,Belica,,,,,2
+cephalus,European chub,4400,1277,,,22
+idus,Ide,2200,1825,,,29.8
+leuciscus,Common dace,550,1186,,,16
+chrysocephalus,Striped shiner,,,,,4
+coccogenis,Warpaint shiner,,1095,,525,5
+cornutus,Common shiner,,,,,4
+zonatus,Bleeding shiner,,,,,3
+roseipinnis,Cherryfin shiner,,,,,1
+umbratilis,Redfin shiner,,,,,3
+margarita,Pearl dace,,,,,4
+biguttatus,Horneyhead chub,,,,,4
+leptocephalus,Bluehead chub,,,,,4
+micropogon,River chub,,730,,,5
+raneyi,Bull chub,,,,,5
+crysoleucas,Golden shiner,,,,,9
+albizonatus,Palezone shiner,,,,,3
+anogenus,Pugnose shiner,,,,,3
+atherinoides,Emerald shiner,,,,,4
+baileyi,Rough shiner,,,,,4
+blennius,River shiner,,,,,4
+buccatus,Silverjaw minnow,,,,,3
+buchanani,Ghost shiner,,,,,2
+candidus,Silverside shiner,,,,,2
+heterodon,Blackchin shiner,,,,,3
+hudsonius,Spottail shiner,,,,,5
+nubilus,Ozark minnow,,,,,4
+perpallidus,Peppered shiner,,,,,4
+petersoni,Coastal shiner,,,,,4
+procne,Swallowtail shiner,,,,,3
+rubellus,Rosyface shiner,,,,,3
+rubricroceus,Saffron shiner,,,,750,5
+semperasper,Roughhead shiner,,,,,4
+stramineus,Sand shiner,,,,,3
+texanus,Weed shiner,,,,,3
+topeka,Topeka shiner,,,,,3
+volucellus,Mimic shiner,,,,,2
+humilis,Dwarf altai osman,13.75,,,,15
+potanini,Altai osman,5500,3102,,,40
+cultratus,Ziege,1100,1095,,,11
+crassilabrum,Fatlips minnow,,365,,,3
+mirabilis,Suckermouth minnow,,,,,3
+phoxinus,Minnow,,1277,,,13
+notatus,Bluntnose minnow,,,,,5
+promelas,Fathead minnow,,60,5,4500,2
+argentissimus,Woundfin,,,,,4
+burchelli,Burchell's redfin,,,,,6
+hubbsi,Bluehead shiner,,,,,2
+lucius,Colorado pikeminnow,,,,,12
+solitarius,Relict dace,,,,,5
+atratulus,Blacknose dace,,365,,750,4
+cataractae,Longnose dace,,1095,,,5
+cobitis,Loach minnow,,,,,5
+sericeus,Bitterling,,912,,,5
+egregius,Lahontan redside,,,,,5
+frisii,Kutum,2750,,,,12
+rutilus,Roach,1012,730,,,14
+erythrophthalmus,Pearl roach,1153.35,1095,,,19
+atromaculatus,Creek chub,,1095,,50,8
+adloffi,Annual fish,,,,,3.7
+bellottii,Argentine pearlfish,,,,,3
+nigripinnis,Blackfin pearlfish,,,,,1
+furzeri,Turquoise killifish,,28,,,1.1
+guentheri,Gunther's nothobranch,,78,,,2.3
+kilomberoensis,Kilombero,,,,,0.8
+korthausae,Korthaus' killifish,,,,,1.6
+kuhntae,Beira killifish,,49,,,1.2
+rachovii,Bluefin notho,,,,,1.5
+macularius,Desert pupfish,,,,,2
+radiosus,Owens pupfish,,,,,2
+tularosa,White sands pupfish,,,,,5
+catenatus,Northern studfish,,,,,5
+parvipinnis,California killifish,,,,,3
+seminolis,Seminole killifish,,,,,2
+zebrinus,Plains killifish,,,,,3
+ommata,Pygmy killifish,,,,,2
+goodei,Bluefin killifish,,,,,2
+affinis,Mosquitofish,,90,,,3
+reticulata,Guppy,,74,,,5
+occidentalis,Gila topminnow,,,,,1
+atlanticus,Tarpon,88550,3650,,,55
+cyprinoides,Oxeye,9900,,,,44
+lucius,Northern pike,15620,889,,,30
+masquinongy,Muskellunge,17490,1460,,,30
+niger,Chain pickerel,2337.5,912,,,9
+pectoralis,Alaska blackfish,201.3,912,,,8
+limi,Central mudminnow,,,,,4
+saida,Arctic cod,,912,,,7
+brosme,Cusk,16500,3285,,,20
+mustela,Fivebeard rockling,,,,,3
+gracilis,Saffron cod,605,912,,,12
+cimbrius,Fourbeard rockling,,1095,,,9
+argenteus,Silvery pout,,,,,3
+chalcogrammus,Alaska pollock,770,1095,,,15
+macrocephalus,Pacific cod,12485,,,,18
+morhua,Atlantic cod,52800,778,,,25
+ogac,Greenland cod,,1277,,,12
+lota,Burbot,18700,1095,,,20
+aeglefinus,Haddock,9240,620,,,20
+merlangus,English whiting,1700,730,,,20
+poutassou,Blue whiting,456.5,602,,,20
+dypterygia,Blue ling,16500,3650,,,25
+macrophthalma,Mediterranean ling,,,,,20
+blennoides,Greater forkbeard,1947,,,,20
+pollachius,European pollock,9955,,,,8
+virens,Pollock,17600,839,,,25
+esmarkii,Norway pout,,693,,,5
+luscus,Pout whiting,,730,,,4
+tenuis,Mud hake,11550,510,,,23
+pectoralis,Giant grenadier,,,,,56
+acrolepis,Roughscale rattail,,,,,73
+rupestris,Rock grenadier,929.5,,,,54
+berglax,Onion-eye grenadier,,,,,25
+carinatus,Ridge scaled rattail,,,,,19
+novaezelandiae,Blue grenadier,825,1642,,,25
+australis,Southern hake,,2615,,,30
+bilinearis,Silver hake,1265,602,,,12
+gayi,Chilean hake,,730,,,13
+merluccius,European hake,8250,1095,,,20
+productus,North pacific hake,654.5,1460,,,15
+quadracus,Fourspine stickleback,,,,,3
+inconstans,Brook stickleback,,,,,2
+aculeatus,Alaskan stickleback,,,,,8
+pungitius,Ninespine stickleback,,547,,,5
+dybowskii,Korean sandeel,,,,,1
+erectus,Hudson sea horse,,273,,,4.7
+guttulatus,Sea horse,,,,,6
+whitei,White's seahorse,,,,,5
+zosterae,Dwarf seahorse,,118,,,1
+scovelli,Gulf pipefish,,,,,3
+chanos,Milkfish,7700,2281,,,15
+auriculata,Airbreathing shellear,,,,,3
+electricus,Electric eel,,,,,12.6
+americanus,Goosefish,12430,,,,30
+budegassa,Black-bellied angler,,1460,,,21
+piscatorius,Anglerfish,31735,1642,,,24
+vomerinus,Cape monk,,,,,11
+forsteri,Yellow-eye mullet,522.5,912,,,7
+labrosus,Thicklipped mullet,2475,1095,,,25
+ramado,Thinlip mullet,1595,1277,,,10
+cephalus,Striped mullet,4400,730,,,16
+glaciale,Glacier lanterfish,,912,,,8
+risso,Chubby flashlightfish,,,,,1
+hectoris,Hector's lanternfish,,,,,3
+leucopsarus,Northern lampfish,,,,,8
+blacodes,Australian rockling,13750,,,,30
+bairdii,Baird's smoothhead,,,,,38
+elongata,Silverside,,,,,16
+silus,Atlantic argentine,,2555,,,35
+nigrostriata,Black-stripe minnow,,,,,1
+olidus,Pond smelt,,,,,5
+pretiosus,Surf smelt,,547,,,5
+villosus,Capelin,,1095,,,10
+eperlanus,Smelt,,730,,,10
+mordax,Rainbow smelt,,,,,7
+altivelis,Ayu,,,,,3
+thaleichthys,Longfin smelt,,,,,3
+pacificus,Eulachon,,912,,,5
+maraena,Australian grayling,,,,,6
+semoni,Australian smelt,,365,,,2
+alosoides,Goldeye,946,,,,14
+tergisus,Mooneye,498.85,,,,10
+rume,Mormyrids,2915,,,,6
+isidori,Mormyrid,4,,,,29
+nigri,African knifefish,,,,,11.4
+bicirrhosum,Arawana,2530,,,,6.5
+hexapterus,Pacific sand lance,,912,,,8
+marinus,Sand eel,,912,,,10
+tobianus,Lesser sand eel,,547,,,7
+testudineus,Climbing perch,,,,,8
+kingsleyae,Miss Kingsley's climbing perch,68.75,,,,8.7
+georgianus,Australian ruff,440,1095,,,7
+trutta,Australian salmon,5170,,,,26
+truttacea,Western Australian salmon,5775,1551,,,9
+pholis,Shanny,,,,,10
+punctatus,Muzzled blenny,,,,,4
+gattorugine,Tompot blenny,,,,,5
+brama,Atlantic pomfret,3300,,,,9
+steindachneri,Sickle pomfret,6050,,,,8
+lyra,European dragonet,,,,,7
+crysos,Blue runner,2777.5,,,,11
+dentex,White trevally,9955,,,,49
+declivis,Greenback horse mackerel,,1186,,,25
+murphyi,Inca scad,,,,,16
+novaezelandiae,Yellowtail horse mackerel,,1277,,,25
+symmetricus,Jack mackerel,,,,,30
+pomotis,Mud sunfish,,,,,8
+rupestris,Rock bass,824,,,,18
+interruptus,Sacramento perch,792,,,,6
+macropterus,Flier,308,,,,5
+auritus,Redbreast sunfish,467.25,,,,8
+cyanellus,Green sunfish,529,,,,9
+macrochirus,Bluegill,1181.25,,,,10
+marginatus,Dollar sunfish,,,,,6
+megalotis,Longear sunfish,434.5,,,,6
+microlophus,Redear sunfish,121,,,,7
+symmetricus,Bantam sunfish,,,,,3
+dolomieu,Smallmouth bass,2975.5,2007,,,26
+punctulatus,Spotted bass,2557,,,,7
+salmoides,Largemouth bass,5527.5,1277,,,23
+annularis,White crappie,1292.5,,,,10
+nigromaculatus,Black crappie,1496,,,,15
+antarctica,Antarctic butterfish,33000,2281,,,15
+brama,Whario,2200,1277,,,15
+porosa,Silver warehou,,,,,15
+undecimalis,Common snook,13365,1460,,,7
+niloticus,Snook,110000,,,,7.8
+lineolatus,Lined butterflyfish,,,,,10
+rostratus,Longnosed butterflyfish,,,,,10
+flavissimus,Longnose butterflyfish,,,,,18
+spectabilis,Brownbanded morwong,,,,,59
+macropterus,Tarakihi,,1825,,,50
+bimaculatum,Black acara,,,,,20
+facetum,Chanchito,,,,,10
+cyanoguttatum,Rio Grande cichlid,,,,,5
+andersonii,Three spotted tilapia,2590.5,1460,,,13
+esculentus,Singida tilapia,,,,,10
+mortimeri,Kariba tilapia,,,,,8
+mossambicus,Mozambique mouth-breeder,621.5,293,,,11
+niloticus,Nile tilapia,2400,,,,9
+philander,Southern mouthbrooder,,,,,5
+codringtonii,Green happy,1215.5,,,,7
+giardi,Pink happy,1595,730,,,7
+angusticeps,Thinface cichlid,1375,,,,9
+carlottae,Rainbow happy,550,,,,6
+macrocephalus,Purpleface largemouth,825,,,,6
+rendalli,Redbreast tilapia,1375,,,,7
+zillii,Redbelly tilapia,165,492,,,7
+equiselis,Pompano dolphin,,,,,4
+hippurus,Common dolphinfish,22000,197,,,4
+zonatum,Banded pygmy sunfish,,,,,3
+argenteus,Barred surfperch,1100,,,,9
+aggregata,Shiner perch,,,,,8
+jacksoni,Black perch,385,,,,10
+ellipticum,Silver surfperch,,,,,7
+telescopus,Telescope cardinal,,,,,104
+brevilineata,Short-lined escolar,,,,,15
+solandri,Silver gemfish,8800,1460,,,16
+atun,Atun,3300,1003,,,10
+gracilis,New Zealand slender clingfish,,,,,4
+hectoris,Hector's clingfish,,,,,4
+littoreus,Giant clingfish,,,,,6
+melobesia,Striped clingfish,,,,,4
+ios,Arrow goby,,,,,3
+linearis,Crystal goby,,365,,,1
+newberryi,Tidewater goby,,,,,1
+sigillata,Pygmy goby,,36,,135,0.16
+robustum,Code goby,,,,,1
+niger,Black goby,,292,,,5
+paganellus,Rock goby,,912,,,10
+flavescens,Twospotted goby,,,,,2
+scorpioides,Diminutive goby,,,,,2
+lepidus,Bay goby,,,,,7
+friesii,Fries' goby,,730,,,11
+melanostomus,Round goby,,1277,,,4
+lozanoi,Lozano's goby,,,,,2
+marmoratus,Marbled goby,,,,,2
+minutus,Freckled goby,,365,,,3
+pictus,Painted goby,,,,,2
+ephippiatus,Leopard-spotted goby,,,,,9
+sciurus,Bluestriped grunt,412.5,,,,12
+chrysoptera,Pigfish,500,,,,4
+antarcticus,Antarctic spiny plunderfish,,,,,9
+platypterus,Atlantic sailfish,55110,,,,13
+nigricans,Black spearfish,93500,,,,28
+exoletus,Rock cook,,,,,6
+rupestris,Goldsinny wrasse,,,,,8
+dimidiatus,Cleaner fish,,,,,4
+bergylta,Ballan wrasse,2392.5,,,,29
+merula,Brown wrasse,,,,,17
+celidotus,Spotty,,,,,7
+pulcher,California sheephead,,,,,53
+melops,Corkwing wrasse,,912,,,9
+onitis,Tautog,6215,,,,34
+adspersus,Cunner,550,365,,,6
+bifasciatum,Bluehead,,,,,3
+ciliaris,Bastard trumpeter,,2007,,,33
+atkinsoni,Pacific yellowtail emperor,,,,,24
+genivittatus,Lancer,,,,,7
+harak,Blackspot emperor,,,,,15
+lentjan,Pig-face bream,,1277,,,19
+mahsena,Sky emperor,,1095,,,27
+miniatus,Lipper,5280,912,,,22
+nebulosus,Blue emperor,4620,1898,,,27
+obsoletus,Orange-striped emperor,,,,,14
+variegatus,Slender emperor,,,,,15
+virescens,Blue-gray snapper,8470,,,,21
+adetii,Hussar,,,,,40
+analis,Mutton snapper,8580,,,,29
+argentimaculatus,Mangrove jack,4785,1460,,,18
+bohar,Red bass,6875,,,,13
+campechanus,Northern red snapper,12540,,,,57
+carponotatus,Spanish flag snapper,,,,,20
+erythropterus,Crimson snapper,,,,,8
+fulviflamma,Black spot snapper,,,,,23
+gibbus,Humpback red snapper,,,,,18
+lutjanus,Bigeye snapper,,,,,11
+malabaricus,Malabar blood snapper,4350.5,,,,31
+peru,Pacific red snapper,3195.5,,,,7.2
+purpureus,Caribbean red snapper,5500,2008,,,18
+quinquelineatus,Blue-banded sea perch,,,,,31
+sanguineus,Saddletailed sea perch,12650,1003,,,13
+sebae,Emperor snapper,17985,,,,35
+synagris,Lane snapper,1941.5,365,,,10
+vitta,Blackstriped snapper,,,,,12
+chrysurus,Yellowtail snapper,2238.5,,,,14
+filamentosus,Crimson jobfish,4484.7,,,,18
+multidens,Goldbanded jobfish,,,,,30
+typus,Sharptooth jobfish,1210,,,,11
+aurorubens,Vermilion snapper,1743.5,1095,,,10
+japonicus,Red tilefish,687.5,912,,,12
+microps,Blueline tilefish,3850,,,,15
+princeps,Ocean whitefish,3168,,,,13
+chamaeleonticeps,Blue tilefish,16500,1825,,,35
+labrax,European seabass,6600,730,,,15
+americana,White perch,1210,,,,7
+chrysops,White bass,1537.25,730,2,,9
+mississippiensis,Yellow bass,6050,,,,6
+saxatilis,Striped bass,31350,,,,30
+surmuletus,Red mullet,550,730,,,10
+moluccensis,Goldband goatfish,,,,,5
+japonicus,Japanese threadfin-bream,327.8,,,,8
+mawsoni,Antarctic toothfish,44000,,,,31
+squamifrons,Grey rockcod,,,,,19
+rossii,Marbled rockcod,5500,,,,16
+antarcticum,Antarctic silverfish,110,,,,20
+bernacchii,Emerald rockcod,,1277,,,10
+splendens,Siamese fighting fish,,,,,2
+peelii,Murray cod,62000,,,,48
+ambigua,Golden perch,13200,912,,,20
+novemaculeata,Australian bass,,,,,22
+clara,Western sand darter,,,,,3
+asprella,Crystal darter,,,,,3
+acuticeps,Sharphead darter,,,,,3
+asprigene,Mud darter,,,,,3
+barbouri,Teardrop darter,,,,,2
+blennioides,Greenside darter,,365,,,5
+blennius,Blenny darter,,,,,3
+caeruleum,Rainbow darter,,,,,3
+collettei,Creole darter,,,,,3
+coosae,Coosa darter,,,,,3
+cragini,Arkansas darter,,,,,3
+ditrema,Coldwater darter,,,,,2
+exile,Iowa darter,,,,,3
+flabellare,Fantail darter,,,,,4
+fusiforme,Swamp darter,,365,,,2
+gracile,Slough darter,,,,,4
+juliae,Yoke darter,,,,,3
+kennicotti,Stripetail darter,,,,,3
+longimanum,Longfin darter,,,,,3
+microperca,Least darter,,,,,2
+moorei,Yellowcheek darter,,,,,4
+nianguae,Niangua darter,,,,,4
+nigrum,Johnny darter,,,,,4
+okaloosae,Okaloosa darter,,,,,8
+olivaceum,Dirty darter,,,,,2
+olmstedi,Tessellated darter,,,,,4
+pallididorsum,Paleback darter,,,,,2
+proeliare,Cypress darter,,,,,2
+punctulatum,Stippled darter,,,,,4
+radiosum,Orangebelly darter,,,,,4
+rubrum,Bayou darter,,,,,3
+rufilineatum,Redline darter,,365,,77,4
+smithi,Slabrock darter,,,,,2
+squamiceps,Spottail darter,,,,,3
+striatulum,Striated darter,,,,,2
+variatum,Variegate darter,,,,,4
+zonale,Banded darter,,,,,4
+flavescens,Yellow perch,1055.25,,16,100000,12
+fluviatilis,Eurasian perch,2612.5,821,,,22
+aurantiaca,Tangerine darter,,,,750,4.5
+burtoni,Blotchside logperch,,,,,4
+caprodes,Logperch,,,7,,3
+evides,Gilt darter,,,,,4
+macrocephala,Longhead darter,,,,,4
+maculata,Blackside darter,,,,,4
+pantherina,Leopard darter,,,,,3
+phoxocephala,Slenderhead darter,,,,,3
+rex,Roanoke logperch,,,,,6
+roanoka,Roanoke darter,,,,,3
+sciera,Dusky darter,,,,,4
+shumardi,River darter,,,,,3
+tanasi,Snail darter,,,,,4
+vigil,Saddleback darter,,,,,2
+canadensis,Sauger,2000,730,20,,18
+lucioperca,Zander,11000,1338,,,16
+vitreus,Walleye,11000,,,150000,29
+gunnellus,Rock gunnel,,,,,5
+fuscus,Taumaka,,,,,9
+macrochir,King threadfin,24750,,,,20
+oxygeneios,Hapuka,55000,4197,,,60
+gigas,Giant sea bass,140580,,,,75
+bicolor,Black and gold angelfish,,,,,13
+flavissima,Lemonpeel angelfish,,,,,11
+navarchus,Bluegirdled angelfish,,,,,15
+diacanthus,Royal angelfish,,,,,14.5
+clarkii,Black clown,,,,,11
+ephippium,Red saddleback anemonefish,,,,,16
+melanopus,Black anemonefish,,,,,5
+saltatrix,Bluefish,7920,,,,9
+japonicus,Bulleye,1144,,,,9
+canadum,Cobia,37400,,,,15
+gibbus,Heavybeak parrotfish,2200,,,,14
+frenatus,Bridled parrotfish,,,,,20
+ghobban,Flame parrotfish,,,,,13
+psittacus,Palenose parrotfish,,,,,5
+rubroviolaceus,Bicolor parrotfish,,,,,20
+grunniens,Freshwater drum,13292.5,,2,50000,13
+japonicus,Southern meagre,41250,,,,30
+nobilis,White seabass,22550,,,,20
+saturnum,Black croaker,385,,,,20
+nebulosus,Spotted seatrout,4356,,,,18
+lineatus,White croaker,,,,,15
+xanthurus,Spot,247.5,,,,4
+undulatus,California corbina,2145,,,,8
+furnieri,Whitemouth drummer,,1277,,,7
+undulatus,Atlantic croaker,1419,365,,,5
+cromis,Black drum,28215,,,,43
+ocellatus,Red drum,24750,1277,,,50
+macdonaldi,Totoaba,,,,,15
+thazard,Frigate tuna,,,,,5
+affinis,Little tunny,7700,,,,10
+pelamis,Skipjack tuna,18975,,,,12
+brachysoma,Indian mackerel,,,,,4
+sarda,Atlantic bonito,6050,365,,,5
+japonicus,Chub mackerel,1595,821,,,18
+scombrus,Atlantic mackerel,1870,784,,,17
+commerson,King mackerel,38500,,,,14
+maculatus,Spanish mackerel,3239.5,730,,,5
+tritor,West African Spanish mackerel,3300,,,,5
+alalunga,Albacore,33165,1825,,2000000,13
+albacares,Yellowfin tuna,,,,,9
+maccoyii,Southern bluefin tuna,143000,3102,,,20
+obesus,Bigeye tuna,115500,,,,11
+thynnus,Horse mackerel,376200,1368,,,15
+striata,Black sea bass,2365,,,,20
+miniata,Bluespot rockcod,,,,,25
+areolatus,Areolate grouper,770,,,,15
+chlorostigma,Brownspotted grouper,3850,,,,29
+coioides,Orange-spotted grouper,8250,,,,22
+drummondhayi,Speckled hind,16500,,,,25
+flavolimbatus,Yellowedge grouper,10230,,,,32
+marginatus,Dusky grouper,33000,,,,50
+niveatus,Snowy grouper,16500,,,,27
+striatus,Nassau grouper,13750,,,,16
+interstitialis,Yellowmouth grouper,5610,,,,41
+phenax,Scamp,7810,,,,21
+clathratus,Kelp bass,3850,,,,31
+nebulifer,Barred sand bass,3289,,,,31
+leopardus,Bluedotted coraltrout,12980,1277,,,26
+scriba,Painted comber,8250,,,,60
+punctatus,Spotted whiting,2640,1277,,,15
+ciliata,Sand whiting,770,,,,22
+schomburgkii,Western sand whiting,,,,,12
+sihama,Northern whiting,,,,,7
+australis,Surf bream,2475,,,,12
+butcheri,Southern black bream,2200,912,,,29
+probatocephalus,Sheepshead,2000,730,,,20
+nodosus,Knobbed porgy,1446.5,,,,17
+auratus,Squirefish,11000,1277,,,35
+annularis,Annular seabream,,365,,,7
+sargus,White seabream,1000,,,,21
+aureti,West coast seabream,10615,1971,,,50
+bogaraveo,Blackspot seabream,2200,,,,15
+aurata,Gilthead seabream,9460,,,,11
+cantharus,Black sea bream,671,,,,15
+chrysops,Scup,1133,,,,19
+argentea,Pacific barracuda,6600,,,,11
+barracuda,Great barracuda,24000,730,,,14
+lepturus,Atlantic cutlassfish,2750,,,,15
+lesleyae,Mottled twister,,,,,3
+lapillum,Common triplefin,,,,,3
+varium,Striped triplefin,,,,,4
+giganteum,Flathead,,,,,20
+pacificus,Blackbelly eelpout,,,,,5
+americanus,Ocean pout,2989.8,,,,18
+viviparus,Viviporous blenny,280.5,,,,10
+agassizii,Spring cavefish,,,,,3
+subterraneus,Southern cavefish,,,,,4
+sayanus,Pirate perch,,,,,4
+omiscomaycus,Trout-perch,,,,,4
+transmontana,Sand roller,,,,,6
+maculatus,Hogchoker,,,,,6
+imperialis,Scaldfish,,,,,8
+thori,Grohmann's scaldfish,,,,,10
+crossotus,Fringed flounder,,,,,2
+californicus,California halibut,18150,,,,30
+lethostigma,Southern flounder,5131.5,,,,8
+pentophthalmus,Fivespot flounder,,,,,3
+stomias,Arrowtooth flounder,1100,,,,15
+jordani,Petrale sole,1980,2555,,,25
+cynoglossus,Witch flounder,1375,,,,25
+zachirus,Rex sole,825,,,,24
+platessoides,American plaice,3520,1460,,,30
+hippoglossus,Atlantic halibut,176000,3102,,,90
+stenolepis,Pacific halibut,199650,4562,,,42
+isolepis,Butter sole,,,,,11
+bicoloratus,Stone flounder,,,,,12
+bilineata,Rock sole,,,,,22
+aspera,Yellowfin sole,233.75,1642,,,26
+ferruginea,Yellowtail flounder,825,1334,,,12
+kitt,Lemon sole,1600,1460,,,23
+pacificus,Dover sole,,2738,,,45
+flesus,European flounder,7700,1049,,,15
+stellatus,Starry flounder,5005,,,,24
+platessa,Plaice,3850,1095,,,50
+americanus,Winter flounder,1980,1034,,,14
+hippoglossoides,Greenland halibut,3850,3102,,,30
+plebeia,Dab,,,,,12
+maximus,Turbot,13750,1460,,,26
+rhombus,Brill,4400,,,,6
+luteum,Solenette,,,,,13
+variegatus,Thickback sole,,,,,14
+impar,Adriatic sole,,,,,12
+lascaris,Atlantic sole,,,,,15
+solea,Common sole,1650,1460,,,27
+albula,Vendace,550,730,,,10
+artedi,Cisco,1842,,,,11
+clupeaformis,Lake whitefish,10450,,,,50
+hoyi,Bloater,,,,,10
+kiyi,Kiyi,,,,,10
+muksun,Muksun,7590,,,,23
+nasus,Broad whitefish,8800,,,,15
+nigripinnis,Blackfin cisco,,,,,14
+pidschian,Humpback whitefish,,5110,,,14
+pollan,Irish pollan,247.5,1277,,,10
+reighardi,Shortnose cisco,296.45,,,,8
+sardinella,Least cisco,305.25,1916,,,26
+zenithicus,Longjaw cisco,,,,,11
+hucho,Danube salmon,28600,1825,,,15
+taimen,Taimen,38500,,,,16
+clarkii,Cutthroat trout,10230,1095,,,10
+gorbuscha,Pink salmon,3740,730,,,3
+keta,Chum salmon,8745,1186,,,7
+kisutch,Coho salmon,8360,1095,,,5
+mykiss,Steelhead,12235,912,18,3500,11
+nerka,Sockeye salmon,4240.5,730,,,8
+tshawytscha,Chinook salmon,33770,1460,,,9
+coulterii,Pygmy whitefish,,,,,9
+cylindraceum,Round whitefish,1498,1095,140,,16
+gemmifer,Bonneville cisco,,,,,6
+spilonotus,Bonneville whitefish,,,,,8
+williamsoni,Mountain whitefish,1606,,,,17
+salar,Atlantic salmon,25740,1825,,,13
+trutta,Brown trout,,,,8000,38
+alpinus,Arctic char,,3285,,,40
+fontinalis,Bunnylake brook trout,4397.25,730,,,24
+namaycush,Lake trout,17985,4745,,,50
+leucichthys,Inconnu,22000,3650,,,22
+arcticus,Arctic grayling,2103.25,,,,18
+cataphractus,Armed bullhead,,912,,,3
+fimbria,Sablefish,31350,,,,114
+aleuticus,Coastrange sculpin,,,,,8
+asper,Prickly sculpin,,,,,7
+bairdii,Mottled sculpin,,730,,60,6
+carolinae,Banded sculpin,,730,,475,4
+cognatus,Slimy sculpin,,,,,7
+confusus,Shorthead sculpin,,,,,6
+gobio,Bullhead,,,,,5
+paulus,Pygmy sculpin,,,,,2
+poecilopus,Alpine bullhead,,,,,8
+armatus,Pacific staghorn sculpin,,,,,10
+octodecemspinosus,Longhorn sculpin,,,,,11
+quadricornis,Fourhorn sculpin,143,,,,14
+decagrammus,Kelp greenling,1155,1460,,,12
+elongatus,Lingcod,32505,,,,20
+richardsoni,Tiger flathead,1650,,,,12
+conatus,Deepwater flathead,,1642,,,20
+marmoratus,Devilfish,,730,,,14
+percoides,Sea perch,770,,,,42
+volitans,Red firefish,,,,,10
+aleutianus,Rougheye rockfish,495,,,,205
+alutus,Pacific ocean perch,770,3833,,,100
+atrovirens,Kelp rockfish,,,,,20
+auriculatus,Brown rockfish,,,,,20
+babcocki,Redbanded rockfish,2442,,,,106
+borealis,Shortraker rockfish,8910,,,,157
+brevispinis,Silvergray rockfish,2590.5,,,,82
+carnatus,Gopher rockfish,,,,,30
+caurinus,Copper rockfish,1507,,,,55
+chlorostictus,Greenspotted rockfish,555.5,,,,33
+chrysomelas,Black-and-yellow rockfish,,,,,22
+ciliatus,Dusky rockfish,995.5,,,,67
+constellatus,Starry rockfish,572,,,,32
+crameri,Darkblotched rockfish,,1861,,,66
+dallii,Calico rockfish,,,,,12
+diploproa,Splitnose rockfish,445.5,1825,,,84
+elongatus,Greenstriped rockfish,346.5,,,,42
+entomelas,Widow rockfish,,,,,60
+flavidus,Yellowtail rockfish,1380.5,2190,,,64
+goodei,Chilipepper,847,,,,27
+helvomaculatus,Rosethorn rockfish,,,,,87
+hopkinsi,Squarespot rockfish,,,,,19
+jordani,Shortbelly rockfish,,,,,31
+levis,Cowcod,7150,4380,,,55
+maliger,Quillback rockfish,1804,,,,90
+melanops,Black rockfish,2640,,,,50
+mentella,Deepwater redfish,,3650,,,75
+miniatus,Vermilion rockfish,3700,,,,43
+mystinus,Blue rockfish,2084.5,1277,,,44
+nebulosus,China rockfish,918.5,,,,79
+nigrocinctus,Tiger rockfish,1221,,,,116
+ovalis,Speckled rockfish,522.5,,,,37
+paucispinis,Bocaccio,5296.5,1460,,,50
+pinniger,Canary rockfish,2491.5,2007,,,84
+polyspinis,Northern rockfish,,,,,57
+proriger,Redstripe rockfish,,,,,55
+rastrelliger,Grass rockfish,,,,,23
+reedi,Yellowmouth rockfish,,,,,99
+rosaceus,Rosy rockfish,,,,,14
+rosenblatti,Greenblotched rockfish,,,,,50
+ruberrimus,Rasphead rockfish,9790,4927,,,118
+rubrivinctus,Flag rockfish,797.5,,,,18
+rufus,Bank rockfish,1089,,,,53
+saxicola,Stripetail rockfish,,,,,38
+serranoides,Olive rockfish,900,,,,25
+variegatus,Harlequin rockfish,,,,,47
+viviparus,Norway haddock,550,,,,40
+wilsoni,Pygmy rockfish,,,,,24
+zacentrus,Sharpchin rockfish,,,,,58
+alascanus,Shortspine thornyhead,1270.5,,,,115
+altivelis,Longspine thornyhead,,,,,45
+capensis,Cape gurnard,,,,,16
+cuculus,East Atlantic red gurnard,,730,,,21
+kumu,Bluefin searobin,825,912,,,15
+lucernus,Tub gurnard,3300,,,,15
+queketti,Lesser gurnard,,,,,7
+lyra,Lyre gurnard,,,,,7
+lastoviza,Streaked gurnard,,,,,18
+barbus,White sea catfish,,,,,36
+bajad,African catfish,6875,1642,,,17
+punctatus,South American catfish,,,,,8.8
+fossilis,Stinging catfish,,365,,,17.5
+catus,White catfish,5362.5,,,,14
+melas,Black bullhead,1995.5,730,7,3150,10
+natalis,Yellow bullhead,1278,730,,500,7
+platycephalus,Flat bullhead,,,,,7
+furcatus,Blue catfish,37450,,,,21
+punctatus,Channel catfish,13732.5,,,,16
+albater,Ozark madtom,,,,,3
+eleutherus,Mountain madtom,,,,,5
+exilis,Slender madtom,,,,,4
+flavater,Checkered madtom,,,,,5
+flavipinnis,Yellowfin madtom,,,,65,4
+flavus,Stonecat,,1095,,300,9
+gilberti,Orangefin madtom,,,,,3
+gyrinus,Tadpole madtom,,,,,3
+leptacanthus,Speckled madtom,,,,,3
+miurus,Brindled madtom,,,,,3
+nocturnus,Freckled madtom,,,,,4
+olivaris,Flathead catfish,30717.5,1460,,52000,20
+punctatus,Suckermouthed catfish,,,,,18
+electricus,Electric catfish,,,,,10
+schall,Upside-down catfish,275,,,,31
+macrocephalus,Cobbler,1375,912,,,13
+lineatus,Striped eel-catfish,,,,,7
+glanis,Sheatfish,168300,912,,,60
+braueri,Brauer's bristlemouth,,,,,1
+scintillans,Shiny loosejaw,,,,,7
+macouni,Pacific viperfish,12.87,,,,8
+ayraud,Chinaman-leatherjacket,1925,1095,,,9
+richei,Prickly toadfish,,,,,7
+lineatus,Nile globe-fish,,,,,5.9
+niger,Black oreo,825,9855,,,100
+verrucosus,Warty oreo,1100,,,,140
+rhomboidalis,Spiky oreo,1100,,,,100
+maculatus,Smooth oreo,2750,,,,100
+faber,European john dory,4400,1277,,,12
+franciscanus,Red sea urchin,,550,,,200
+purpuratus,Purple sea urchin,,730,,,50
+islandica,Ocean quahog clam,,4780,,,507
+elegans,Roundworm,,3,,,0.16
+antarctica,Epibenthic sponge,,,,,1550
+joubini,Hexactinellid sponge,,,,,15000
+longaeva,Great Basin bristlecone pine,,,,,5062
+cerevisiae,Baker's yeast,,,,,0.04
