@@ -1,0 +1,934 @@
+,Species,Common name,Adult weight (g),Male maturity (days),Gestation/Incubation (days),Litter/Clutch size,Maximum longevity (yrs)
+11,americanus,American toad,21.7667,910.0,8.0,6000.0,36.0
+28,marina,Cane toad,106.25,365.0,2.0,10000.0,24.8
+47,versicolor,Gray treefrog,7.2,730.0,4.0,1800.0,7.8
+102,tigrinum,Tiger salamander,9.402000000000001,1460.0,28.0,37.0,25.0
+104,means,Two-toed amphiuma,200.967,1095.0,150.0,200.0,27.0
+108,alleganiensis,Hellbender,358.1,1825.0,72.0,275.0,29.0
+166,cooperii,Cooper's hawk,526.64,730.0,24.0,4.0,20.3
+167,gentilis,Northern goshawk,1044.2,730.0,33.0,3.0,22.0
+169,striatus,Sharp-shinned hawk,135.0,365.0,34.0,4.0,19.9
+173,chrysaetos,Golden eagle,4800.0,1460.0,40.0,2.0,48.0
+181,jamaicensis,Red-tailed hawk,1362.0,730.0,31.0,3.0,30.7
+182,lagopus,Rough-legged hawk,980.64,730.0,29.0,5.0,18.8
+183,lineatus,Red-shouldered hawk,607.0,365.0,33.0,3.5,22.4
+184,platypterus,Broad-winged hawk,454.0,365.0,25.0,2.5,18.3
+185,regalis,Ferruginous hawk,1500.0,730.0,32.0,3.0,23.7
+187,swainsoni,Swainson's hawk,980.64,730.0,31.0,3.0,24.9
+188,anthracinus,Common black hawk,837.0,730.0,38.0,1.5,13.5
+191,cyaneus,Northern harrier,392.0,365.0,31.0,4.4,17.1
+201,albicilla,White-tailed sea-eagle,6696.5,1460.0,41.0,2.0,42.0
+202,leucocephalus,Bald eagle,3175.0,1460.0,35.0,2.0,48.0
+206,mississippiensis,Mississippi kite,266.0,365.0,31.0,2.0,11.2
+212,unicinctus,Harris's hawk,994.26,365.0,34.0,3.0,25.0
+214,jefferyi,Philippine eagle,6500.0,2555.0,63.0,1.0,41.0
+215,sociabilis,Snail kite,352.5,365.0,30.0,3.0,17.0
+217,aura,Turkey vulture,2200.0,4015.0,39.0,2.0,20.8
+218,atratus,Black vulture,2270.0,2920.0,35.0,2.0,25.5
+219,californianus,California condor,11175.0,2190.0,57.0,1.0,45.0
+221,gryphus,Andean condor,10500.0,2555.0,56.0,1.0,79.0
+222,haliaetus,Osprey,1362.0,1095.0,38.0,3.0,32.0
+224,sponsa,Wood duck,452.8,365.0,31.0,12.0,22.5
+225,aegyptiaca,Egyptian goose,1900.0,730.0,29.0,7.0,25.5
+226,acuta,Northern pintail,721.0,240.0,22.0,7.5,27.4
+227,americana,American wigeon,793.8,365.0,23.0,9.0,21.3
+228,clypeata,Northern shoveler,613.0,240.0,23.0,11.0,22.6
+229,crecca,Green-winged teal,343.8,180.0,22.0,10.0,27.1
+230,cyanoptera,Cinnamon teal,411.0,365.0,23.0,10.0,12.9
+231,discors,Blue-winged teal,420.0,240.0,24.0,10.0,23.2
+232,fulvigula,Mottled duck,950.0,365.0,26.0,10.0,20.0
+233,laysanensis,Laysan duck,500.0,365.0,28.0,3.8,12.0
+234,penelope,Eurasian wigeon,660.0,365.0,24.0,8.0,35.2
+235,platyrhynchos,Mallard,1048.1,365.0,26.0,9.0,29.1
+237,rubripes,American black duck,998.7,365.0,28.0,9.0,26.6
+238,strepera,Gadwall,791.0,240.0,26.0,10.0,28.0
+239,albifrons,Greater white-fronted goose,2681.0,1095.0,27.0,5.0,47.0
+242,fabalis,Bean goose,3348.0,1095.0,28.0,4.0,25.6
+243,affinis,Lesser scaup,787.0,365.0,24.0,10.0,18.3
+244,americana,Redhead,1077.3,365.0,26.0,13.0,22.6
+245,collaris,Ring-necked duck,737.0,365.0,27.0,9.0,20.4
+248,marila,Greater scaup,928.5,365.0,26.0,9.0,22.1
+249,valisineria,Canvasback,1208.8,240.0,24.0,9.0,29.5
+250,bernicla,Brent goose,1163.2,730.0,24.0,4.0,28.8
+251,canadensis,Canada goose,3200.0,730.0,26.0,5.0,42.0
+254,sandvicensis,Hawaiian goose,2150.0,730.0,30.0,4.0,42.0
+255,albeola,Bufflehead,400.0,730.0,30.0,8.0,18.7
+256,clangula,Common goldeneye,895.86,730.0,30.0,10.0,18.4
+257,islandica,Barrow's goldeneye,957.15,730.0,29.0,11.0,18.0
+259,caerulescens,Snow goose,2806.65,730.0,24.0,4.0,27.5
+260,canagica,Emperor goose,2148.0,365.0,24.0,4.9,12.0
+261,rossii,Ross's goose,1715.0,570.0,21.0,4.0,22.5
+262,hyemalis,Oldsquaw,872.0,730.0,24.0,7.0,22.7
+263,buccinator,Trumpeter swan,13000.0,730.0,35.0,5.0,32.5
+264,columbianus,Tundra swan,6350.0,730.0,31.0,4.0,24.1
+266,olor,Mute swan,8300.0,1095.0,36.0,5.3,70.0
+267,autumnalis,Black-bellied whistling duck,828.0,365.0,27.0,14.0,8.2
+268,bicolor,Fulvous whistling duck,737.1,365.0,25.0,13.0,11.2
+270,histrionicus,Harlequin duck,561.25,365.0,28.0,6.0,14.6
+271,cucullatus,Hooded merganser,634.375,730.0,31.0,11.0,15.7
+272,fusca,White-winged scoter,1360.8,730.0,28.0,11.0,21.4
+273,nigra,Black scoter,1052.2,730.0,29.0,9.0,16.8
+276,merganser,Common merganser,1445.0,730.0,30.0,10.0,14.8
+277,serrator,Red-breasted merganser,1020.6,730.0,32.0,10.0,21.3
+280,jamaicensis,Ruddy duck,542.0,365.0,23.0,8.0,13.6
+282,stelleri,Steller's eider,907.2,730.0,26.0,8.0,23.0
+284,mollissima,Common eider,2130.0,730.0,28.0,4.0,37.8
+285,spectabilis,King eider,1617.0,730.0,23.0,5.0,18.9
+290,pelagica,Chimney swift,22.8,365.0,20.0,4.5,15.0
+291,niger,Black swift,45.0,365.0,24.0,1.0,16.1
+295,colubris,Ruby-throated hummingbird,3.1,365.0,13.0,2.0,9.1
+297,anna,Anna's hummingbird,4.4,365.0,16.0,2.0,8.5
+299,latirostris,Broad-billed hummingbird,3.3,365.0,17.0,2.0,8.8
+300,fulgens,Magnificent hummingbird,8.1,365.0,14.0,2.0,11.0
+303,platycercus,Broad-tailed hummingbird,4.2,365.0,16.0,2.0,14.0
+304,rufus,Rufous hummingbird,3.5,365.0,16.0,2.0,8.9
+305,calliope,Calliope hummingbird,2.6,365.0,15.0,2.0,7.0
+321,cristatella,Crested auklet,289.0,1095.0,34.0,1.0,10.8
+322,pusilla,Least auklet,96.0,1095.0,30.0,1.0,8.1
+324,torda,Razorbill,726.0,1460.0,36.0,1.0,42.0
+326,columba,Pigeon guillemot,483.8,1095.0,31.0,2.0,15.2
+327,grylle,Black guillemot,427.5,1095.0,25.0,2.0,29.9
+328,monocerata,Rhinoceros auklet,544.1,1095.0,45.0,1.0,28.2
+329,arctica,Atlantic puffin,490.5,1460.0,42.0,1.0,40.8
+331,hypoleucus,Xantus' murrelet,167.0,730.0,34.0,2.0,15.0
+332,aalge,Common murre,992.0,1825.0,31.0,1.0,42.8
+333,lomvia,Thick-billed murre,964.0,2081.0,33.0,1.0,29.0
+335,alexandrinus,Snowy plover,37.0,331.0,24.0,3.0,19.0
+338,melodus,Piping plover,49.0,365.0,28.0,4.0,14.0
+341,semipalmatus,Semipalmated plover,52.0,912.0,24.0,4.0,9.2
+342,vociferus,Killdeer,88.0,365.0,24.0,4.0,10.9
+344,dominica,American golden plover,118.0,365.0,26.0,4.0,13.0
+346,squatarola,Black-bellied plover,224.0,730.0,27.0,4.0,25.6
+349,vanellus,Northern lapwing,218.5,730.0,24.0,4.0,24.5
+350,bachmani,Black oystercatcher,670.0,1825.0,26.0,2.0,16.0
+352,palliatus,American oystercatcher,565.0,1095.0,27.0,2.0,17.0
+353,minutus,Black noddy,110.4,730.0,34.0,1.0,27.1
+354,stolidus,Noddy tern,178.0,1460.0,35.0,1.0,26.2
+355,niger,Black tern,60.0,730.0,21.0,3.0,21.0
+357,ridibundus,Black-headed gull,306.0,730.0,22.0,3.0,32.9
+358,nilotica,Gull-billed tern,221.0,1825.0,22.0,3.0,16.0
+359,alba,Fairy tern,98.1,1764.0,36.0,1.0,35.9
+360,minutus,Little gull,119.0,730.0,21.0,3.0,20.9
+361,caspia,Caspian tern,644.0,1095.0,21.0,2.0,30.0
+365,argentatus,Herring gull,1094.0,1460.0,26.0,3.0,49.0
+367,californicus,California gull,691.0,1095.0,25.0,3.0,30.0
+368,canus,Mew gull,430.6,730.0,23.0,3.0,33.7
+369,delawarensis,Ring-billed gull,518.5,730.0,21.0,3.0,31.8
+372,glaucoides,Iceland gull,945.5,1460.0,25.0,2.39,33.0
+374,hyperboreus,Glaucous gull,1210.0,1460.0,27.0,3.0,21.1
+375,marinus,Great black-backed gull,1658.5,1825.0,27.0,3.0,29.2
+377,occidentalis,Western gull,931.5,1460.0,27.0,3.0,33.9
+381,fuscatus,Sooty tern,148.0,1460.0,28.0,1.0,35.8
+383,eburnea,Ivory gull,550.0,730.0,25.0,2.0,23.9
+386,tridactyla,Black-legged kittiwake,317.0,1460.0,27.0,2.0,28.5
+387,niger,Black skimmer,315.0,730.0,23.0,4.0,20.2
+388,dougallii,Roseate tern,112.0,1095.0,23.0,2.0,25.7
+389,forsteri,Forster's tern,158.0,730.0,23.0,3.0,15.8
+390,hirundo,Common tern,120.0,1095.0,24.0,2.5,33.0
+391,paradisaea,Arctic tern,100.0,1095.0,21.0,2.0,34.0
+392,albifrons,Little tern,31.0,730.0,21.0,2.0,23.9
+393,antillarum,Least tern,40.0,1095.0,21.0,2.0,24.1
+394,elegans,Elegant tern,251.0,1095.0,26.0,1.0,20.9
+395,maximus,Royal tern,373.0,1095.0,28.0,2.0,28.6
+396,sandvicensis,Sandwich tern,250.0,1095.0,22.0,1.0,30.8
+398,mexicanus,Black-necked (Hawaiian) stilt,186.0,365.0,25.0,4.0,19.1
+401,macularius,Spotted sandpiper,34.0,365.0,20.0,4.0,12.0
+402,interpres,Ruddy turnstone,136.0,730.0,22.0,4.0,22.3
+404,alba,Sanderling,50.0,730.0,27.0,4.0,18.6
+405,alpina,Dunlin,52.5,730.0,21.0,4.0,28.8
+406,canutus,Red knot,135.0,1095.0,22.0,4.0,27.3
+409,maritima,Purple sandpiper,65.2,1095.0,22.0,4.0,20.8
+410,mauri,Western sandpiper,26.19,730.0,21.0,4.0,9.2
+412,minutilla,Least sandpiper,26.0,365.0,20.0,4.0,16.0
+413,pusilla,Semipalmated sandpiper,27.0,365.0,20.0,4.0,19.3
+416,gallinago,Common snipe,131.6,365.0,19.0,4.0,18.2
+418,griseus,Short-billed dowitcher,105.0,365.0,21.0,4.0,13.3
+420,fedoa,Marbled godwit,336.0,1095.0,24.0,4.0,13.7
+421,lapponica,Bar-tailed godwit,322.0,730.0,21.0,4.0,34.0
+425,phaeopus,Whimbrel,365.7,730.0,22.0,4.0,24.2
+430,minor,American woodcock,197.5,300.0,20.0,4.0,20.9
+436,semipalmata,Willet,270.0,730.0,22.0,4.0,12.6
+443,parasiticus,Parasidic jaeger,445.5,1200.0,26.0,2.0,31.1
+448,ciconia,European white stork,3350.0,1460.0,33.0,4.0,39.0
+455,crumeniferus,Marabou,8000.0,1460.0,30.0,2.0,44.7
+458,americana,Wood stork,2500.0,1460.0,30.0,3.0,27.0
+464,livia,Rock dove,358.7,140.0,18.0,2.0,35.0
+468,passerina,Common ground dove,35.0,75.0,13.0,2.0,7.2
+472,fasciata,Band-tailed pigeon,315.0,365.0,19.0,1.0,18.5
+475,decaocto,Eurasian collared-dove,157.4,365.0,15.0,2.0,17.9
+478,asiatica,White-winged dove,140.0,365.0,13.0,2.0,25.0
+479,macroura,Mourning dove,119.0,80.0,14.0,2.0,31.3
+493,americanus,Yellow-billed cuckoo,57.8,365.0,14.0,3.0,5.0
+494,erythropthalmus,Black-billed cuckoo,37.5,365.0,14.0,2.5,5.0
+496,californianus,Greater roadrunner,376.0,365.0,20.0,4.0,9.0
+503,columbarius,Merlin,195.0,365.0,30.0,5.0,12.7
+506,mexicanus,Prairie falcon,858.0,365.0,31.0,4.0,17.2
+508,peregrinus,Peregrine falcon,840.0,365.0,30.0,3.0,25.0
+510,rusticolus,Gyrfalcon,1406.5,730.0,35.0,3.72,13.5
+511,sparverius,American kestrel,117.0,365.0,29.0,4.6,17.0
+518,vetula,Plain chachalaca,495.5,365.0,23.0,3.0,8.8
+521,californica,California quail,138.0,274.0,22.0,14.0,9.6
+522,gambelii,Gambel's quail,166.0,365.0,22.0,11.0,7.4
+523,virginianus,Northern bobwhite,194.0,365.0,23.0,15.0,6.4
+525,umbellus,Ruffed grouse,532.0,120.0,24.0,11.0,11.0
+526,urophasianus,Sage grouse,1929.5,365.0,26.0,7.0,7.0
+528,pictus,Golden pheasant,625.0,365.0,22.0,10.0,13.4
+532,obscurus,Blue grouse,1058.5,365.0,26.0,8.0,14.0
+533,canadensis,Spruce grouse,417.3,365.0,20.0,5.0,13.0
+537,lagopus,Willow ptarmigan,595.875,365.0,21.0,6.0,9.0
+538,leucura,White-tailed ptarmigan,326.0,365.0,23.0,6.0,15.0
+540,gallopavo,Wild turkey,6050.0,365.0,28.0,11.0,13.0
+541,cristatus,Indian peafowl,4200.0,730.0,29.0,5.0,23.2
+542,perdix,Grey partridge,492.0,365.0,24.0,16.0,5.2
+543,colchicus,Common pheasant,1094.8,240.0,24.0,11.0,27.0
+544,napoleonis,Palawan peacock-pheasant,550.0,365.0,19.0,2.0,15.0
+548,cupido,Greater prairie chicken,908.0,183.0,23.0,13.0,5.0
+549,pallidicinctus,Lesser prairie chicken,794.5,183.0,23.0,11.0,13.5
+550,phasianellus,Sharp-tailed grouse,908.0,180.0,23.0,12.0,7.5
+551,arctica,Black-throated diver,2724.0,1095.0,29.0,1.74,28.0
+552,immer,Great northern diver,3405.0,1461.0,28.0,2.0,24.1
+553,stellata,Red-throated diver,1816.0,1095.0,28.0,2.0,24.0
+554,virgo,Demoiselle crane,2400.0,730.0,28.0,2.0,27.0
+556,americana,Whooping crane,7500.0,1460.0,31.0,2.0,40.0
+558,canadensis,Sandhill crane,3890.0,1095.0,29.0,2.0,36.6
+560,japonensis,Red-crowned crane,8500.0,1095.0,31.0,2.0,25.2
+564,vipio,White-naped crane,5400.0,1095.0,31.0,2.0,45.0
+565,americana,American coot,450.8,365.0,23.0,10.0,22.3
+567,chloropus,Common moorhen,392.0,365.0,19.0,9.0,18.6
+570,longirostris,Clapper rail,308.0,365.0,22.0,10.0,7.5
+586,minimus,Bushtit,5.3,365.0,12.0,6.0,9.1
+587,arvensis,Eurasian skylark,37.5,365.0,11.0,3.0,10.1
+588,alpestris,Horned lark,33.5,365.0,11.0,43.0,8.0
+591,cedrorum,Cedar waxwing,30.0,365.0,14.0,4.0,8.2
+592,garrulus,Bohemian waxwing,54.5,365.0,14.0,5.0,13.5
+594,pictus,Smith's longspur,26.65,365.0,12.0,4.0,5.0
+596,nivalis,Snow bunting,41.8,365.0,12.0,5.0,9.6
+597,cardinalis,Northern cardinal,42.6,365.0,12.0,3.0,28.5
+599,amoena,Lazuli bunting,15.15,365.0,12.0,4.0,9.9
+600,caerulea,Blue grosbeak,28.4,365.0,11.0,4.0,10.2
+601,ciris,Painted bunting,14.75,365.0,11.0,4.0,12.0
+602,cyanea,Indigo bunting,15.0,365.0,12.0,3.5,11.0
+603,ludovicianus,Rose-breasted grosbeak,47.325,365.0,12.0,4.0,24.0
+604,melanocephalus,Black-headed grosbeak,42.0,365.0,12.0,3.0,25.0
+605,ludoviciana,Western tanager,30.0,365.0,13.0,4.0,15.3
+606,olivacea,Scarlet tanager,29.0,365.0,13.0,4.0,11.9
+607,rubra,Summer tanager,40.0,365.0,12.0,4.0,7.9
+608,americana,Dickcissel,33.0,365.0,12.0,4.0,4.8
+617,coerulescens,Scrub jay,78.7,365.0,17.0,4.0,15.0
+618,insularis,Island scrub jay,114.0,365.0,18.0,4.0,15.3
+621,brachyrhynchos,American crow,384.8,730.0,18.0,5.0,20.0
+622,caurinus,Northwestern crow,294.0,730.0,18.0,4.0,16.7
+623,corax,Common raven,1041.2,1095.0,19.0,5.0,69.0
+629,hawaiiensis,Hawaiian crow,520.0,1460.0,20.0,3.0,25.0
+630,ossifragus,Fish crow,418.0,730.0,17.0,4.0,14.5
+631,cristata,Blue jay,80.8,365.0,17.0,4.0,26.2
+632,stelleri,Steller's jay,99.1,365.0,16.0,4.0,16.1
+635,cyanocephalus,Pinyon jay,105.0,365.0,17.0,4.0,14.6
+637,columbiana,Clark's nutcracker,130.0,365.0,18.0,2.5,17.4
+638,canadensis,Gray jay,70.3,365.0,17.0,3.0,19.2
+640,hudsonia,Black-billed magpie,177.0,730.0,18.0,6.5,20.0
+641,nuttalli,Yellow-billed magpie,159.0,365.0,18.0,6.5,10.0
+646,ruficeps,Rufous-crowned sparrow,18.8,365.0,12.0,3.0,5.1
+647,caudacutus,Saltmarsh sharp-tailed sparrow,16.5,365.0,11.0,4.0,10.0
+650,maritimus,Seaside sparrow,20.0,365.0,12.0,4.0,9.0
+652,savannarum,Grasshopper sparrow,17.6,365.0,11.0,4.0,9.1
+656,melanocorys,Lark bunting,32.6,365.0,12.0,5.0,4.8
+665,hyemalis,Dark-eyed junco,19.0,365.0,11.0,4.0,11.3
+666,phaeonotus,Yellow-eyed junco,20.0,365.0,13.0,2.0,6.6
+667,georgiana,Swamp sparrow,16.1,365.0,13.0,4.0,7.8
+668,lincolnii,Lincoln's sparrow,17.35,365.0,11.0,4.0,7.6
+669,melodia,Song sparrow,22.7,365.0,12.0,4.0,11.3
+670,aberti,Abert's towhee,46.0,365.0,14.0,3.0,8.6
+672,fusca,Canyon towhee,44.4,365.0,11.0,3.0,12.8
+673,sandwichensis,Savannah sparrow,20.2,365.0,12.0,4.0,18.0
+675,aestivalis,Bachman's sparrow,19.6,365.0,13.0,4.0,3.9
+676,chlorurus,Green-tailed towhee,28.88,365.0,12.0,4.0,7.7
+677,erythrophthalmus,Eastern towhee,39.4,365.0,12.0,4.0,12.3
+679,gramineus,Vesper sparrow,25.7,365.0,12.0,4.0,7.9
+680,breweri,Brewer's sparrow,11.0,365.0,11.0,3.0,6.2
+681,pallida,Clay-colored sparrow,11.45,335.0,12.0,4.0,6.9
+682,passerina,Chipping sparrow,12.2,365.0,12.0,4.0,11.8
+683,pusilla,Field sparrow,12.5,365.0,12.0,4.0,10.3
+684,arborea,American tree sparrow,16.6,365.0,12.0,4.0,10.8
+685,albicollis,White-throated sparrow,21.1,365.0,13.0,4.0,14.9
+686,atricapilla,Golden-crowned sparrow,31.55,365.0,12.0,4.0,10.5
+687,leucophrys,White-crowned sparrow,25.82,365.0,12.0,4.0,13.3
+688,querula,Harris's sparrow,33.1,365.0,13.0,4.0,11.7
+692,flammea,Common redpoll,14.2,365.0,10.0,5.0,12.2
+693,hornemanni,Hoary redpoll,19.25,365.0,12.0,4.0,6.8
+702,cassinii,Cassin's finch,27.5,365.0,13.0,4.0,7.0
+704,purpureus,Purple finch,25.42,365.0,13.0,4.0,14.0
+708,atrata,Black rosy-finch,24.0,365.0,13.0,5.0,8.6
+710,tephrocotis,Gray-crowned rosy-finch,35.7,365.0,14.0,4.0,6.6
+713,curvirostra,Red crossbill,39.5,365.0,13.0,3.0,16.1
+715,bailleui,Palila,37.85,730.0,16.0,2.0,13.0
+716,coccineus,Akepa,10.4,730.0,15.0,1.5,10.0
+717,parva,Anianiau,10.0,365.0,14.0,3.0,9.5
+719,dolei,Akohekohe or crested honeycreeper,26.2,730.0,17.0,1.5,9.2
+720,enucleator,Pine grosbeak,65.3,365.0,13.0,4.0,9.8
+732,rustica,Barn swallow,18.3,365.0,15.0,6.0,16.0
+734,pyrrhonota,Cliff swallow,23.24,365.0,14.0,4.0,11.8
+735,subis,Purple martin,45.0,365.0,15.0,5.0,13.8
+736,riparia,Bank swallow,12.7,365.0,15.0,4.0,10.0
+739,bicolor,Tree swallow,19.0,365.0,14.0,5.0,12.1
+741,phoeniceus,Red-winged blackbird,56.7,365.0,12.0,3.5,20.0
+744,oryzivorus,Bobolink,35.0,365.0,13.0,5.0,9.0
+745,carolinus,Rusty blackbird,60.8,365.0,14.0,4.5,8.8
+746,cyanocephalus,Brewer's blackbird,64.55,365.0,13.0,5.0,12.5
+747,bullockii,Bullock's oriole,36.62,365.0,11.0,5.0,8.9
+756,mexicanus,Great-tailed grackle,168.7,730.0,13.0,3.0,12.5
+758,magna,Eastern meadowlark,94.71,365.0,13.0,5.0,12.6
+759,neglecta,Western meadowlark,85.0,365.0,14.0,3.0,10.0
+763,ludovicianus,Loggerhead shrike,46.0,365.0,11.0,5.0,12.5
+772,carolinensis,Gray catbird,34.5,365.0,13.0,4.0,17.9
+774,polyglottos,Northern mockingbird,53.0,365.0,12.0,4.0,20.0
+776,crissale,Crissal thrasher,62.7,274.0,14.0,2.5,4.8
+777,curvirostre,Curve-billed thrasher,80.65,365.0,13.0,3.0,10.8
+778,lecontei,Le conte's thrasher,61.82,312.0,16.0,3.0,5.7
+780,redivivum,California thrasher,84.4,228.0,14.0,3.0,6.9
+781,rufum,Brown thrasher,67.0,274.0,13.0,4.0,12.8
+786,rubescens,American pipit,20.8,365.0,14.0,5.0,5.1
+789,alba,White wagtail,24.1,365.0,13.0,5.0,13.7
+791,flava,Yellow wagtail,17.7,365.0,11.0,5.0,8.8
+799,svecica,Bluethroat,17.3,365.0,13.0,6.0,11.4
+813,bicolor,Tufted titmouse,21.0,365.0,13.0,6.0,13.3
+814,inornatus,Plain titmouse or oak titmouse,15.9,365.0,15.0,6.0,9.0
+815,wollweberi,Bridled titmouse,10.4,365.0,13.0,6.0,6.6
+820,atricapillus,Black-capped chickadee,10.4,180.0,12.0,7.0,12.4
+821,carolinensis,Carolina chickadee,10.25,365.0,13.0,6.0,10.9
+822,cinctus,Siberian tit or gray-headed chickadee,12.5,365.0,15.0,8.0,9.0
+823,gambeli,Mountain chickadee,11.5,365.0,14.0,7.0,10.1
+824,hudsonicus,Boreal chickadee,10.0,365.0,15.0,6.0,7.0
+827,rufescens,Chestnut-backed chickadee,9.8,365.0,13.0,6.5,9.5
+829,canadensis,Canada warbler,10.0,365.0,12.0,4.0,8.0
+830,pusilla,Wilson's warbler,7.0,365.0,10.0,5.0,8.9
+831,rubrifrons,Red-faced warbler,9.8,365.0,13.0,4.0,3.0
+835,trichas,Common yellowthroat,9.5,365.0,12.0,4.0,11.5
+836,vermivorum,Worm-eating warbler,12.5,365.0,13.0,5.0,8.1
+837,virens,Yellow-breasted chat,26.0,365.0,11.0,5.0,8.9
+838,celata,Orange-crowned warbler,9.2,365.0,12.0,4.0,8.6
+840,peregrina,Tennessee warbler,8.5,365.0,11.0,6.0,6.4
+841,ruficapilla,Nashville warbler,7.5,365.0,11.0,4.0,10.2
+843,swainsonii,Swainson's warbler,13.5,365.0,14.0,3.0,9.9
+844,varia,Black-and-white warbler,10.9,365.0,11.0,5.0,12.2
+845,pictus,Painted redstart,9.75,304.0,13.0,4.0,6.6
+846,motacilla,Louisiana waterthrush,22.5,365.0,13.0,5.0,11.9
+847,noveboracensis,Northern waterthrush,16.3,365.0,12.0,4.0,8.9
+848,citrea,Prothonotary warbler,14.3,365.0,13.0,5.0,8.1
+849,aurocapilla,Ovenbird,18.8,365.0,12.0,4.0,11.0
+851,americana,Northern parula,7.9,365.0,13.0,4.0,7.0
+852,caerulescens,Black-throated blue warbler,10.2,365.0,13.0,4.0,10.0
+854,cerulea,Cerulean warbler,8.625,365.0,12.0,4.0,6.0
+856,citrina,Hooded warbler,10.6,319.0,12.0,4.0,8.2
+859,dominica,Yellow-throated warbler,9.7,365.0,12.0,4.0,6.1
+861,kirtlandii,Kirtland's warbler,15.5,365.0,14.0,5.0,9.0
+862,magnolia,Magnolia warbler,7.5,365.0,12.0,4.0,8.0
+865,pensylvanica,Chestnut-sided warbler,9.0,365.0,12.0,4.0,6.9
+866,petechia,Yellow warbler,9.8,365.0,12.0,3.0,11.0
+867,pinus,Pine warbler,11.8,365.0,13.0,4.0,10.2
+868,ruticilla,American redstart,8.5,365.0,12.0,4.0,10.1
+869,striata,Blackpoll warbler,15.0,365.0,12.0,5.0,8.1
+871,virens,Black-throated green warbler,9.0,365.0,12.0,4.0,6.0
+872,chrysoptera,Golden-winged warbler,8.8,319.0,10.0,5.0,7.9
+873,cyanoptera,Blue-winged warbler,8.9,365.0,11.0,5.0,9.0
+874,domesticus,House sparrow,25.3,365.0,11.0,5.0,23.0
+876,montanus,Eurasian tree sparrow,20.5,319.0,13.0,5.0,13.1
+884,caerulea,Blue-grey gnatcatcher,6.5,319.0,13.0,4.0,4.2
+885,californica,California gnatcatcher,6.0,365.0,14.0,4.0,8.0
+889,calendula,Ruby-crowned kinglet,6.75,365.0,12.0,8.0,5.6
+891,satrapa,Golden-crowned kinglet,5.5,365.0,14.0,8.0,6.3
+892,flaviceps,Verdin,6.8,365.0,14.0,4.0,5.6
+894,canadensis,Red-breasted nuthatch,11.2,365.0,12.0,5.0,7.5
+895,carolinensis,White-breasted nuthatch,20.5,365.0,12.0,8.0,9.8
+897,pusilla,Brown-headed nuthatch,10.8,365.0,14.0,5.0,5.8
+898,pygmaea,Pygmy nuthatch,10.7,365.0,15.0,7.0,8.2
+903,vulgaris,European starling,74.0,365.0,12.0,5.0,22.9
+904,fasciata,Wrentit,14.7,365.0,15.0,3.5,12.6
+918,bewickii,Bewick's wren,9.8,365.0,14.0,6.0,8.0
+919,ludovicianus,Carolina wren,17.5,365.0,14.0,4.0,9.2
+920,aedon,House wren,9.7,365.0,13.0,7.0,9.0
+921,troglodytes,Winter wren,9.1,365.0,15.0,5.0,7.0
+922,bicknelli,Bicknell's thrush,27.5,365.0,12.0,4.0,11.9
+923,fuscescens,Veery,28.8,365.0,11.0,4.0,10.1
+924,guttatus,Hermit thrush,27.8,365.0,12.0,4.0,10.8
+925,minimus,Grey-cheeked thrush,24.8,365.0,13.0,4.0,7.3
+926,ustulatus,Swainson's thrush,27.9,365.0,12.0,4.0,11.0
+927,mustelina,Wood thrush,43.3,365.0,13.0,3.0,10.2
+928,naevius,Varied thrush,78.5,365.0,14.0,3.0,5.6
+930,mexicana,Western bluebird,26.5,365.0,14.0,5.0,8.7
+931,sialis,Eastern bluebird,30.5,321.0,14.0,4.0,10.5
+935,migratorius,American robin,75.5,365.0,13.0,3.0,17.0
+942,cooperi,Olive-sided flycatcher,32.8,365.0,15.0,3.0,11.1
+944,virens,Eastern wood pewee,13.9,365.0,13.0,3.0,8.2
+946,alnorum,Alder flycatcher,13.5,365.0,13.0,3.5,9.1
+947,difficilis,Pacific-slope flycatcher,11.0,365.0,14.0,3.5,6.9
+949,minimus,Least flycatcher,10.0,365.0,14.0,4.0,8.0
+950,oberholseri,Dusky flycatcher,10.95,365.0,15.0,4.0,9.0
+951,traillii,Willow flycatcher,12.6,365.0,13.0,3.5,11.0
+952,virescens,Acadian flycatcher,12.6,365.0,13.0,3.0,12.1
+955,crinitus,Great crested flycatcher,32.1,365.0,14.0,5.0,14.9
+957,rubinus,Vermilion flycatcher,12.87,365.0,14.0,3.0,5.5
+960,tyrannus,Eastern kingbird,39.9,365.0,12.0,3.0,11.1
+961,verticalis,Western kingbird,40.7,365.0,13.0,4.0,6.9
+963,bellii,Bell's vireo,10.0,365.0,14.0,4.0,9.1
+964,flavifrons,Yellow-throated vireo,18.0,365.0,15.0,4.0,6.1
+965,gilvus,Warbling vireo,15.0,304.0,13.0,3.5,13.1
+966,griseus,White-eyed vireo,12.0,365.0,13.0,4.0,10.9
+969,olivaceus,Red-eyed vireo,17.0,365.0,12.0,3.5,10.2
+971,solitarius,Blue-headed vireo,16.0,365.0,12.0,4.0,7.4
+972,japonicus,Japanese white-eye,11.25,365.0,11.0,3.5,5.1
+974,alba,Great egret,873.5,730.0,23.0,3.0,22.8
+978,herodias,Great blue heron,1870.0,669.0,28.0,4.0,24.5
+980,lentiginosus,American bittern,706.0,365.0,34.0,4.0,8.3
+982,ibis,Cattle egret,390.0,730.0,22.0,3.0,23.0
+983,virescens,Green heron,175.0,730.0,20.0,4.0,11.6
+984,caerulea,Little blue heron,339.5,365.0,23.0,4.0,13.9
+987,thula,Snowy egret,314.0,365.0,18.0,4.0,22.8
+988,tricolor,Tricolored heron,309.9,669.0,21.0,4.0,17.7
+990,nycticorax,Black-crowned night heron,800.0,365.0,25.0,4.0,21.1
+993,erythrorhynchos,American white pelican,6129.0,1095.0,36.0,2.0,54.0
+994,occidentalis,Brown pelican,3115.8,730.0,29.0,3.0,43.0
+998,albus,White ibis,940.0,730.0,22.0,3.0,27.6
+1004,ajaja,Roseate spoonbill,1036.97,1095.0,23.0,3.0,28.0
+1009,chihi,White-faced ibis,487.5,730.0,21.0,3.5,20.4
+1010,falcinellus,Glossy ibis,431.2,1095.0,21.0,3.0,26.8
+1020,rubricauda,Red-tailed tropicbird,593.2,274.0,45.0,1.0,32.7
+1023,roseus,Greater flamingo,2500.0,1825.0,30.0,1.0,44.0
+1024,auratus,Northern flicker,120.0,365.0,11.0,4.0,12.5
+1031,pileatus,Pileated woodpecker,364.0,365.0,18.0,4.0,13.0
+1033,carolinus,Red-bellied woodpecker,72.5,365.0,12.0,4.0,20.7
+1034,erythrocephalus,Red-headed woodpecker,75.0,365.0,14.0,5.0,10.0
+1035,formicivorus,Acorn woodpecker,79.7,766.0,14.0,4.0,17.2
+1037,borealis,Red-cockaded woodpecker,56.0,240.0,11.0,3.0,16.1
+1039,pubescens,Downy woodpecker,25.6,365.0,12.0,5.0,11.9
+1041,villosus,Hairy woodpecker,62.0,365.0,14.0,4.0,15.9
+1045,varius,Yellow-bellied sapsucker,45.0,365.0,12.0,5.0,7.8
+1047,occidentalis,Western grebe,1475.5,365.0,23.0,3.0,14.0
+1049,grisegena,Red-necked grebe,1100.0,365.0,22.0,4.5,11.0
+1050,nigricollis,Eared grebe,392.0,730.0,21.0,3.0,13.1
+1054,immutabilis,Laysan albatross,3150.0,3068.0,64.0,1.0,65.0
+1056,nigripes,Black-footed albatross,2800.0,1825.0,65.0,1.0,42.1
+1060,pelagicus,European storm petrel,25.2,1095.0,35.0,1.0,33.8
+1061,castro,Harcourt's storm petrel,42.0,1826.0,42.0,1.0,36.0
+1062,furcata,Fork-tailed storm petrel,45.2,1095.0,52.0,1.0,18.0
+1064,leucorhoa,Leach's storm petrel,44.6,1826.0,41.0,1.0,36.0
+1065,bulwerii,Bulwer's petrel,99.0,1461.0,44.0,1.0,22.9
+1068,glacialis,Northern fulmar,908.0,2200.0,55.0,1.0,51.0
+1079,pacificus,Wedge-tailed shearwater,337.8,1461.0,53.0,1.0,29.0
+1080,puffinus,Manx shearwater,434.0,1643.0,51.0,1.0,50.9
+1119,versicolurus,Canary-winged parakeet,71.6,730.0,25.0,5.0,10.3
+1120,alba,White cockatoo,570.0,2000.0,30.0,2.0,26.9
+1171,undulatus,Budgerigar,30.0,180.0,18.0,5.0,21.0
+1172,monachus,Monk parakeet,81.7,730.0,31.0,7.0,22.1
+1224,pachyrhyncha,Thick-billed parrot,360.0,730.0,26.0,3.0,33.0
+1225,habroptila,Kakapo,1750.0,1825.0,30.0,2.5,60.0
+1238,magellanicus,Magellanic penguin,4000.0,1040.0,40.0,1.0,30.0
+1239,acadicus,Northern saw-whet owl,117.9,365.0,27.0,5.5,17.5
+1240,funereus,Boreal owl,120.0,365.0,27.0,5.0,15.9
+1241,flammeus,Short-eared owl,406.0,365.0,25.0,6.0,21.8
+1242,otus,Long-eared owl,249.7,365.0,27.0,4.5,27.8
+1243,cunicularia,Burrowing owl,150.0,365.0,28.0,8.0,11.0
+1246,scandiacus,Snowy owl,2042.5,730.0,32.0,6.0,28.0
+1247,virginianus,Great horned owl,1191.2,730.0,27.0,3.0,29.0
+1249,asio,Eastern screech-owl,164.1,365.0,29.0,4.0,20.7
+1250,kennicottii,Western screech-owl,205.0,365.0,30.0,4.0,19.0
+1252,flammeolus,Flammulated owl,55.5,365.0,22.0,3.0,8.1
+1256,nebulosa,Great grey owl,1120.0,365.0,30.0,2.0,15.9
+1257,occidentalis,Spotted owl,588.7,365.0,30.0,2.0,25.0
+1259,varia,Barred owl,715.0,730.0,28.0,2.0,24.0
+1261,alba,Barn owl,580.0,365.0,33.0,6.0,34.0
+1263,anhinga,Anhinga,1080.0,730.0,28.0,4.0,16.4
+1267,magnificens,Magnificent frigatebird,1078.0,1826.0,56.0,1.0,34.0
+1268,minor,Great frigatebird,1400.0,1826.0,56.0,1.0,43.0
+1270,auritus,Double-crested cormorant,1817.0,730.0,24.0,4.0,22.5
+1271,brasilianus,Neotropic cormorant,1550.0,365.0,26.0,3.5,12.6
+1272,carbo,Great cormorant,3628.8,1460.0,30.0,4.0,27.2
+1273,pelagicus,Pelagic cormorant,2041.2,730.0,22.0,4.0,17.8
+1274,penicillatus,Brandt's cormorant,2426.0,730.0,30.0,3.0,18.0
+1275,bassanus,Northern gannet,2950.0,1095.0,43.0,1.0,37.4
+1277,dactylatra,Masked booby,1739.2,1461.0,43.0,1.5,25.5
+1279,leucogaster,Brown booby,1134.0,1278.0,41.0,2.0,27.2
+1281,sula,Red-footed booby,1017.0,730.0,44.0,1.0,23.0
+1417,fulvescens,Lake sturgeon,70000.0,2920.0,6.0,350000.0,152.0
+1438,telfairi,Lesser hedgehog tenrec,180.0,365.0,55.0,6.0,19.0
+1440,dobsoni,Dobson's shrew tenrec,37.8,669.0,61.0,2.67,5.6
+1441,talazaci,Talazac's shrew tenrec,50.0,639.0,61.0,2.0,5.8
+1442,setosus,Greater hedgehog tenrec,225.0,258.0,54.0,3.0,14.1
+1444,americana,Pronghorn,46100.0,547.0,235.0,2.0,15.5
+1446,melampus,Impala,52500.0,395.0,198.0,1.0,25.6
+1449,marsupialis,Springbok,39000.0,400.0,168.0,1.0,19.8
+1451,bison,American bison,630000.0,912.0,274.0,1.0,33.5
+1452,bonasus,European bison,610000.0,730.0,270.0,1.0,26.4
+1453,frontalis,Gaur,825000.0,550.0,275.0,1.0,26.2
+1454,grunniens,Yak,667000.0,738.0,274.0,1.0,26.3
+1459,depressicornis,Anoa,155000.0,730.0,300.0,1.0,36.1
+1461,taxicolor,Takin,180000.0,730.0,210.0,1.0,21.9
+1463,cylindricornis,East Caucasian tur,50000.0,914.0,161.0,1.2,20.2
+1465,hircus,Domestic goat,61000.0,685.0,155.0,1.5,20.8
+1466,ibex,Ibex,82500.0,1256.0,169.0,1.1,20.9
+1469,crispus,Japanese serow,80000.0,1095.0,215.0,1.0,24.0
+1470,sumatraensis,Serow,95000.0,1004.0,213.0,1.0,18.5
+1476,rufilatus,Red-flanked duiker,13000.0,270.0,230.0,1.0,15.2
+1480,taurinus,Blue wildebeest,164500.0,912.0,253.0,1.0,24.3
+1485,cuvieri,Cuvier's gazelle,17500.0,180.0,171.0,1.5,17.9
+1486,dorcas,Dorcas gazelle,14500.0,589.0,182.0,1.0,23.7
+1489,subgutturosa,Goitered gazelle,48500.0,746.0,175.0,1.3,16.3
+1491,jemlahicus,Himalayan tahr,35200.0,730.0,183.0,1.0,21.8
+1492,equinus,Roan antelope,225000.0,814.0,284.0,1.0,25.9
+1493,niger,Sable antelope,225000.0,1184.0,271.0,1.0,22.2
+1495,kob,Kob,105000.0,365.0,251.0,1.0,21.9
+1496,leche,Lechwe,94800.0,1050.0,229.0,1.0,25.4
+1497,megaceros,Nile lechwe,90000.0,730.0,235.0,1.0,21.1
+1500,kirkii,Kirk's dik-dik,5000.0,304.0,172.0,1.0,17.3
+1503,goral,Goral,31750.0,500.0,215.0,1.0,17.6
+1507,moschatus,Suni,6500.0,183.0,180.0,1.0,13.5
+1509,americanus,Mountain goat,90000.0,912.0,184.0,1.2,20.8
+1510,oreotragus,Klipspringer,12000.0,365.0,196.0,1.0,25.9
+1512,gazella,Gemsbok,170000.0,550.0,270.0,1.0,23.8
+1514,ourebi,Oribi,17000.0,426.0,193.0,1.0,15.9
+1515,moschatus,Muskox,315000.0,1278.0,258.0,1.0,27.4
+1516,ammon,Argali,160000.0,823.0,170.0,1.0,16.8
+1517,aries,Domestic sheep or mouflon,80000.0,914.0,146.0,1.58,22.8
+1518,canadensis,Bighorn sheep,70275.0,749.0,180.0,1.0,20.6
+1519,dalli,Dall's sheep,73100.0,639.0,173.0,1.0,19.6
+1521,monticola,Blue duiker,6250.0,685.0,193.0,1.0,15.9
+1524,campestris,Steenbok,13000.0,243.0,197.0,1.0,9.3
+1526,fulvorufula,Mountain reedbuck,30000.0,335.0,216.0,1.0,15.0
+1527,rupicapra,Chamois,37500.0,669.0,122.0,1.0,17.6
+1528,grimmia,Bush duiker,18500.0,255.0,165.0,1.0,15.4
+1529,caffer,African buffalo,700000.0,1674.0,331.0,1.0,32.8
+1531,oryx,Eland,500000.0,571.0,274.0,1.0,26.1
+1534,eurycerus,Bongo,307500.0,914.0,288.0,1.0,21.9
+1535,imberbis,Lesser kudu,82500.0,504.0,235.0,1.0,19.8
+1539,bactrianus,Bactrian camel,475000.0,1278.0,395.0,1.0,35.4
+1540,dromedarius,Dromedary,434000.0,2191.0,405.0,1.0,28.4
+1541,glama,Llama,140000.0,800.0,330.0,1.0,28.9
+1542,guanicoe,Guanaco,127500.0,730.0,335.0,1.0,33.7
+1543,pacos,Alpaca,62000.0,500.0,345.0,1.04,25.8
+1544,vicugna,Vicugna,50000.0,730.0,340.0,1.0,31.6
+1545,axis,Chital,36000.0,913.0,226.0,1.03,20.8
+1549,capreolus,Western roe deer,21666.7,655.0,153.0,1.6,17.5
+1550,elaphus,Red deer,200000.0,730.0,245.0,1.0,31.5
+1551,nippon,Sika deer,42000.0,500.0,210.0,1.0,26.3
+1552,dama,Fallow deer,70000.0,507.0,233.0,1.0,21.1
+1553,cephalophus,Tufted deer,33500.0,730.0,180.0,1.0,22.7
+1554,davidianus,Pere David's deer,186500.0,1186.0,288.0,1.0,27.5
+1556,americana,Red brocket,33000.0,365.0,225.0,1.3,17.1
+1557,gouazoubira,Gray brocket,17000.0,365.0,212.0,1.0,14.8
+1558,muntjak,Indian muntjac,21000.0,332.0,210.0,1.17,18.8
+1560,hemionus,Mule deer,57000.0,503.0,207.0,1.5,22.0
+1561,virginianus,White-tailed deer,87000.0,417.0,198.0,2.0,23.0
+1564,puda,Southern pudu,10000.0,320.0,200.0,1.0,18.3
+1565,tarandus,Caribou and reindeer,101250.0,680.0,228.0,1.0,21.8
+1571,camelopardalis,Giraffe,800000.0,1644.0,457.0,1.0,39.5
+1572,johnstoni,Okapi,225000.0,790.0,458.0,1.0,33.5
+1573,liberiensis,Pygmy hippopotamus,215000.0,1644.0,199.0,1.0,42.3
+1574,amphibius,Hippopotamus,3750000.0,1279.0,234.0,1.0,61.2
+1575,babyrussa,Babirusa,71500.0,548.0,153.0,1.3,22.9
+1576,africanus,Wart hog,100000.0,578.0,164.0,3.0,20.9
+1577,porcus,Red river hog,88000.0,1096.0,122.0,3.0,22.0
+1579,salvanius,Pygmy hog,8000.0,700.0,108.0,3.0,14.0
+1580,scrofa,Wild boar,130000.0,768.0,115.0,7.0,27.0
+1582,tajacu,Collared peccary,20200.0,358.0,145.0,2.0,31.5
+1583,pecari,White-lipped peccary,22000.0,548.0,158.0,2.0,28.5
+1585,javanicus,Lesser mouse-deer,2850.0,167.0,144.0,1.0,14.0
+1586,napu,Greater mouse-deer,6500.0,135.0,153.0,1.0,16.7
+1587,fulgens,Red panda,4325.0,550.0,116.0,2.0,19.0
+1589,adustus,Side-striped jackal,10250.0,274.0,64.0,4.0,13.7
+1590,aureus,Golden jackal,11000.0,334.0,63.0,3.0,18.8
+1591,familiaris,Domestic dog,40000.0,510.0,63.0,6.0,24.0
+1592,latrans,Coyote,13250.0,274.0,63.0,6.0,21.8
+1593,lupus,Gray wolf,26625.0,669.0,62.0,6.0,20.6
+1594,mesomelas,Black-backed jackal,10250.0,251.0,60.0,4.0,16.7
+1595,thous,Crab-eating fox,6500.0,274.0,55.0,4.0,12.7
+1597,alpinus,Dhole,15750.0,365.0,61.0,5.0,16.1
+1603,pictus,African wild dog,26500.0,639.0,72.0,8.0,17.0
+1604,procyonoides,Raccoon dog,6500.0,304.0,61.0,6.0,16.6
+1606,venaticus,Bush dog,6000.0,365.0,68.0,4.0,14.1
+1607,cinereoargenteus,Gray fox,4750.0,365.0,57.0,4.0,16.2
+1609,lagopus,Arctic fox,5200.0,304.0,52.0,9.0,16.3
+1613,velox,Swift fox,2400.0,365.0,55.0,4.5,15.9
+1614,vulpes,Red fox,4131.7,304.0,52.0,5.0,21.3
+1615,zerda,Fennec,1250.0,274.0,51.0,2.2,16.3
+1619,jubatus,Cheetah,53500.0,456.0,88.0,3.0,20.5
+1620,caracal,Caracal,16000.0,456.0,74.0,3.0,20.3
+1626,nigripes,Black-footed cat,2125.0,434.0,66.0,2.0,15.6
+1627,silvestris,Wild cat,5500.0,304.0,64.0,3.7,19.0
+1630,pardalis,Ocelot,8800.0,600.0,77.0,2.0,28.2
+1634,canadensis,Canada lynx,10100.0,573.0,63.0,3.5,26.8
+1635,lynx,Eurasian lynx,23000.0,1004.0,66.0,2.0,23.7
+1636,rufus,Bobcat,8600.0,730.0,65.0,3.0,32.3
+1637,nebulosa,Clouded leopard,19500.0,1095.0,89.0,2.0,19.8
+1638,leo,Lion,175000.0,1095.0,109.0,3.0,27.0
+1639,onca,Jaguar,81150.0,730.0,99.0,2.0,28.0
+1640,pardus,Leopard,53750.0,771.0,97.0,2.0,27.3
+1641,tigris,Tiger,119700.0,1415.0,105.0,2.5,26.3
+1647,concolor,Cougar,63000.0,912.0,92.0,2.5,23.8
+1649,uncia,Snow leopard,50000.0,730.0,96.0,2.0,21.2
+1650,paludinosus,Marsh mongoose,3300.0,255.0,76.0,2.0,20.8
+1652,obscurus,Long-nosed cusimanse,790.0,274.0,58.0,4.0,13.3
+1655,sanguinea,Slender mongoose,500.0,365.0,65.0,2.0,12.6
+1658,javanicus,Javan mongoose,800.0,122.0,49.0,2.0,16.6
+1664,suricatta,Meerkat,776.0,365.0,77.0,4.0,20.6
+1665,crocuta,Spotted hyena,63000.0,639.0,110.0,2.0,41.1
+1667,hyaena,Striped hyena,40000.0,800.0,90.0,2.5,25.0
+1670,leuconotus,Hog-nosed skunk,1900.0,319.0,56.0,3.4,10.2
+1671,mephitis,Striped skunk,3500.0,335.0,63.0,5.0,13.9
+1672,putorius,Eastern spotted skunk,600.0,152.0,31.0,5.0,10.5
+1673,capensis,African clawless otter,23500.0,365.0,63.0,2.5,14.2
+1676,barbara,Tayra,4500.0,183.0,66.0,2.0,22.3
+1677,lutris,Sea otter,25850.0,1369.0,140.0,1.0,27.0
+1680,gulo,Wolverine,16333.3,776.0,35.0,3.0,19.5
+1682,striatus,Striped polecat,910.0,393.0,36.0,2.0,14.0
+1683,canadensis,Northern river otter,9000.0,730.0,62.0,2.5,27.0
+1684,lutra,European otter,6750.0,548.0,61.0,2.0,18.2
+1685,americana,American marten,884.0,365.0,28.0,3.0,17.8
+1687,foina,Beech marten,1700.0,730.0,30.0,3.5,18.2
+1688,martes,European pine marten,1300.0,426.0,28.0,4.0,18.2
+1689,pennanti,Fisher,3175.0,365.0,45.0,2.5,14.3
+1690,zibellina,Sable,1066.7,456.0,30.0,3.0,18.4
+1691,meles,Old World badger,13000.0,365.0,49.0,3.0,18.6
+1694,erminea,Ermine,110.3,365.0,43.0,6.77,12.5
+1695,eversmanii,Steppe polecat,1350.0,319.0,36.0,9.4,9.1
+1696,frenata,Long-tailed weasel,150.6,365.0,25.0,6.2,8.8
+1697,lutreola,European mink,590.0,323.0,54.0,4.0,8.4
+1698,nigripes,Black-footed ferret,1021.0,365.0,43.0,3.0,9.4
+1699,nivalis,Least weasel,46.9,120.0,36.0,5.0,9.1
+1700,putorius,European polecat,809.0,322.0,42.0,7.5,11.1
+1702,vison,American mink,925.0,371.0,42.0,4.5,11.4
+1704,taxus,American badger,8000.0,441.0,41.0,3.0,25.0
+1706,binotata,African palm civet,1900.0,1095.0,64.0,2.0,21.0
+1707,australis,South American fur seal,110000.0,2556.0,236.0,1.0,30.6
+1708,pusillus,South African fur seal,127551.0,1643.0,368.0,1.0,32.1
+1709,jubatus,Steller sea lion,415000.0,2420.0,274.0,1.0,32.8
+1710,cinerea,Australian sea lion,190000.0,2191.0,258.0,1.0,24.1
+1711,flavescens,Southern sea lion,207500.0,2191.0,357.0,1.0,29.0
+1712,californianus,California sea lion,180000.0,1826.0,259.0,1.2,35.7
+1713,grypus,Gray seal,268000.0,1887.0,240.0,1.0,42.9
+1714,vitulina,Harbor seal,115000.0,1460.0,253.0,1.0,47.6
+1715,hispida,Ringed seal,90000.0,2191.0,251.0,1.0,46.0
+1716,sibirica,Baikal seal,90000.0,2557.0,273.0,1.02,56.0
+1718,gabbii,Olingo,1235.0,594.0,73.0,1.0,21.8
+1719,astutus,Ringtail,1015.0,300.0,52.0,3.0,19.0
+1720,sumichrasti,Cacomistle,900.0,300.0,64.0,2.0,24.0
+1721,narica,White-nosed coati,3750.0,712.0,78.0,4.17,26.4
+1722,nasua,South american coati,4750.0,730.0,73.0,4.0,23.7
+1723,flavus,Kinkajou,3000.0,550.0,115.0,1.0,38.4
+1724,cancrivorus,Crab-eating raccoon,6270.0,365.0,63.0,3.0,19.0
+1725,lotor,Common raccoon,6000.0,365.0,63.0,4.0,21.0
+1726,melanoleuca,Giant panda,117500.0,2192.0,48.0,1.5,36.8
+1728,ursinus,Sloth bear,100000.0,1095.0,198.0,1.5,33.3
+1730,americanus,American black bear,154250.0,1278.0,70.0,2.0,34.0
+1731,arctos,Brown bear,277500.0,1313.0,103.0,2.0,40.0
+1732,maritimus,Polar bear,475000.0,1734.0,65.0,2.0,43.8
+1733,thibetanus,Asiatic black bear,103750.0,1095.0,228.0,2.0,39.2
+1734,binturong,Binturong,12250.0,840.0,92.0,2.0,27.0
+1736,civetta,African civet,13666.7,213.0,65.0,2.5,28.0
+1746,mysticetus,Bowhead whale,100000000.0,8212.0,396.0,1.0,211.0
+1748,glacialis,North atlantic right whale,23000000.0,2920.0,350.0,1.0,67.0
+1749,acutorostrata,Common minke whale,7500000.0,2740.0,312.0,1.0,50.0
+1750,borealis,Sei whale,20000000.0,3652.0,345.0,1.0,74.0
+1751,edeni,Bryde's whale,16000000.0,3104.0,376.0,1.0,72.0
+1752,musculus,Blue whale,136000000.0,1827.0,350.0,1.0,110.0
+1753,physalus,Fin whale,70000000.0,2864.0,342.0,1.0,114.0
+1754,novaeangliae,Humpback whale,30000000.0,1643.0,342.0,1.0,95.0
+1755,macrorhynchus,Short-finned pilot whale,2200000.0,5332.0,452.0,1.0,63.0
+1756,melas,Long-finned pilot whale,1060000.0,4380.0,450.0,1.0,60.0
+1760,brevirostris,Irrawaddy dolphin,190000.0,1826.0,426.0,1.0,30.0
+1761,orca,Killer whale,3987500.0,4930.0,435.0,1.0,90.0
+1762,electra,Melon-headed whale,206000.0,2465.0,365.0,1.0,47.0
+1763,crassidens,False killer whale,748000.0,6756.0,451.0,1.0,62.5
+1764,attenuata,Pantropical spotted dolphin,112500.0,3956.0,345.0,1.0,46.0
+1765,coeruleoalba,Striped dolphin,112500.0,3025.0,350.0,1.5,57.5
+1767,truncatus,Bottlenosed dolphin,200000.0,3689.0,365.0,1.0,51.6
+1768,robustus,Gray whale,28500000.0,2922.0,395.0,1.0,77.0
+1769,bairdii,Baird's beaked whale,11380000.0,2922.0,517.0,1.0,84.0
+1770,ampullatus,Northern bottlenose whale,6500000.0,3287.0,365.0,1.0,37.0
+1776,leucas,Beluga,1430000.0,2283.0,416.0,1.0,40.0
+1777,monoceros,Narwhal,1250000.0,2922.0,450.0,1.0,50.0
+1778,phocaenoides,Finless porpoise,32500.0,1460.0,320.0,1.0,33.0
+1779,phocoena,Harbor porpoise,52500.0,1461.0,320.0,1.0,20.4
+1780,dalli,Dall's porpoise,120000.0,2375.0,347.0,1.0,22.0
+1781,macrocephalus,Sperm whale,28500000.0,3650.0,502.0,1.0,77.0
+1783,fulvus,Fulvus roundleaf bat,7.0,563.0,158.0,1.0,13.0
+1785,lyra,Greater false vampire bat,38.6,450.0,150.0,1.0,14.0
+1786,schreibersii,Schreibers's long-fingered bat,13.0,730.0,100.0,1.0,22.0
+1788,brasiliensis,Brazilian free-tailed bat,12.5,547.0,78.0,1.0,12.0
+1793,jamaicensis,Jamaican fruit-eating bat,42.2,289.0,76.0,1.0,19.2
+1794,perspicillata,Seba's short-tailed bat,15.0,258.0,95.0,1.0,17.0
+1795,rotundus,Vampire bat,33.2,285.0,189.0,1.0,29.2
+1805,brachyotis,Lesser short-nosed fruit bat,45.0,213.0,112.0,1.0,10.1
+1806,sphinx,Greater short-nosed fruit bat,75.0,525.0,120.0,1.2,10.0
+1811,fischeri,Philippine pygmy fruit bat,18.0,315.0,90.0,1.0,10.0
+1814,giganteus,Indian flying fox,1175.0,365.0,145.0,1.0,40.0
+1819,poliocephalus,Gray-headed flying fox,675.0,540.0,190.0,1.0,23.6
+1825,aegyptiacus,Egyptian rousette,125.0,365.0,116.0,1.0,22.9
+1827,leschenaultii,Leschenault's rousette,108.25,455.0,115.0,1.0,14.0
+1828,euryale,Mediterranean horseshoe bat,8.2,821.0,90.0,1.0,13.0
+1829,ferrumequinum,Greater horseshoe bat,22.875,730.0,80.0,1.0,30.5
+1830,hipposideros,Lesser horseshoe bat,4.6,471.0,67.0,1.0,29.4
+1831,pallidus,Pallid bat,20.8,365.0,62.0,2.0,14.8
+1834,fuscus,Big brown bat,23.0,730.0,35.0,2.0,19.0
+1837,noctivagans,Silver-haired bat,10.0,152.0,55.0,2.0,12.0
+1843,daubentonii,Daubenton's bat,8.5,730.0,54.0,1.0,28.0
+1849,lucifugus,Little brown bat,10.0,210.0,55.0,1.0,34.0
+1850,myotis,Mouse-eared bat,28.55,502.0,65.0,1.0,37.1
+1853,nigricans,Black myotis,4.2,98.0,55.0,1.0,7.0
+1856,velifer,Cave myotis,10.1,365.0,65.0,1.0,11.3
+1861,noctula,Noctule,27.75,455.0,60.0,1.5,12.0
+1866,pipistrellus,Common pipistrelle,5.0,456.0,42.0,1.2,16.6
+1867,auritus,Brown big-eared bat,7.8,365.0,65.0,1.33,30.0
+1870,murinus,Particolored bat,18.7,730.0,50.0,2.0,14.5
+1872,villosus,Large hairy armadillo,3000.0,273.0,67.0,2.0,25.2
+1873,novemcinctus,Nine-banded armadillo,5500.0,365.0,133.0,4.0,22.3
+1875,sexcinctus,Six-banded armadillo,4850.0,274.0,68.0,2.0,22.1
+1876,maximus,Giant armadillo,33000.0,320.0,122.0,1.5,15.0
+1877,matacus,Southern three-banded armadillo,1500.0,320.0,120.0,1.0,36.8
+1878,pichiy,Pichi,1500.0,320.0,60.0,2.0,12.5
+1879,laniger,Kultarr,24.0,350.0,12.0,6.0,3.5
+1883,stuartii,Brown antechinus,27.5,285.0,30.0,7.0,5.4
+1885,cristicauda,Mulgara,115.0,315.0,38.0,7.0,7.4
+1886,byrnei,Kowari,105.0,216.0,33.0,6.0,8.0
+1889,maculatus,Australian tiger cat,5500.0,340.0,21.0,3.0,6.8
+1890,viverrinus,Eastern quoll,1090.0,335.0,20.0,6.0,6.8
+1891,apicalis,Southern dibbler,70.0,315.0,48.0,8.0,5.5
+1893,tapoatafa,Brush-tailed phascogale,193.5,365.0,29.0,6.4,5.9
+1896,macdonnellensis,Fat-tailed marsupial mouse,32.5,350.0,43.0,6.0,7.0
+1897,harrisii,Tasmanian devil,6500.0,730.0,26.0,3.0,13.0
+1898,crassicaudata,Fat-tailed dunnart,15.0,159.0,14.0,7.0,5.0
+1900,macroura,Stripe-faced dunnart,20.0,159.0,12.0,4.0,4.9
+1908,marsupialis,Southern opossum,1530.0,240.0,12.0,6.0,4.2
+1909,virginiana,Virginia opossum,3000.0,243.0,12.0,15.0,6.6
+1913,robinsoni,Robinson's mouse opossum,75.0,365.0,14.0,10.0,5.0
+1918,domestica,Gray short-tailed opossum,105.0,122.0,15.0,9.0,5.1
+1921,parvus,Mountain pygmy possum,45.0,320.0,15.0,3.5,12.0
+1933,agilis,Agile wallaby,16000.0,425.0,29.0,1.0,16.9
+1936,eugenii,Tammar wallaby,6500.0,730.0,28.0,1.0,15.1
+1937,fuliginosus,Western gray kangaroo,28250.0,880.0,30.0,1.0,23.2
+1938,giganteus,Eastern gray kangaroo,49500.0,1290.0,36.0,1.0,25.0
+1939,parma,Parma wallaby,4250.0,620.0,34.0,1.0,15.9
+1940,robustus,Wallaroo,30000.0,670.0,32.0,1.0,22.0
+1941,rufogriseus,Red-necked wallaby,16200.0,608.0,29.0,1.0,15.2
+1942,rufus,Red kangaroo,55000.0,806.0,33.0,1.0,25.0
+1947,penicillata,Brush-tailed rock wallaby,6000.0,590.0,30.0,1.0,14.3
+1949,brachyurus,Quokka,3500.0,389.0,26.0,1.0,13.8
+1950,billardierii,Tasmanian pademelon,5000.0,435.0,29.0,1.0,8.8
+1954,bicolor,Swamp wallaby,14625.0,426.0,36.0,1.0,16.8
+1956,leadbeateri,Leadbeater's possum,127.0,464.0,16.0,1.5,14.1
+1958,breviceps,Sugar glider,110.0,456.0,16.0,2.0,17.8
+1961,maculatus,Spotted cuscus,3500.0,243.0,13.0,2.0,17.0
+1962,vulpecula,Brush-tailed possum,2395.0,730.0,17.0,1.0,15.9
+1963,cinereus,Koala,9300.0,1095.0,31.0,1.0,22.1
+1964,rufescens,Rufous 'rat'-kangaroo,3250.0,380.0,23.0,1.0,12.8
+1971,latifrons,Southern hairy-nosed wombat,25500.0,547.0,21.0,1.0,29.9
+1972,ursinus,Coarse-haired wombat,25500.0,730.0,27.0,1.0,30.0
+1976,europaeus,Western European hedgehog,750.0,253.0,30.0,1.5,11.7
+1980,arboreus,Tree hyrax,3000.0,365.0,229.0,2.0,13.6
+1981,capensis,Rock hyrax,3600.0,500.0,215.0,3.0,14.8
+1987,audubonii,Audubon's cottontail rabbit,900.0,107.0,29.0,3.0,7.8
+1994,intufi,Long-eared elephant shrew,52.0,183.0,52.0,1.6,9.3
+1996,rufescens,Rufous elephant shrew,58.0,50.0,61.0,1.0,7.9
+1999,anatinus,Duck-billed platypus,1250.0,548.0,17.0,2.0,22.6
+2000,aculeatus,Short-beaked echidna,3500.0,548.0,22.0,1.0,49.5
+2004,macrourus,Northern brown bandicoot,1600.0,200.0,12.0,4.0,6.8
+2007,gunnii,Eastern barred bandicoot,766.0,152.0,12.0,2.0,6.1
+2011,asinus,African wild ass,164998.0,1005.0,359.0,1.0,47.0
+2012,caballus,Horse,300000.0,973.0,337.0,1.0,57.0
+2013,grevyi,Grevy's zebra,384000.0,1461.0,406.0,1.0,31.0
+2014,hemionus,Kulan,230000.0,1187.0,339.0,1.0,31.6
+2016,quagga,Quagga,280000.0,900.0,365.0,1.0,38.0
+2017,zebra,Mountain zebra,296000.0,1279.0,362.0,1.0,33.2
+2018,simum,White rhinoceros,2175000.0,1643.0,515.0,1.0,45.0
+2020,bicornis,Black rhinoceros,1100000.0,2254.0,474.0,1.0,49.0
+2021,unicornis,Indian rhinoceros,1602330.0,2557.0,479.0,1.0,43.5
+2022,indica,Malayan tapir,250000.0,1095.0,392.0,1.0,36.5
+2025,terrestris,Brazilian tapir,250000.0,1095.0,398.0,1.0,39.6
+2026,didactylus,Southern two-toed sloth,6250.0,1644.0,279.0,1.0,36.8
+2027,hoffmanni,Hoffmann's two-toed sloth,6250.0,1095.0,350.0,1.0,41.0
+2028,tridactyla,Giant anteater,28500.0,1186.0,184.0,1.0,31.0
+2033,trivirgatus,Northern night monkey,800.0,730.0,142.0,1.0,30.1
+2035,caraya,Black howler monkey,5462.5,928.0,187.0,1.0,32.4
+2036,palliata,Mantled howler monkey,7000.0,1278.0,186.0,1.0,24.0
+2038,belzebuth,White-bellied spider monkey,7535.0,1826.0,184.0,1.0,37.0
+2040,fusciceps,Brown-headed spider monkey,7000.0,1826.0,227.0,1.0,46.0
+2041,geoffroyi,Central American spider monkey,7267.5,1826.0,232.0,1.0,47.1
+2043,paniscus,Black spider monkey,7887.5,1280.0,229.0,1.0,46.0
+2045,lagothricha,Humboldt's woolly monkey,7650.0,1520.0,223.0,1.0,32.0
+2046,goeldii,Goeldi's monkey,555.0,395.0,153.0,1.0,22.2
+2048,jacchus,White-tufted-ear marmoset,255.2,382.0,144.0,2.0,22.8
+2051,pygmaea,Pygmy marmoset,124.0,638.0,125.0,2.0,18.6
+2052,fuscicollis,Saddlebacked tamarin,456.5,730.0,147.0,1.8,24.9
+2056,rosalia,Golden lion tamarin,654.5,730.0,128.0,2.0,31.6
+2057,argentatus,Silvery marmoset,343.2,334.0,144.0,2.0,16.5
+2058,humeralifer,Tassel-eared marmoset,355.8,334.0,144.0,2.0,15.0
+2061,imperator,Emperor tamarin,518.5,730.0,145.0,2.0,23.7
+2065,mystax,Black-chested mustached tamarin,543.5,540.0,145.0,2.0,20.0
+2066,oedipus,Cotton-top tamarin,445.5,550.0,178.0,1.9,26.2
+2067,albifrons,White-fronted capuchin,2467.5,1310.0,158.0,1.0,40.4
+2068,capucinus,White-faced capuchin,2655.0,2921.0,162.0,1.0,54.0
+2071,sciureus,South American squirrel monkey,925.0,1826.0,161.0,1.0,30.2
+2084,mitis,Blue monkey,9000.0,1673.0,132.0,1.0,37.8
+2086,neglectus,De Brazza's monkey,5945.0,2555.0,177.0,1.0,30.8
+2091,aethiops,Vervet,5620.0,1825.0,162.0,1.0,30.8
+2093,guereza,Guereza,9950.0,2192.0,175.0,1.0,35.0
+2094,polykomos,King colobus,9525.0,730.0,185.0,1.0,33.9
+2095,patas,Patas monkey,7750.0,1400.0,167.0,1.0,28.3
+2097,arctoides,Stump-tailed macaque,9275.0,2099.0,177.0,1.0,29.2
+2099,fascicularis,Long-tailed macaque,6362.5,1544.0,165.0,1.0,39.0
+2100,fuscata,Japanese macaque,8882.5,1369.0,174.0,1.5,38.5
+2102,mulatta,Rhesus monkey,8235.0,2007.0,165.0,1.0,40.0
+2103,nemestrina,Pigtail macaque,7912.5,1095.0,172.0,1.0,37.6
+2106,radiata,Bonnet macaque,6755.0,1795.0,161.0,1.0,30.0
+2107,silenus,Liontail macaque,7875.0,2511.0,176.0,1.0,40.0
+2109,sylvanus,Barbary macaque,10875.0,2007.0,164.0,1.5,29.1
+2114,talapoin,Talapoin,1384.5,2008.0,169.0,1.0,27.7
+2116,hamadryas,Hamadryas baboon,18000.0,1762.0,171.0,1.0,37.5
+2120,entellus,Hanuman langur,13516.5,1886.0,192.0,1.0,29.0
+2123,gelada,Gelada baboon,16200.0,2190.0,168.0,1.0,36.0
+2130,major,Greater dwarf lemur,395.0,365.0,65.0,2.2,13.4
+2132,murinus,Gray mouse lemur,64.8,243.0,61.0,2.0,18.2
+2133,coquereli,Giant mouse lemur,311.2,275.0,89.0,1.8,17.4
+2136,moholi,South African galago,169.2,372.0,124.0,1.4,16.6
+2137,senegalensis,Senegal galago,192.2,300.0,126.0,1.5,17.1
+2138,demidoff,Demidoff's galago,60.0,270.0,111.0,1.1,13.4
+2139,crassicaudatus,Greater galago,1094.5,639.0,130.0,1.5,22.7
+2140,garnettii,Small-eared galago,1300.0,600.0,132.0,1.0,20.0
+2141,gorilla,Gorilla,139842.0,4015.0,256.0,1.0,60.1
+2142,sapiens,Human,62035.0,5110.0,280.0,1.0,122.5
+2144,troglodytes,Chimpanzee,44983.5,2920.0,229.0,1.0,59.4
+2145,pygmaeus,Orangutan,64475.0,2555.0,249.0,1.0,59.0
+2149,lar,White-handed gibbon,6810.0,1825.0,217.0,1.0,56.0
+2155,syndactylus,Siamang,10900.0,2190.0,231.0,1.0,43.0
+2156,diadema,Diademed sifaka,5550.0,913.0,157.0,1.0,21.0
+2158,verreauxi,Verreaux's sifaka,5000.0,912.0,148.0,1.0,31.0
+2160,fulvus,Brown lemur,2485.0,633.0,118.0,1.1,35.5
+2161,macaco,Black lemur,2467.0,266.0,120.0,1.4,37.5
+2162,mongoz,Mongoose lemur,1555.0,1065.0,120.0,1.0,36.2
+2163,rubriventer,Red-bellied lemur,2191.5,1350.0,120.0,1.0,31.7
+2164,griseus,Bamboo lemur,1012.5,1346.0,145.0,1.1,23.3
+2165,catta,Ring-tailed lemur,2555.0,912.0,135.0,1.1,37.3
+2167,rubra,Red ruffed lemur,3601.3,650.0,98.0,2.2,37.5
+2168,variegata,Ruffed lemur,3482.3,649.0,98.0,1.9,39.4
+2169,calabarensis,Calabar angwantibo,257.5,270.0,133.0,1.0,13.0
+2170,tardigradus,Slender loris,238.2,365.0,166.0,1.3,21.6
+2173,potto,Potto,919.9,547.0,170.0,1.0,32.4
+2178,pithecia,Guianan saki,1480.0,1460.0,158.0,1.0,36.0
+2184,maximus,Asiatic elephant,3178000.0,3287.0,644.0,1.0,65.5
+2185,africana,African bush elephant,4800000.0,3650.0,670.0,1.0,65.0
+2191,capensis,Cape mole-rat,181.0,304.0,44.0,5.0,11.2
+2194,pilorides,Desmarest's hutia,4683.3,304.0,125.0,2.0,13.8
+2197,canadensis,American beaver,20250.0,639.0,128.0,3.5,23.4
+2198,aperea,Brazilian guinea pig,341.0,77.0,63.0,2.5,6.0
+2199,porcellus,Guinea pig,728.0,76.0,68.0,3.8,12.0
+2201,patagonum,Patagonian mara,12500.0,183.0,85.0,2.0,14.4
+2202,musteloides,Common yellow-toothed cavy,337.9,60.0,54.0,2.63,3.5
+2203,spixii,Spix's yellow-toothed cavy,450.0,112.0,53.0,2.5,4.6
+2204,hydrochaeris,Capybara,55000.0,456.0,150.0,4.8,15.1
+2206,lanigera,Long-tailed chinchilla,642.5,240.0,111.0,2.0,17.2
+2208,maximus,Plains viscacha,6000.0,456.0,154.0,2.0,10.8
+2210,amphibius,European water vole,120.0,45.0,21.0,5.1,2.5
+2211,taylori,Northern pygmy mouse,8.0,75.0,20.0,3.0,3.3
+2213,cricetus,Black-bellied hamster,506.7,56.0,20.0,7.0,3.6
+2214,groenlandicus,Collared lemming,66.0,85.0,20.0,3.4,3.3
+2216,lagurus,Steppe lemming,20.3,44.0,20.0,4.5,3.8
+2218,lemmus,Norway lemming,70.0,44.0,19.0,7.0,3.3
+2220,auratus,Golden hamster,105.0,48.0,16.0,9.0,3.9
+2222,agrestis,Field vole,46.0,42.0,21.0,4.4,4.8
+2223,arvalis,Common vole,27.5,56.0,21.0,5.1,4.8
+2224,guentheri,Vole,51.6,95.0,21.0,6.0,3.9
+2227,glareolus,Bank vole,20.8,72.0,20.0,4.3,4.9
+2228,albigula,White-throated woodrat,209.0,101.0,29.0,2.0,9.5
+2230,lepida,Desert woodrat,236.0,76.0,33.0,3.0,10.5
+2233,leucogaster,Northern grasshopper mouse,32.5,114.0,31.0,4.0,5.6
+2234,torridus,Southern grasshopper mouse,22.0,41.0,30.0,3.7,4.6
+2236,crinitus,Canyon mouse,16.5,70.0,24.0,3.0,7.7
+2247,hispidus,Hispid cotton rat,185.0,40.0,27.0,5.0,5.2
+2248,nudicaudus,Peters's climbing rat,280.0,109.0,40.0,2.4,5.4
+2250,paca,Lowland paca,9000.0,365.0,116.0,1.0,16.3
+2260,acouchy,Red acouchi,775.0,304.0,99.0,2.0,14.8
+2266,jaculus,Lesser Egyptian jerboa,55.0,137.0,38.0,3.0,7.3
+2268,hudsonius,Meadow jumping mouse,18.0,61.0,19.0,5.5,5.6
+2271,semispinosus,Spiny rat,500.0,146.0,64.0,2.4,5.8
+2273,prehensilis,Prehensile-tailed porcupine,3900.0,578.0,203.0,1.0,26.6
+2274,dorsatus,North American porcupine,8600.0,1095.0,210.0,1.0,23.4
+2276,bursarius,Plains pocket gopher,176.7,91.0,51.0,4.0,12.0
+2277,bottae,Botta's pocket gopher,115.5,319.0,19.0,5.5,6.1
+2280,quercinus,Garden dormouse,82.5,365.0,23.0,5.0,5.5
+2282,glis,Fat dormouse,125.0,335.0,25.0,4.0,8.7
+2285,avellanarius,Hazel dormouse,27.3,335.0,23.0,4.0,5.3
+2286,fallax,San Diego pocket mouse,18.7,166.0,25.0,3.0,8.3
+2287,formosus,Long-tailed pocket mouse,19.0,365.0,28.0,5.0,7.1
+2297,africaeaustralis,Cape porcupine,24000.0,390.0,94.0,2.1,23.1
+2301,cahirinus,Spiny mouse,45.2,59.0,38.0,3.0,5.9
+2305,flavicollis,Yellow-necked mouse,29.4,52.0,26.0,5.5,4.5
+2308,sylvaticus,Long-tailed field mouse,23.4,65.0,23.0,5.2,6.3
+2309,niloticus,Nile kusu,110.0,45.0,22.0,5.0,6.7
+2315,afra,Cape gerbil,74.8,115.0,23.0,3.9,5.7
+2316,validus,Southern savanna gerbil,113.0,99.0,25.0,4.3,5.0
+2320,pyramidum,Greater Egyptian gerbil,37.0,73.0,21.0,3.3,8.2
+2322,chrysogaster,Golden-bellied water rat,850.0,135.0,36.0,3.8,7.3
+2325,conditor,Greater stick-nest rat,332.5,240.0,38.0,2.2,5.3
+2326,crassus,Sundevall's jird,35.0,82.0,22.0,4.0,5.6
+2330,unguiculatus,Mongolian jird,53.2,36.0,25.0,5.0,6.3
+2335,minutus,Old World harvest mouse,6.0,37.0,20.0,5.2,3.8
+2337,minutoides,Mouse,7.2,77.0,20.0,4.3,4.3
+2338,musculus,House mouse,20.5,42.0,19.0,7.0,4.0
+2340,alexis,Spinifex hopping mouse,35.0,75.0,35.0,3.9,6.4
+2341,mitchellii,Mitchell's hopping mouse,52.0,90.0,37.0,3.3,5.3
+2342,duprasi,Fat-tailed gerbil,40.0,61.0,20.0,4.5,8.3
+2346,tullbergi,Tullberg's rock rat,30.0,75.0,24.0,3.5,5.2
+2348,australis,Australian native mouse,65.0,180.0,31.0,3.1,7.9
+2353,fuscipes,Bush rat,130.0,90.0,26.0,5.0,5.3
+2355,norvegicus,Norway rat,300.0,70.0,21.0,9.9,3.8
+2356,rattus,Rat,200.0,112.0,22.0,7.3,4.2
+2357,pumilio,Four-striped grass mouse,51.0,64.0,25.0,6.0,4.5
+2358,opimus,Great gerbil,285.0,105.0,28.0,5.0,4.5
+2360,indica,Indian gerbil,146.7,91.0,26.0,5.4,7.0
+2363,coypus,Nutria,7850.0,152.0,131.0,6.0,8.5
+2368,antimena,Malagasy giant rat,1250.0,365.0,120.0,1.0,12.6
+2371,degus,Degu,235.0,182.0,90.0,6.0,14.0
+2375,leucurus,White-tailed antelope squirrel,105.0,365.0,29.0,8.0,11.2
+2382,ludovicianus,Black-tailed prairie dog,1125.0,730.0,30.0,4.0,11.0
+2388,tridecemlineatus,Thirteen-lined ground squirrel,172.7,225.0,28.0,7.0,7.9
+2390,flaviventris,Yellow-bellied marmot,3500.0,730.0,30.0,4.0,21.2
+2391,marmota,Alpine marmot,3500.0,730.0,35.0,4.0,17.4
+2392,monax,Woodchuck,4000.0,548.0,32.0,4.5,14.0
+2397,franklinii,Franklin's ground squirrel,459.0,327.0,28.0,7.5,7.2
+2402,carolinensis,Eastern gray squirrel,533.0,401.0,44.0,4.0,23.6
+2404,niger,Eastern fox squirrel,800.0,353.0,44.0,3.0,16.0
+2406,vulgaris,Eurasian red squirrel,600.0,320.0,38.0,5.0,14.8
+2407,citellus,European ground squirrel,217.0,314.0,27.0,6.0,6.7
+2414,sibiricus,Siberian chipmunk,85.0,350.0,35.0,4.8,9.6
+2415,striatus,Eastern chipmunk,96.0,228.0,31.0,5.0,9.5
+2419,tereticaudus,Round-tailed ground squirrel,163.3,325.0,28.0,5.4,8.9
+2420,erythropus,Striped ground squirrel,600.0,365.0,71.0,3.5,10.3
+2421,inauris,South African ground squirrel,588.0,365.0,45.0,2.2,11.5
+2424,swinderianus,Greater cane rat,6600.0,365.0,155.0,4.0,5.4
+2426,glis,Common tree shrew,200.0,90.0,46.0,2.0,12.4
+2430,dugon,Dugong,360000.0,3470.0,374.0,1.0,73.0
+2431,inunguis,Amazonian manatee,480000.0,1096.0,328.0,1.0,40.0
+2432,manatus,West Indian manatee,322000.0,913.0,335.0,1.0,69.0
+2434,brevicauda,Northern short-tailed shrew,21.6,65.0,17.0,6.0,2.2
+2435,hylophaga,Elliot's short-tailed shrew,14.5,42.0,23.0,6.5,2.8
+2437,leucodon,Bicolored shrew,11.0,95.0,30.0,5.0,2.9
+2438,russula,White-toothed shrew,11.6,75.0,29.0,4.0,4.0
+2439,suaveolens,Lesser shrew,7.7,365.0,27.0,4.0,2.8
+2440,parva,Least shrew,4.5,43.0,21.0,4.5,3.5
+2442,fodiens,Eurasian water shrew,15.0,106.0,20.0,5.0,3.1
+2443,araneus,Eurasian shrew,9.0,335.0,21.0,6.0,3.2
+2445,etruscus,White-toothed pygmy shrew,2.1,365.0,27.0,4.0,3.2
+2446,murinus,Asian house shrew,45.9,36.0,30.0,3.0,3.2
+2447,cristata,Star-nosed mole,55.3,304.0,40.0,4.4,2.5
+2449,afer,Aardvark,60000.0,730.0,225.0,1.0,29.8
+2496,apodus,Armored glass lizard,450.0,730.0,42.0,8.0,54.0
+2498,constrictor,Boa constrictor,3532.0,1095.0,125.0,35.0,40.4
+2742,molurus,Indian python,12370.0,1095.0,100.0,40.0,34.2
+2785,komodoensis,Komodo dragon,87000.0,1825.0,49.0,22.0,62.0
+2819,durissus,Neotropical rattlesnake,1150.0,1095.0,120.0,6.0,19.8
+2874,caretta,Loggerhead sea turtle,156500.0,3650.0,60.0,115.0,37.0
+2875,mydas,Green sea turtle,160000.0,3650.0,59.0,150.0,75.0
+2877,temminckii,Alligator snapping turtle,58500.0,4015.0,120.0,30.0,70.3
+2900,scripta,Common slider,240.0,1460.0,75.0,13.0,41.3
+3090,carpio,Common carp,10600.0,1095.0,4.0,300000.0,47.0
+3636,mykiss,Steelhead,12235.0,912.0,18.0,3500.0,11.0
+3735,melas,Black bullhead,1995.5,730.0,7.0,3150.0,10.0
