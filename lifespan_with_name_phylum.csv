@@ -1,0 +1,3778 @@
+,Phylum,Common name,Maximum longevity (yrs)
+0,Arthropoda,Daphnia,0.19
+1,Arthropoda,Fruit fly,0.3
+2,Arthropoda,Honey bee,8.0
+6,Arthropoda,Cardiocondyla obscurior,0.5
+7,Arthropoda,Black garden ant,28.0
+8,Arthropoda,Pheidole dentata,0.4
+9,Arthropoda,Squinting bush brown,0.5
+10,Arthropoda,American lobster,100.0
+11,Chordata,Firebelly toad,20.0
+12,Chordata,Oriental firebelly toad,15.8
+13,Chordata,Yellow-bellied toad,29.0
+14,Chordata,American toad,36.0
+15,Chordata,Western toad,11.5
+16,Chordata,Yosemite toad,15.0
+17,Chordata,Great plains toad,10.7
+18,Chordata,Green toad,12.4
+19,Chordata,Canadian toad,13.3
+20,Chordata,Red-spotted toad,11.3
+21,Chordata,Sonoran green toad,15.3
+22,Chordata,Southern toad,10.0
+23,Chordata,Veragoa stubfoot toad,10.0
+24,Chordata,Common European toad,40.0
+25,Chordata,Colorado river toad,15.4
+26,Chordata,Kihansi spray toad,5.0
+27,Chordata,Ridge-headed toad,10.7
+28,Chordata,Cuban toad,20.0
+29,Chordata,European green toad,11.9
+30,Chordata,Colombian giant toad,28.7
+31,Chordata,Cane toad,24.8
+32,Chordata,Eurura toad,15.1
+33,Chordata,Common horned frog,12.8
+34,Chordata,Colombian horned frog,15.9
+35,Chordata,Amazonian horned frog,10.3
+36,Chordata,Ornate horned frog,14.7
+37,Chordata,Green and black dart-poison frog,20.5
+38,Chordata,Yellow-banded poison frog,11.5
+39,Chordata,Kokoe-pa poison dart frog,9.1
+40,Chordata,Strawberry poison frog,7.5
+41,Chordata,African tigrine frog,10.9
+42,Chordata,Northern cricket frog,4.9
+43,Chordata,Maroon-eyed tree frog,5.5
+44,Chordata,Treefrog,12.8
+45,Chordata,European tree frog,22.0
+46,Chordata,Cope's gray treefrog,7.8
+47,Chordata,Barking treefrog,12.5
+48,Chordata,Japanese treefrog,8.9
+49,Chordata,Squirrel treefrog,8.5
+50,Chordata,Gray treefrog,7.8
+51,Chordata,Australian green treefrog,20.0
+52,Chordata,Cuban treefrog,12.9
+53,Chordata,Hispaniola giant treefrog,6.6
+54,Chordata,Mexican leaf frog,8.7
+55,Chordata,Waxy treefrog,10.3
+56,Chordata,Paradox frog,11.0
+57,Chordata,Mexican treefrog,6.3
+58,Chordata,Lowland burrowing treefrog,5.1
+59,Chordata,Masked treefrog,4.1
+60,Chordata,Marbled treefrog,10.5
+61,Chordata,Coastal tailed frog,14.0
+62,Chordata,Tungara frog,18.8
+63,Chordata,Golden mantella,10.9
+64,Chordata,Blue-legged mantella,3.0
+65,Chordata,Eastern narrow-mouthed toad,6.8
+66,Chordata,Malaysian narrowmouth toad,11.0
+67,Chordata,Ornate narrow-mouthed frog,5.0
+68,Chordata,Red-banded frog,10.3
+69,Chordata,Rainbow frog,2.0
+70,Chordata,Common Eurasian spadefoot toad,11.0
+71,Chordata,Goliath frog,5.9
+72,Chordata,Surinam toad,7.7
+73,Chordata,African clawed frog,30.3
+74,Chordata,African bullfrog,45.0
+75,Chordata,Cape sand frog,11.3
+76,Chordata,American bullfrog,16.0
+77,Chordata,Green frog,10.0
+78,Chordata,Northern leopard frog,9.0
+79,Chordata,Mink frog,6.0
+80,Chordata,Wood frog,5.0
+81,Chordata,Carpenter frog,6.2
+82,Chordata,Pool frog,6.0
+83,Chordata,Black-spotted frog,15.0
+84,Chordata,Italian green frog,6.8
+85,Chordata,Marsh frog,11.0
+86,Chordata,Siberian wood frog,9.0
+87,Chordata,Moor frog,11.0
+88,Chordata,California red-legged frog,15.0
+89,Chordata,Edible frog,12.0
+90,Chordata,Iberian frog,8.0
+91,Chordata,Long-legged wood frog,5.0
+92,Chordata,European frog,27.0
+93,Chordata,Couch's spadefoot,6.7
+94,Chordata,Eastern spadefoot,12.3
+95,Chordata,Great Basin spadefoot,20.0
+96,Chordata,Northwestern salamander,10.2
+97,Chordata,Mabee's salamander,8.8
+98,Chordata,Long-toed salamander,10.0
+99,Chordata,Spotted salamander,32.0
+100,Chordata,Axolotl,17.0
+101,Chordata,Marbled salamander,11.3
+102,Chordata,Chihuahuan mole salamander,14.4
+103,Chordata,Mole salamander,9.0
+104,Chordata,Small-mouthed salamander,13.8
+105,Chordata,Tiger salamander,25.0
+106,Chordata,California giant salamander,16.9
+107,Chordata,Two-toed amphiuma,27.0
+108,Chordata,Three-toed amphiuma,15.9
+109,Chordata,Chinese giant salamander,19.9
+110,Chordata,Japanese giant salamander,55.0
+111,Chordata,Hellbender,29.0
+112,Chordata,Boulenger's oriental salamander,11.9
+113,Chordata,Chinese salamander,7.1
+114,Chordata,Clouded salamander,14.2
+115,Chordata,Japanese salamander,12.9
+116,Chordata,Long-tailed clawed salamander,17.0
+117,Chordata,Japanese clawed salamander,14.2
+118,Chordata,Afghanistan salamander,11.0
+119,Chordata,Siberian salamander,8.0
+120,Chordata,Giant palm salamander,6.9
+121,Chordata,Palm salamander,12.2
+122,Chordata,Seal salamander,17.7
+123,Chordata,Allegheny mountain dusky salamander,19.8
+124,Chordata,Black-bellied salamander,15.0
+125,Chordata,Black mountain salamander,20.0
+126,Chordata,Cave salamander,9.1
+127,Chordata,Texas blind salamander,10.3
+128,Chordata,Grotto salamander,9.9
+129,Chordata,Blue ridge two-lined salamander,8.0
+130,Chordata,Tennessee cave salamander,18.5
+131,Chordata,Spring salamander,18.5
+132,Chordata,Four-toed salamander,8.9
+133,Chordata,Red Hills salamander,19.7
+134,Chordata,Eastern red-backed salamander,25.0
+135,Chordata,Dunn's salamander,11.0
+136,Chordata,Del Norte salamander,13.3
+137,Chordata,Northern slimy salamander,20.1
+138,Chordata,Red-cheeked salamander,19.8
+139,Chordata,Western red-backed salamander,11.1
+140,Chordata,Mud salamander,15.1
+141,Chordata,Red salamander,20.1
+142,Chordata,Italian cave salamander,10.6
+143,Chordata,Mudpuppy,34.0
+144,Chordata,Olm,102.0
+145,Chordata,Pyrenean brook newt,26.0
+146,Chordata,Brown newt,17.9
+147,Chordata,Japanese firebelly newt,25.0
+148,Chordata,Laureutis alpine salamander,15.0
+149,Chordata,Bosca's newt,8.0
+150,Chordata,Smooth newt,20.0
+151,Chordata,Striped newt,12.9
+152,Chordata,Eastern newt,25.0
+153,Chordata,Tsitou newt,6.5
+154,Chordata,Asian newt,10.3
+155,Chordata,Algerian newt,14.0
+156,Chordata,Iberian ribbed newt,19.5
+157,Chordata,Golden alpine salamander,17.0
+158,Chordata,European fire salamander,24.0
+159,Chordata,California newt,21.8
+160,Chordata,Italian crested newt,11.0
+161,Chordata,Northern crested newt,28.0
+162,Chordata,Marbled newt,25.0
+163,Chordata,Mandarin salamander,11.0
+164,Chordata,Lesser siren,25.7
+165,Chordata,Greater siren,25.0
+166,Chordata,Mexican burrowing caecilian,13.8
+167,Chordata,Cayenne caecilian,4.9
+168,Chordata,Yellow-striped caecilian,7.3
+169,Chordata,Cooper's hawk,20.3
+170,Chordata,Northern goshawk,22.0
+171,Chordata,Eurasian sparrowhawk,20.2
+172,Chordata,Sharp-shinned hawk,19.9
+173,Chordata,Cinereous vulture,39.0
+174,Chordata,Spanish imperial eagle,44.5
+175,Chordata,Wedge-tailed eagle,40.0
+176,Chordata,Golden eagle,48.0
+177,Chordata,Bonelli's eagle,20.0
+178,Chordata,Eastern imperical eagle,56.0
+179,Chordata,Steppe eagle,41.0
+180,Chordata,Lesser spotted eagle,26.1
+181,Chordata,Tawny eagle,40.3
+182,Chordata,Grey-faced buzzard,8.5
+183,Chordata,Buzzard,28.8
+184,Chordata,Red-tailed hawk,30.7
+185,Chordata,Rough-legged hawk,18.8
+186,Chordata,Red-shouldered hawk,22.4
+187,Chordata,Broad-winged hawk,18.3
+188,Chordata,Ferruginous hawk,23.7
+189,Chordata,Hawaiian hawk,17.0
+190,Chordata,Swainson's hawk,24.9
+191,Chordata,Common black hawk,13.5
+192,Chordata,Short-toed eagle,17.3
+193,Chordata,Swamp harrier,20.1
+194,Chordata,Northern harrier,17.1
+195,Chordata,Pallid harrier,13.5
+196,Chordata,Montagu's harrier,16.3
+197,Chordata,Black-winged kite,6.0
+198,Chordata,White-tailed kite,6.0
+199,Chordata,Black-chested buzzard-eagle,42.0
+200,Chordata,Bearded vulture,40.0
+201,Chordata,Palm-nut vulture,27.1
+202,Chordata,White-backed vulture,19.7
+203,Chordata,Eurasian griffon,41.4
+204,Chordata,White-tailed sea-eagle,42.0
+205,Chordata,Bald eagle,48.0
+206,Chordata,Harpy eagle,16.8
+207,Chordata,New Guinea eagle,30.0
+208,Chordata,Little eagle,10.3
+209,Chordata,Mississippi kite,11.2
+210,Chordata,Lizard buzzard,8.6
+211,Chordata,Square-tailed kite,17.0
+212,Chordata,Black kite,24.0
+213,Chordata,Red kite,38.0
+214,Chordata,Egyptian vulture,37.0
+215,Chordata,Harris's hawk,25.0
+216,Chordata,Western honey-buzzard,29.0
+217,Chordata,Philippine eagle,41.0
+218,Chordata,Snail kite,17.0
+219,Chordata,Bateleur,55.0
+220,Chordata,Turkey vulture,20.8
+221,Chordata,Black vulture,25.5
+222,Chordata,California condor,45.0
+223,Chordata,King vulture,40.0
+224,Chordata,Andean condor,79.0
+225,Chordata,Osprey,32.0
+226,Chordata,Mandarin duck,10.4
+227,Chordata,Wood duck,22.5
+228,Chordata,Egyptian goose,25.5
+229,Chordata,Northern pintail,27.4
+230,Chordata,American wigeon,21.3
+231,Chordata,Northern shoveler,22.6
+232,Chordata,Green-winged teal,27.1
+233,Chordata,Cinnamon teal,12.9
+234,Chordata,Blue-winged teal,23.2
+235,Chordata,Mottled duck,20.0
+236,Chordata,Laysan duck,12.0
+237,Chordata,Eurasian wigeon,35.2
+238,Chordata,Mallard,29.1
+239,Chordata,Garganey,14.7
+240,Chordata,American black duck,26.6
+241,Chordata,Gadwall,28.0
+242,Chordata,Greater white-fronted goose,47.0
+243,Chordata,Greylag goose,31.0
+244,Chordata,Pink-footed goose,40.9
+245,Chordata,Bean goose,25.6
+246,Chordata,Lesser scaup,18.3
+247,Chordata,Redhead,22.6
+248,Chordata,Ring-necked duck,20.4
+249,Chordata,Common pochard,23.2
+250,Chordata,Tufted duck,45.2
+251,Chordata,Greater scaup,22.1
+252,Chordata,Canvasback,29.5
+253,Chordata,Brent goose,28.8
+254,Chordata,Canada goose,42.0
+255,Chordata,Cackling goose,18.3
+256,Chordata,Barnacle goose,28.2
+257,Chordata,Hawaiian goose,42.0
+258,Chordata,Bufflehead,18.7
+259,Chordata,Common goldeneye,18.4
+260,Chordata,Barrow's goldeneye,18.0
+261,Chordata,Cape barren goose,28.1
+262,Chordata,Snow goose,27.5
+263,Chordata,Emperor goose,12.0
+264,Chordata,Ross's goose,22.5
+265,Chordata,Oldsquaw,22.7
+266,Chordata,Trumpeter swan,32.5
+267,Chordata,Tundra swan,24.1
+268,Chordata,Whooper swan,26.5
+269,Chordata,Mute swan,70.0
+270,Chordata,Black-bellied whistling duck,8.2
+271,Chordata,Fulvous whistling duck,11.2
+272,Chordata,White-faced whistling duck,12.0
+273,Chordata,Harlequin duck,14.6
+274,Chordata,Hooded merganser,15.7
+275,Chordata,White-winged scoter,21.4
+276,Chordata,Black scoter,16.8
+277,Chordata,Surf scoter,9.5
+278,Chordata,Smew,10.0
+279,Chordata,Common merganser,14.8
+280,Chordata,Red-breasted merganser,21.3
+281,Chordata,Red-crested pochard,8.8
+282,Chordata,Blue-billed duck,16.0
+283,Chordata,Ruddy duck,13.6
+284,Chordata,Spur-winged goose,11.3
+285,Chordata,Steller's eider,23.0
+286,Chordata,Spectacled eider,18.0
+287,Chordata,Common eider,37.8
+288,Chordata,King eider,18.9
+289,Chordata,Common shelduck,24.8
+290,Chordata,White-throated swift,10.0
+291,Chordata,Common swift,21.1
+292,Chordata,Alpine swift,26.0
+293,Chordata,Chimney swift,15.0
+294,Chordata,Black swift,16.1
+295,Chordata,Violet-crowned hummingbird,6.1
+296,Chordata,Buff-bellied hummingbird,11.2
+297,Chordata,Black-chinned hummingbird,11.2
+298,Chordata,Ruby-throated hummingbird,9.1
+299,Chordata,Lucifer hummingbird,4.1
+300,Chordata,Anna's hummingbird,8.5
+301,Chordata,Costa's hummingbird,6.0
+302,Chordata,Broad-billed hummingbird,8.8
+303,Chordata,Magnificent hummingbird,11.0
+304,Chordata,Blue-throated hummingbird,12.0
+305,Chordata,Garnet-throated hummingbird,8.0
+306,Chordata,Broad-tailed hummingbird,14.0
+307,Chordata,Rufous hummingbird,8.9
+308,Chordata,Calliope hummingbird,7.0
+309,Chordata,Brown kiwi,35.0
+310,Chordata,Great hornbill,33.4
+311,Chordata,Grey-cheeked hornbill,31.8
+312,Chordata,Black-casqued hornbill,19.3
+313,Chordata,Southern ground hornbill,70.0
+314,Chordata,Eurasian hoopoe,11.1
+315,Chordata,Chuck-will's-widow,14.8
+316,Chordata,Eurasian nightjar,11.9
+317,Chordata,Red-necked nightjar,13.2
+318,Chordata,Whip-poor-will,15.0
+319,Chordata,Common nighthawk,10.0
+320,Chordata,Dwarf cassowary,26.0
+321,Chordata,Southern cassowary,30.0
+322,Chordata,Northern cassowary,22.0
+323,Chordata,Emu,16.6
+324,Chordata,Crested auklet,10.8
+325,Chordata,Least auklet,8.1
+326,Chordata,Whiskered auklet,15.0
+327,Chordata,Razorbill,42.0
+328,Chordata,Marbled murrelet,10.0
+329,Chordata,Pigeon guillemot,15.2
+330,Chordata,Black guillemot,29.9
+331,Chordata,Rhinoceros auklet,28.2
+332,Chordata,Atlantic puffin,40.8
+333,Chordata,Cassin's auklet,16.2
+334,Chordata,Xantus' murrelet,15.0
+335,Chordata,Common murre,42.8
+336,Chordata,Thick-billed murre,29.0
+337,Chordata,Eurasian thick-knee,17.9
+338,Chordata,Snowy plover,19.0
+339,Chordata,Little ringed plover,13.0
+340,Chordata,Common ringed plover,20.8
+341,Chordata,Piping plover,14.0
+342,Chordata,Mountain plover,10.0
+343,Chordata,Eurasian dotterel,11.8
+344,Chordata,Semipalmated plover,9.2
+345,Chordata,Killdeer,10.9
+346,Chordata,European golden-plover and greater golden-plover,12.8
+347,Chordata,American golden plover,13.0
+348,Chordata,Pacific golden-plover,21.3
+349,Chordata,Black-bellied plover,25.6
+350,Chordata,Blacksmith lapwing,18.6
+351,Chordata,Spur-winged lapwing,17.0
+352,Chordata,Northern lapwing,24.5
+353,Chordata,Black oystercatcher,16.0
+354,Chordata,Eurasian oystercatcher,43.3
+355,Chordata,American oystercatcher,17.0
+356,Chordata,Black noddy,27.1
+357,Chordata,Noddy tern,26.2
+358,Chordata,Black tern,21.0
+359,Chordata,Slender-billed gull,31.7
+360,Chordata,Black-headed gull,32.9
+361,Chordata,Gull-billed tern,16.0
+362,Chordata,Fairy tern,35.9
+363,Chordata,Little gull,20.9
+364,Chordata,Caspian tern,30.0
+365,Chordata,Audouin's gull,20.9
+366,Chordata,Mediterranean gull,22.1
+367,Chordata,Inca tern,26.0
+368,Chordata,Herring gull,49.0
+369,Chordata,Caspian gull,31.9
+370,Chordata,California gull,30.0
+371,Chordata,Mew gull,33.7
+372,Chordata,Ring-billed gull,31.8
+373,Chordata,Lesser black-backed gull,34.9
+374,Chordata,Glaucous-winged gull,32.0
+375,Chordata,Iceland gull,33.0
+376,Chordata,Heermann's gull,24.0
+377,Chordata,Glaucous gull,21.1
+378,Chordata,Great black-backed gull,29.2
+379,Chordata,Yellow-legged gull,19.2
+380,Chordata,Western gull,33.9
+381,Chordata,Pacific gull,14.5
+382,Chordata,Laughing gull,22.0
+383,Chordata,Bridled tern,17.9
+384,Chordata,Sooty tern,35.8
+385,Chordata,Gray-backed tern,25.8
+386,Chordata,Ivory gull,23.9
+387,Chordata,Blue-gray noddy,15.0
+388,Chordata,Red-legged kittiwake,27.0
+389,Chordata,Black-legged kittiwake,28.5
+390,Chordata,Black skimmer,20.2
+391,Chordata,Roseate tern,25.7
+392,Chordata,Forster's tern,15.8
+393,Chordata,Common tern,33.0
+394,Chordata,Arctic tern,34.0
+395,Chordata,Little tern,23.9
+396,Chordata,Least tern,24.1
+397,Chordata,Elegant tern,20.9
+398,Chordata,Royal tern,28.6
+399,Chordata,Sandwich tern,30.8
+400,Chordata,Black-winged stilt,10.2
+401,Chordata,Black-necked (Hawaiian) stilt,19.1
+402,Chordata,Pied avocet,27.8
+403,Chordata,Common sandpiper,14.5
+404,Chordata,Spotted sandpiper,12.0
+405,Chordata,Ruddy turnstone,22.3
+406,Chordata,Upland sandpiper,8.9
+407,Chordata,Sanderling,18.6
+408,Chordata,Dunlin,28.8
+409,Chordata,Red knot,27.3
+410,Chordata,Curlew sandpiper,19.7
+411,Chordata,Stilt sandpiper,11.1
+412,Chordata,Purple sandpiper,20.8
+413,Chordata,Western sandpiper,9.2
+414,Chordata,Little stint,14.7
+415,Chordata,Least sandpiper,16.0
+416,Chordata,Semipalmated sandpiper,19.3
+417,Chordata,Temminck's stint,12.9
+418,Chordata,Wilson's snipe,9.2
+419,Chordata,Common snipe,18.2
+420,Chordata,Broad-billed sandpiper,6.8
+421,Chordata,Short-billed dowitcher,13.3
+422,Chordata,Long-billed dowitcher,13.2
+423,Chordata,Marbled godwit,13.7
+424,Chordata,Bar-tailed godwit,34.0
+425,Chordata,Black-tailed godwit,23.6
+426,Chordata,Jack snipe,12.3
+427,Chordata,Eurasian curlew,31.8
+428,Chordata,Whimbrel,24.2
+429,Chordata,Bristle-thighed curlew,23.8
+430,Chordata,Red-necked phalarope,12.9
+431,Chordata,Wilson's phalarope,10.0
+432,Chordata,Ruff,13.9
+433,Chordata,American woodcock,20.9
+434,Chordata,Eurasian woodcock,15.5
+435,Chordata,Spotted redshank,8.6
+436,Chordata,Wood sandpiper,11.6
+437,Chordata,Common greenshank,24.4
+438,Chordata,Green sandpiper,11.5
+439,Chordata,Willet,12.6
+440,Chordata,Marsh sandpiper,7.1
+441,Chordata,Common redshank,26.9
+442,Chordata,Terek sandpiper,16.0
+443,Chordata,Brown skua,28.8
+444,Chordata,Long-tailed jaeger,14.0
+445,Chordata,South polar skua,23.5
+446,Chordata,Parasidic jaeger,31.1
+447,Chordata,Great skua,34.5
+448,Chordata,Asian openbill,18.0
+449,Chordata,Abdim's stork,21.6
+450,Chordata,Oriental white stork,48.1
+451,Chordata,European white stork,39.0
+452,Chordata,Woolly-necked stork,30.2
+453,Chordata,Maguari stork,20.4
+454,Chordata,Black stork,31.3
+455,Chordata,Black-necked stork,34.0
+456,Chordata,Saddle-billed stork,30.2
+457,Chordata,Jabiru,27.4
+458,Chordata,Marabou,44.7
+459,Chordata,Greater adjutant,43.0
+460,Chordata,Lesser adjutant,31.1
+461,Chordata,Wood stork,27.0
+462,Chordata,Milky stork,12.4
+463,Chordata,Yellow-billed stork,19.1
+464,Chordata,Painted stork,28.6
+465,Chordata,Speckled mousebird,11.5
+466,Chordata,Nicobar pigeon,20.5
+467,Chordata,Rock dove,35.0
+468,Chordata,Stock dove and stock pigeon,12.6
+469,Chordata,Common wood-pigeon,17.7
+470,Chordata,Inca dove,13.3
+471,Chordata,Common ground dove,7.2
+472,Chordata,Zebra dove,14.0
+473,Chordata,White-tipped dove,8.6
+474,Chordata,Wonga pigeon,16.3
+475,Chordata,Band-tailed pigeon,18.5
+476,Chordata,White-crowned pigeon,14.4
+477,Chordata,Spotted dove,9.8
+478,Chordata,Eurasian collared-dove,17.9
+479,Chordata,Ring dove,12.0
+480,Chordata,European turtle-dove,13.2
+481,Chordata,White-winged dove,25.0
+482,Chordata,Mourning dove,31.3
+483,Chordata,Common kingfisher,21.0
+484,Chordata,Pied kingfisher,3.9
+485,Chordata,Green kingfisher,5.0
+486,Chordata,Laughing kookaburra,26.8
+487,Chordata,White-throated kingfisher,5.5
+488,Chordata,Indian roller,8.9
+489,Chordata,Lilac-breasted roller,13.7
+490,Chordata,European roller,9.2
+491,Chordata,European bee-eater,5.9
+492,Chordata,White-fronted bee-eater,7.0
+493,Chordata,Russet-crowned motmot,10.4
+494,Chordata,Blue-crowned motmot,20.3
+495,Chordata,Puerto Rican tody,12.6
+496,Chordata,Yellow-billed cuckoo,5.0
+497,Chordata,Black-billed cuckoo,5.0
+498,Chordata,Common cuckoo and Eurasian cuckoo,12.9
+499,Chordata,Greater roadrunner,9.0
+500,Chordata,Puerto Rican lizard cuckoo,7.6
+501,Chordata,Sunbittern,15.0
+502,Chordata,Crested caracara,25.8
+503,Chordata,Southern caracara,37.6
+504,Chordata,Brown falcon,24.0
+505,Chordata,Saker falcon,15.9
+506,Chordata,Merlin,12.7
+507,Chordata,Eleonora's falcon,11.2
+508,Chordata,Aplomado falcon,12.0
+509,Chordata,Prairie falcon,17.2
+510,Chordata,Lesser kestrel,10.9
+511,Chordata,Peregrine falcon,25.0
+512,Chordata,Mauritius kestrel,10.0
+513,Chordata,Gyrfalcon,13.5
+514,Chordata,American kestrel,17.0
+515,Chordata,Eurasian hobby,14.9
+516,Chordata,Common kestrel,23.8
+517,Chordata,Red-footed falcon,13.2
+518,Chordata,Wattled curassow,20.0
+519,Chordata,Great curassow,24.0
+520,Chordata,Razor-billed curassow,23.0
+521,Chordata,Plain chachalaca,8.8
+522,Chordata,Brush turkey,12.5
+523,Chordata,Maleo,23.0
+524,Chordata,California quail,9.6
+525,Chordata,Gambel's quail,7.4
+526,Chordata,Northern bobwhite,6.4
+527,Chordata,Red-legged partridge,6.2
+528,Chordata,Ruffed grouse,11.0
+529,Chordata,Sage grouse,7.0
+530,Chordata,Lady Amherst's pheasant,19.6
+531,Chordata,Golden pheasant,13.4
+532,Chordata,King quail,5.0
+533,Chordata,Common quail,14.6
+534,Chordata,Japanese quail,6.0
+535,Chordata,Blue grouse,14.0
+536,Chordata,Spruce grouse,13.0
+537,Chordata,Black francolin,7.0
+538,Chordata,Grey francolin,8.0
+539,Chordata,Red junglefowl,30.0
+540,Chordata,Willow ptarmigan,9.0
+541,Chordata,White-tailed ptarmigan,15.0
+542,Chordata,Eurasian black grouse,12.2
+543,Chordata,Wild turkey,13.0
+544,Chordata,Indian peafowl,23.2
+545,Chordata,Grey partridge,5.2
+546,Chordata,Common pheasant,27.0
+547,Chordata,Palawan peacock-pheasant,15.0
+548,Chordata,Reeves's pheasant,9.2
+549,Chordata,Western capercaillie,18.0
+550,Chordata,Hazel grouse,7.2
+551,Chordata,Greater prairie chicken,5.0
+552,Chordata,Lesser prairie chicken,13.5
+553,Chordata,Sharp-tailed grouse,7.5
+554,Chordata,Black-throated diver,28.0
+555,Chordata,Great northern diver,24.1
+556,Chordata,Red-throated diver,24.0
+557,Chordata,Demoiselle crane,27.0
+558,Chordata,Grey crowned crane,27.2
+559,Chordata,Whooping crane,40.0
+560,Chordata,Sarus crane,41.8
+561,Chordata,Sandhill crane,36.6
+562,Chordata,Common crane,43.0
+563,Chordata,Red-crowned crane,25.2
+564,Chordata,Siberian crane,36.2
+565,Chordata,Hooded crane,24.0
+566,Chordata,Brolga,33.0
+567,Chordata,White-naped crane,45.0
+568,Chordata,American coot,22.3
+569,Chordata,Coot,20.6
+570,Chordata,Common moorhen,18.6
+571,Chordata,Weka,13.8
+572,Chordata,Water rail,8.9
+573,Chordata,Clapper rail,7.5
+574,Chordata,White-cheeked turaco,12.4
+575,Chordata,Great bustard,28.3
+576,Chordata,White-browed scrubwren,17.6
+577,Chordata,Great reed-warbler,10.1
+578,Chordata,Blyth's reed-warbler,7.8
+579,Chordata,Moustached warbler,11.2
+580,Chordata,Marsh warbler,9.8
+581,Chordata,Sedge warbler,11.8
+582,Chordata,Eurasian reed-warbler,14.0
+583,Chordata,Seychelles warbler,17.0
+584,Chordata,Indian great reed warbler,10.6
+585,Chordata,Icterine warbler,10.8
+586,Chordata,Melodious warbler,8.9
+587,Chordata,Olivaceous warbler,7.9
+588,Chordata,Long-tailed tit,11.1
+589,Chordata,Bushtit,9.1
+590,Chordata,Eurasian skylark,10.1
+591,Chordata,Horned lark,8.0
+592,Chordata,Crested lark,11.6
+593,Chordata,Wood lark,6.0
+594,Chordata,Cedar waxwing,8.2
+595,Chordata,Bohemian waxwing,13.5
+596,Chordata,Lapland longspur,6.0
+597,Chordata,Smith's longspur,5.0
+598,Chordata,Mckay's bunting,4.8
+599,Chordata,Snow bunting,9.6
+600,Chordata,Northern cardinal,28.5
+601,Chordata,Blue bunting,10.8
+602,Chordata,Lazuli bunting,9.9
+603,Chordata,Blue grosbeak,10.2
+604,Chordata,Painted bunting,12.0
+605,Chordata,Indigo bunting,11.0
+606,Chordata,Rose-breasted grosbeak,24.0
+607,Chordata,Black-headed grosbeak,25.0
+608,Chordata,Western tanager,15.3
+609,Chordata,Scarlet tanager,11.9
+610,Chordata,Summer tanager,7.9
+611,Chordata,Dickcissel,4.8
+612,Chordata,Eurasian treecreeper,8.2
+613,Chordata,Cetti's warbler,9.3
+614,Chordata,White-throated dipper,10.6
+615,Chordata,American dipper,8.1
+616,Chordata,Bananaquit,8.6
+617,Chordata,White-winged chough,16.3
+618,Chordata,Apostlebird,25.0
+619,Chordata,Western scrub jay,15.8
+620,Chordata,Scrub jay,15.0
+621,Chordata,Island scrub jay,15.3
+622,Chordata,Mexican jay,25.0
+623,Chordata,Eurasian crow and Eurasian jackdaw,20.3
+624,Chordata,American crow,20.0
+625,Chordata,Northwestern crow,16.7
+626,Chordata,Common raven,69.0
+627,Chordata,Hooded crow,16.8
+628,Chordata,Carrion crow,19.2
+629,Chordata,Australian raven,21.8
+630,Chordata,Chihuahuan raven,21.8
+631,Chordata,Rook,22.9
+632,Chordata,Hawaiian crow,25.0
+633,Chordata,Fish crow,14.5
+634,Chordata,Blue jay,26.2
+635,Chordata,Steller's jay,16.1
+636,Chordata,Azure jay,36.0
+637,Chordata,Eurasian jay,17.9
+638,Chordata,Pinyon jay,14.6
+639,Chordata,Spotted nutcracker,16.2
+640,Chordata,Clark's nutcracker,17.4
+641,Chordata,Gray jay,19.2
+642,Chordata,Siberian jay,17.9
+643,Chordata,Black-billed magpie,20.0
+644,Chordata,Yellow-billed magpie,10.0
+645,Chordata,Eurasian magpie,21.7
+646,Chordata,Alpine chough,24.4
+647,Chordata,Red-billed chough,20.3
+648,Chordata,Guianan cock-of-the-rock,7.0
+649,Chordata,Rufous-crowned sparrow,5.1
+650,Chordata,Saltmarsh sharp-tailed sparrow,10.0
+651,Chordata,Henslow's sparrow,6.5
+652,Chordata,Le Conte's sparrow,4.1
+653,Chordata,Seaside sparrow,9.0
+654,Chordata,Nelson's sharp-tailed sparrow,7.1
+655,Chordata,Grasshopper sparrow,9.1
+656,Chordata,Black-throated sparrow,6.0
+657,Chordata,Olive sparrow,8.2
+658,Chordata,Sage sparrow,9.1
+659,Chordata,Lark bunting,4.8
+660,Chordata,Lark sparrow,7.8
+661,Chordata,Yellow-breasted bunting,7.0
+662,Chordata,Corn bunting,10.6
+663,Chordata,Cirl bunting,6.1
+664,Chordata,Yellowhammer,13.2
+665,Chordata,Ortolan bunting,6.8
+666,Chordata,Black-headed bunting,11.0
+667,Chordata,Reed bunting,12.2
+668,Chordata,Dark-eyed junco,11.3
+669,Chordata,Yellow-eyed junco,6.6
+670,Chordata,Swamp sparrow,7.8
+671,Chordata,Lincoln's sparrow,7.6
+672,Chordata,Song sparrow,11.3
+673,Chordata,Abert's towhee,8.6
+674,Chordata,California towhee,12.8
+675,Chordata,Canyon towhee,12.8
+676,Chordata,Savannah sparrow,18.0
+677,Chordata,Fox sparrow,10.3
+678,Chordata,Bachman's sparrow,3.9
+679,Chordata,Green-tailed towhee,7.7
+680,Chordata,Eastern towhee,12.3
+681,Chordata,Spotted towhee,11.0
+682,Chordata,Vesper sparrow,7.9
+683,Chordata,Brewer's sparrow,6.2
+684,Chordata,Clay-colored sparrow,6.9
+685,Chordata,Chipping sparrow,11.8
+686,Chordata,Field sparrow,10.3
+687,Chordata,American tree sparrow,10.8
+688,Chordata,White-throated sparrow,14.9
+689,Chordata,Golden-crowned sparrow,10.5
+690,Chordata,White-crowned sparrow,13.3
+691,Chordata,Harris's sparrow,11.7
+692,Chordata,Gouldian finch,6.0
+693,Chordata,White-rumped munia,10.0
+694,Chordata,Zebra finch,12.0
+695,Chordata,Common redpoll,12.2
+696,Chordata,Hoary redpoll,6.8
+697,Chordata,European goldfinch,27.0
+698,Chordata,Common rosefinch,9.0
+699,Chordata,European greenfinch,13.6
+700,Chordata,Kauai amakihi,9.0
+701,Chordata,Hawaii amakihi,12.0
+702,Chordata,Hawfinch,12.6
+703,Chordata,Chaffinch,29.0
+704,Chordata,Brambling,14.8
+705,Chordata,Cassin's finch,7.0
+706,Chordata,House finch,11.6
+707,Chordata,Purple finch,14.0
+708,Chordata,Akiapolaau,13.0
+709,Chordata,Evening grosbeak,17.0
+710,Chordata,Apapane,11.0
+711,Chordata,Black rosy-finch,8.6
+712,Chordata,Brown-capped rosy finch,5.9
+713,Chordata,Gray-crowned rosy-finch,6.6
+714,Chordata,Eurasian linnet,9.4
+715,Chordata,Twite,6.1
+716,Chordata,Red crossbill,16.1
+717,Chordata,White-winged crossbill,4.0
+718,Chordata,Palila,13.0
+719,Chordata,Akepa,10.0
+720,Chordata,Anianiau,9.5
+721,Chordata,Poo-uli,9.2
+722,Chordata,Akohekohe or crested honeycreeper,9.2
+723,Chordata,Pine grosbeak,9.8
+724,Chordata,Eurasian bullfinch,17.5
+725,Chordata,House canary,24.0
+726,Chordata,Pine siskin,11.0
+727,Chordata,Lesser goldfinch,5.7
+728,Chordata,Eurasian siskin,13.5
+729,Chordata,American goldfinch,13.0
+730,Chordata,Laysan finch,12.0
+731,Chordata,Nihoa finch,12.0
+732,Chordata,Iiwi,8.8
+733,Chordata,Red-rumped swallow,9.0
+734,Chordata,Common house-martin and northern house-martin,15.0
+735,Chordata,Barn swallow,16.0
+736,Chordata,Cave swallow,12.2
+737,Chordata,Cliff swallow,11.8
+738,Chordata,Purple martin,13.8
+739,Chordata,Bank swallow,10.0
+740,Chordata,Southern rough-winged swallow,5.9
+741,Chordata,Northern rough-winged swallow,5.9
+742,Chordata,Tree swallow,12.1
+743,Chordata,Violet-green swallow,9.1
+744,Chordata,Red-winged blackbird,20.0
+745,Chordata,Tricolored blackbird,13.2
+746,Chordata,Yellow-shouldered blackbird,12.6
+747,Chordata,Bobolink,9.0
+748,Chordata,Rusty blackbird,8.8
+749,Chordata,Brewer's blackbird,12.5
+750,Chordata,Bullock's oriole,8.9
+751,Chordata,Hooded oriole,6.0
+752,Chordata,Baltimore oriole,14.0
+753,Chordata,Jamaican oriole,12.2
+754,Chordata,Scott's oriole,6.4
+755,Chordata,Spot-breasted oriole,11.6
+756,Chordata,Orchard oriole,17.7
+757,Chordata,Brown-headed cowbird,16.9
+758,Chordata,Boat-tailed grackle,13.9
+759,Chordata,Great-tailed grackle,12.5
+760,Chordata,Common grackle,23.1
+761,Chordata,Eastern meadowlark,12.6
+762,Chordata,Western meadowlark,10.0
+763,Chordata,Yellow-headed blackbird,18.0
+764,Chordata,Red-backed shrike,10.1
+765,Chordata,Northern shrike,12.0
+766,Chordata,Loggerhead shrike,12.5
+767,Chordata,Woodchat shrike,5.7
+768,Chordata,Red-billed leothrix,15.0
+769,Chordata,Arabian babbler,13.5
+770,Chordata,Bengal jungle babbler,16.5
+771,Chordata,River warbler,6.9
+772,Chordata,Savi's warbler,9.8
+773,Chordata,Common grasshopper-warbler,5.9
+774,Chordata,Superb fairywren,10.4
+775,Chordata,Gray catbird,17.9
+776,Chordata,Pearly-eyed thrasher,10.6
+777,Chordata,Northern mockingbird,20.0
+778,Chordata,Bendire's thrasher,9.5
+779,Chordata,Crissal thrasher,4.8
+780,Chordata,Curve-billed thrasher,10.8
+781,Chordata,Le conte's thrasher,5.7
+782,Chordata,Long-billed thrasher,7.8
+783,Chordata,California thrasher,6.9
+784,Chordata,Brown thrasher,12.8
+785,Chordata,Elepaio,17.8
+786,Chordata,Red-throated pipit,4.5
+787,Chordata,Rock pipit,10.9
+788,Chordata,Meadow pipit,8.8
+789,Chordata,American pipit,5.1
+790,Chordata,Water pipit,8.8
+791,Chordata,Tree pipit,8.8
+792,Chordata,White wagtail,13.7
+793,Chordata,Grey wagtail,8.0
+794,Chordata,Yellow wagtail,8.8
+795,Chordata,White-rumped shama,7.0
+796,Chordata,European robin,19.3
+797,Chordata,Rufous-tailed scrub-robin,7.0
+798,Chordata,Collared flycatcher,9.8
+799,Chordata,European pied flycatcher,15.0
+800,Chordata,Thrush nightingale,8.9
+801,Chordata,Common nightingale,10.9
+802,Chordata,Bluethroat,11.4
+803,Chordata,Spotted flycatcher,11.8
+804,Chordata,Black-eared wheatear,4.9
+805,Chordata,Northern wheatear,10.1
+806,Chordata,Black redstart,10.2
+807,Chordata,Common redstart,10.2
+808,Chordata,Whinchat,6.9
+809,Chordata,Common stonechat and stonechat,8.8
+810,Chordata,Purple sunbird,22.0
+811,Chordata,Eurasian golden-oriole,14.8
+812,Chordata,Black-hooded oriole,15.5
+813,Chordata,Green figbird (hang-nest),18.0
+814,Chordata,Bearded parrotbill,7.1
+815,Chordata,Greater bird-of-paradise,12.1
+816,Chordata,Tufted titmouse,13.3
+817,Chordata,Plain titmouse or oak titmouse,9.0
+818,Chordata,Bridled titmouse,6.6
+819,Chordata,Blue tit,14.6
+820,Chordata,Crested tit,11.6
+821,Chordata,Great tit,15.4
+822,Chordata,Coal tit,9.5
+823,Chordata,Black-capped chickadee,12.4
+824,Chordata,Carolina chickadee,10.9
+825,Chordata,Siberian tit or gray-headed chickadee,9.0
+826,Chordata,Mountain chickadee,10.1
+827,Chordata,Boreal chickadee,7.0
+828,Chordata,Willow tit,11.3
+829,Chordata,Marsh tit,11.9
+830,Chordata,Chestnut-backed chickadee,9.5
+831,Chordata,Mexican chickadee,10.1
+832,Chordata,Canada warbler,8.0
+833,Chordata,Wilson's warbler,8.9
+834,Chordata,Red-faced warbler,3.0
+835,Chordata,Kentucky warbler,6.9
+836,Chordata,Mourning warbler,7.9
+837,Chordata,Macgillivray's warbler,9.0
+838,Chordata,Common yellowthroat,11.5
+839,Chordata,Worm-eating warbler,8.1
+840,Chordata,Yellow-breasted chat,8.9
+841,Chordata,Orange-crowned warbler,8.6
+842,Chordata,Lucy's warbler,5.8
+843,Chordata,Tennessee warbler,6.4
+844,Chordata,Nashville warbler,10.2
+845,Chordata,Virginia's warbler,6.2
+846,Chordata,Swainson's warbler,9.9
+847,Chordata,Black-and-white warbler,12.2
+848,Chordata,Painted redstart,6.6
+849,Chordata,Louisiana waterthrush,11.9
+850,Chordata,Northern waterthrush,8.9
+851,Chordata,Prothonotary warbler,8.1
+852,Chordata,Ovenbird,11.0
+853,Chordata,Adelaide's warbler,10.6
+854,Chordata,Northern parula,7.0
+855,Chordata,Black-throated blue warbler,10.0
+856,Chordata,Bay-breasted warbler,4.9
+857,Chordata,Cerulean warbler,6.0
+858,Chordata,Golden-cheeked warbler,11.0
+859,Chordata,Hooded warbler,8.2
+860,Chordata,Yellow-rumped (myrtle) warbler,10.0
+861,Chordata,Prairie warbler,10.3
+862,Chordata,Yellow-throated warbler,6.1
+863,Chordata,Blackburnian warbler,8.2
+864,Chordata,Kirtland's warbler,9.0
+865,Chordata,Magnolia warbler,8.0
+866,Chordata,Hermit warbler,9.1
+867,Chordata,Western palm warbler,6.6
+868,Chordata,Chestnut-sided warbler,6.9
+869,Chordata,Yellow warbler,11.0
+870,Chordata,Pine warbler,10.2
+871,Chordata,American redstart,10.1
+872,Chordata,Blackpoll warbler,8.1
+873,Chordata,Townsend's warbler,10.7
+874,Chordata,Black-throated green warbler,6.0
+875,Chordata,Golden-winged warbler,7.9
+876,Chordata,Blue-winged warbler,9.0
+877,Chordata,House sparrow,23.0
+878,Chordata,Spanish sparrow,11.2
+879,Chordata,Eurasian tree sparrow,13.1
+880,Chordata,Rock sparrow,7.0
+881,Chordata,Common chiffchaff and Eurasian chiffchaff,8.0
+882,Chordata,Wood warbler,10.2
+883,Chordata,Willow warbler,11.8
+884,Chordata,African ox birds,20.0
+885,Chordata,Village weaver,24.0
+886,Chordata,Red-billed quelea,10.0
+887,Chordata,Blue-grey gnatcatcher,4.2
+888,Chordata,California gnatcatcher,8.0
+889,Chordata,Hedge sparrow,20.8
+890,Chordata,Red-whiskered bulbul,11.1
+891,Chordata,White-spectacled bulbul,8.8
+892,Chordata,Ruby-crowned kinglet,5.6
+893,Chordata,Goldcrest,7.0
+894,Chordata,Golden-crowned kinglet,6.3
+895,Chordata,Verdin,5.6
+896,Chordata,Eurasian penduline-tit,7.0
+897,Chordata,Red-breasted nuthatch,7.5
+898,Chordata,White-breasted nuthatch,9.8
+899,Chordata,Wood nuthatch or Eurasian nuthatch,12.9
+900,Chordata,Brown-headed nuthatch,5.8
+901,Chordata,Pygmy nuthatch,8.2
+902,Chordata,Crested myna,13.0
+903,Chordata,Long-tailed glossy starling,17.8
+904,Chordata,Hildebrandt's starling,16.9
+905,Chordata,Bali mynah,25.0
+906,Chordata,European starling,22.9
+907,Chordata,Wrentit,12.6
+908,Chordata,Blackcap,13.8
+909,Chordata,Garden warbler,24.0
+910,Chordata,Whitethroat,8.9
+911,Chordata,Lesser whitethroat,9.0
+912,Chordata,Sardinian warbler,8.3
+913,Chordata,Barred warbler,11.9
+914,Chordata,Marsh antwren,16.2
+915,Chordata,Purple honeycreeper,17.0
+916,Chordata,Puerto rican bullfinch,15.6
+917,Chordata,Puerto Rican tanager,4.0
+918,Chordata,White-collared seedeater,11.7
+919,Chordata,Blue-grey tanager,9.5
+920,Chordata,Cactus wren,7.3
+921,Chordata,Bewick's wren,8.0
+922,Chordata,Carolina wren,9.2
+923,Chordata,House wren,9.0
+924,Chordata,Winter wren,7.0
+925,Chordata,Bicknell's thrush,11.9
+926,Chordata,Veery,10.1
+927,Chordata,Hermit thrush,10.8
+928,Chordata,Grey-cheeked thrush,7.3
+929,Chordata,Swainson's thrush,11.0
+930,Chordata,Wood thrush,10.2
+931,Chordata,Varied thrush,5.6
+932,Chordata,Mountain bluebird,9.0
+933,Chordata,Western bluebird,8.7
+934,Chordata,Eastern bluebird,10.5
+935,Chordata,Clay-colored robin,9.6
+936,Chordata,Redwing,18.8
+937,Chordata,Common blackbird and Eurasian blackbird,21.8
+938,Chordata,American robin,17.0
+939,Chordata,Song thrush,17.7
+940,Chordata,Fieldfare,18.1
+941,Chordata,Red-legged thrush,14.6
+942,Chordata,Ring ouzel,9.1
+943,Chordata,Mistle thrush,21.2
+944,Chordata,Northern beardless tyrannulet,5.8
+945,Chordata,Olive-sided flycatcher,11.1
+946,Chordata,Western wood pewee,8.1
+947,Chordata,Eastern wood pewee,8.2
+948,Chordata,Caribbean elaenia,13.6
+949,Chordata,Alder flycatcher,9.1
+950,Chordata,Pacific-slope flycatcher,6.9
+951,Chordata,Hammond's flycatcher,7.0
+952,Chordata,Least flycatcher,8.0
+953,Chordata,Dusky flycatcher,9.0
+954,Chordata,Willow flycatcher,11.0
+955,Chordata,Acadian flycatcher,12.1
+956,Chordata,Puerto rican flycatcher,13.6
+957,Chordata,Ash-throated flycatcher,11.9
+958,Chordata,Great crested flycatcher,14.9
+959,Chordata,Brown-crested flycatcher,11.0
+960,Chordata,Vermilion flycatcher,5.5
+961,Chordata,Black phoebe,8.0
+962,Chordata,Eastern phoebe,10.3
+963,Chordata,Eastern kingbird,11.1
+964,Chordata,Western kingbird,6.9
+965,Chordata,Black-capped vireo,12.0
+966,Chordata,Bell's vireo,9.1
+967,Chordata,Yellow-throated vireo,6.1
+968,Chordata,Warbling vireo,13.1
+969,Chordata,White-eyed vireo,10.9
+970,Chordata,Hutton's vireo,13.5
+971,Chordata,Puerto rican vireo,16.8
+972,Chordata,Red-eyed vireo,10.2
+973,Chordata,Philadelphia vireo,9.8
+974,Chordata,Blue-headed vireo,7.4
+975,Chordata,Japanese white-eye,5.1
+976,Chordata,Silvereye,13.0
+977,Chordata,Great egret,22.8
+978,Chordata,Grey heron,37.5
+979,Chordata,Cocoi heron,24.4
+980,Chordata,Goliath heron,22.9
+981,Chordata,Great blue heron,24.5
+982,Chordata,Purple heron,25.4
+983,Chordata,American bittern,8.3
+984,Chordata,Bittern,11.3
+985,Chordata,Cattle egret,23.0
+986,Chordata,Green heron,11.6
+987,Chordata,Little blue heron,13.9
+988,Chordata,Little egret,22.3
+989,Chordata,Reddish egret,22.0
+990,Chordata,Snowy egret,22.8
+991,Chordata,Tricolored heron,17.7
+992,Chordata,Little bittern,6.9
+993,Chordata,Black-crowned night heron,21.1
+994,Chordata,Shoebill,35.7
+995,Chordata,Dalmatian pelican,35.3
+996,Chordata,American white pelican,54.0
+997,Chordata,Brown pelican,43.0
+998,Chordata,Great white pelican,51.0
+999,Chordata,Wattled ibis,12.0
+1000,Chordata,Hadada ibis,16.0
+1001,Chordata,White ibis,27.6
+1002,Chordata,Scarlet ibis,33.2
+1003,Chordata,Bald ibis,15.3
+1004,Chordata,Northern bald ibis,32.9
+1005,Chordata,Crested ibis,25.8
+1006,Chordata,Whispering ibis,20.0
+1007,Chordata,Roseate spoonbill,28.0
+1008,Chordata,African spoonbill,17.9
+1009,Chordata,Yellow-billed spoonbill,28.6
+1010,Chordata,Eurasian spoonbill,30.1
+1011,Chordata,Black-faced spoonbill,15.0
+1012,Chordata,White-faced ibis,20.4
+1013,Chordata,Glossy ibis,26.8
+1014,Chordata,Puna ibis,18.0
+1015,Chordata,Black ibis,30.0
+1016,Chordata,Buff-necked ibis,22.0
+1017,Chordata,Black-faced ibis,34.5
+1018,Chordata,Sacred ibis,37.0
+1019,Chordata,Black-headed ibis,28.2
+1020,Chordata,Australian ibis,33.2
+1021,Chordata,Straw-necked ibis,39.4
+1022,Chordata,Red-billed tropicbird,17.6
+1023,Chordata,Red-tailed tropicbird,32.7
+1024,Chordata,Lesser flamingo,41.0
+1025,Chordata,Chilean flamingo,36.7
+1026,Chordata,Greater flamingo,44.0
+1027,Chordata,Northern flicker,12.5
+1028,Chordata,White-backed woodpecker,15.9
+1029,Chordata,Great spotted woodpecker,12.7
+1030,Chordata,Middle spotted woodpecker,8.0
+1031,Chordata,Lesser spotted woodpecker,9.8
+1032,Chordata,Syrian woodpecker,10.9
+1033,Chordata,Black woodpecker,14.0
+1034,Chordata,Pileated woodpecker,13.0
+1035,Chordata,Eurasian wryneck,10.0
+1036,Chordata,Red-bellied woodpecker,20.7
+1037,Chordata,Red-headed woodpecker,10.0
+1038,Chordata,Acorn woodpecker,17.2
+1039,Chordata,Gila woodpecker,11.0
+1040,Chordata,Red-cockaded woodpecker,16.1
+1041,Chordata,Nuttall's woodpecker,7.8
+1042,Chordata,Downy woodpecker,11.9
+1043,Chordata,Eurasian three-toed woodpecker and three-toed woodpecker,11.2
+1044,Chordata,Hairy woodpecker,15.9
+1045,Chordata,Eurasian green woodpecker,15.2
+1046,Chordata,Red-naped sapsucker,4.9
+1047,Chordata,Red-breasted sapsucker,4.8
+1048,Chordata,Yellow-bellied sapsucker,7.8
+1049,Chordata,Toco toucan,16.2
+1050,Chordata,Western grebe,14.0
+1051,Chordata,Great crested grebe,19.2
+1052,Chordata,Red-necked grebe,11.0
+1053,Chordata,Eared grebe,13.1
+1054,Chordata,Little grebe,17.5
+1055,Chordata,Royal albatross,58.0
+1056,Chordata,Wandering albatross,50.0
+1057,Chordata,Laysan albatross,65.0
+1058,Chordata,Waved albatross,40.0
+1059,Chordata,Black-footed albatross,42.1
+1060,Chordata,Yellow-nosed albatross,37.0
+1061,Chordata,Grey-headed albatross,47.2
+1062,Chordata,Black-browed albatross,43.7
+1063,Chordata,European storm petrel,33.8
+1064,Chordata,Harcourt's storm petrel,36.0
+1065,Chordata,Fork-tailed storm petrel,18.0
+1066,Chordata,Ashy storm-petrel,31.0
+1067,Chordata,Leach's storm petrel,36.0
+1068,Chordata,Bulwer's petrel,22.9
+1069,Chordata,Cory's shearwater,24.8
+1070,Chordata,Cape petrel,25.0
+1071,Chordata,Northern fulmar,51.0
+1072,Chordata,Southern fulmar,45.0
+1073,Chordata,Southern giant petrel,47.0
+1074,Chordata,Snow petrel,46.0
+1075,Chordata,Black petrel,17.0
+1076,Chordata,Phoenix petrel,11.3
+1077,Chordata,Bonin Island petrel,30.8
+1078,Chordata,Gould's petrel,20.0
+1079,Chordata,Hawaiian petrel,13.1
+1080,Chordata,Flesh-footed shearwater,30.2
+1081,Chordata,Sooty shearwater,34.0
+1082,Chordata,Wedge-tailed shearwater,29.0
+1083,Chordata,Manx shearwater,50.9
+1084,Chordata,Short-tailed shearwater,39.9
+1085,Chordata,Fischer's lovebird,12.6
+1086,Chordata,Nyasa loverbird,19.2
+1087,Chordata,Red-headed lovebird,18.0
+1088,Chordata,Black-winged lovebird,14.6
+1089,Chordata,Australian king parrot,26.6
+1090,Chordata,Blue-fronted amazon,49.0
+1091,Chordata,White-fronted parrot,25.3
+1092,Chordata,Orange-winged amazon,30.0
+1093,Chordata,Yellow-naped parrot,49.0
+1094,Chordata,Red-lored parrot,27.0
+1095,Chordata,Festive amazon,24.5
+1096,Chordata,Lilac-crowned parrot,25.8
+1097,Chordata,St. Vincent parrot,28.0
+1098,Chordata,Yellow-crowned parrot,56.0
+1099,Chordata,Red-browed parrot,44.0
+1100,Chordata,Hyacinth macaw,38.8
+1101,Chordata,Lear's macaw,38.3
+1102,Chordata,Red-winged parrot,24.4
+1103,Chordata,Great green macaw,29.0
+1104,Chordata,Blue-and-yellow macaw,43.0
+1105,Chordata,Red-and-green macaw,50.1
+1106,Chordata,Blue-throated macaw,22.0
+1107,Chordata,Scarlet macaw,33.0
+1108,Chordata,Military macaw,46.0
+1109,Chordata,Red-fronted macaw,23.0
+1110,Chordata,Chestnut-fronted macaw,28.5
+1111,Chordata,Blue-crowned parakeet,31.0
+1112,Chordata,Golden-capped parakeet,20.9
+1113,Chordata,Orange-fronted parakeet,16.2
+1114,Chordata,Red-masked parakeet,26.2
+1115,Chordata,Green parakeet,21.8
+1116,Chordata,Port Lincoln ringneck,17.9
+1117,Chordata,Andean parakeet,9.2
+1118,Chordata,Yellow-chevroned parakeet,19.0
+1119,Chordata,Grey-cheeked parakeet,11.3
+1120,Chordata,Tui parakeet,13.2
+1121,Chordata,Plain parakeet,11.0
+1122,Chordata,Canary-winged parakeet,10.3
+1123,Chordata,White cockatoo,26.9
+1124,Chordata,Ducorps's cockatoo,30.5
+1125,Chordata,Sulphur-crested cockatoo,57.0
+1126,Chordata,Tanimbar cockatoo,26.0
+1127,Chordata,Philippine cockatoo,17.3
+1128,Chordata,Pink cockatoo,83.0
+1129,Chordata,Salmon-crested cockatoo,65.8
+1130,Chordata,Blue-eyed cockatoo,31.9
+1131,Chordata,Western corella,26.3
+1132,Chordata,Little corella,46.9
+1133,Chordata,Yellow-crested cockatoo,49.7
+1134,Chordata,Long-billed corella,43.0
+1135,Chordata,Gang-gang cockatoo,27.5
+1136,Chordata,Banksian cockatoo,45.4
+1137,Chordata,Long-billed black cockatoo,47.0
+1138,Chordata,Yellow-tailed black cockatoo,41.0
+1139,Chordata,Black lory,17.5
+1140,Chordata,Yellow-streaked lory,19.7
+1141,Chordata,Papuan lorikeet,11.3
+1142,Chordata,Carolina parakeet,30.0
+1143,Chordata,Black parrot,34.1
+1144,Chordata,Vasa parrot,53.9
+1145,Chordata,Patagonian conure,19.5
+1146,Chordata,Spix's macaw,27.0
+1147,Chordata,Yellow-fronted parakeet,9.3
+1148,Chordata,Red-fronted parakeet,12.4
+1149,Chordata,Red-fan parrot,21.8
+1150,Chordata,Red-shouldered macaw,22.9
+1151,Chordata,Eclectus parrot,28.5
+1152,Chordata,Slender-billed parakeet,15.3
+1153,Chordata,Galah,40.0
+1154,Chordata,Red lory,24.7
+1155,Chordata,Black-winged lory,18.1
+1156,Chordata,Red-and-blue lory,15.2
+1157,Chordata,Blue-streaked lory,16.6
+1158,Chordata,Violet-necked lory,16.5
+1159,Chordata,Horned parakeet,19.7
+1160,Chordata,Pacific parrotlet,10.4
+1161,Chordata,Mexican parrotlet,10.5
+1162,Chordata,Green-rumped parrotlet,11.6
+1163,Chordata,Yellow-faced parrotlet,10.5
+1164,Chordata,Musk lorikeet,11.5
+1165,Chordata,Purple-crowned lorikeet,12.0
+1166,Chordata,Short-tailed parrot,13.2
+1167,Chordata,Golden conure,23.2
+1168,Chordata,Blue-crowned hanging parrot,14.3
+1169,Chordata,Colasisi,10.1
+1170,Chordata,Vernal hanging parrot,10.1
+1171,Chordata,Purple-naped lory,26.0
+1172,Chordata,Chattering lory,26.6
+1173,Chordata,Black-capped lory,18.5
+1174,Chordata,Budgerigar,21.0
+1175,Chordata,Monk parakeet,22.1
+1176,Chordata,Nanday parakeet,18.7
+1177,Chordata,Blue-winged parrot,21.0
+1178,Chordata,Turquoise parrot,21.0
+1179,Chordata,Scarlet-chested parrot,14.0
+1180,Chordata,Bourke's parrot,12.6
+1181,Chordata,Kea,47.0
+1182,Chordata,Bluebonnet,15.3
+1183,Chordata,Cockatiel,35.0
+1184,Chordata,White-bellied parrot,26.0
+1185,Chordata,Black-headed parrot,22.6
+1186,Chordata,Pileated parrot,16.8
+1187,Chordata,Scaly-headed parrot,16.2
+1188,Chordata,Blue-headed parrot,20.6
+1189,Chordata,Crimson rosella,26.8
+1190,Chordata,Eastern rosella,27.4
+1191,Chordata,Western rosella,13.2
+1192,Chordata,Northern rosella,19.1
+1193,Chordata,Brown-headed parrot,32.1
+1194,Chordata,Red-fronted parrot,21.0
+1195,Chordata,Brown parrot,34.2
+1196,Chordata,Brown-necked parrot,29.7
+1197,Chordata,Ruppel's parrot,34.3
+1198,Chordata,Red-bellied parrot,33.4
+1199,Chordata,Senegal parrot,40.0
+1200,Chordata,Alexandra's parrot,23.9
+1201,Chordata,Regent parrot,13.8
+1202,Chordata,Superb parrot,15.1
+1203,Chordata,Blue-winged macaw,31.0
+1204,Chordata,Palm cockatoo,56.3
+1205,Chordata,Masked shining parrot,11.8
+1206,Chordata,Crimson shining parrot,20.1
+1207,Chordata,Hooded parrot,18.0
+1208,Chordata,Red-rumped parrot,12.2
+1209,Chordata,Mulga parrot,11.8
+1210,Chordata,Dusky lory,13.4
+1211,Chordata,Grey-hooded parakeet,8.5
+1212,Chordata,Red-breasted parakeet,23.3
+1213,Chordata,Layard's parakeet,14.0
+1214,Chordata,Plum-headed parakeet,18.8
+1215,Chordata,Alexandrine parakeet,30.0
+1216,Chordata,Rose-ringed parakeet,34.0
+1217,Chordata,Large fig parrot,14.9
+1218,Chordata,Edward's fig parrot,12.0
+1219,Chordata,Salvadori's fig parrot,12.0
+1220,Chordata,Grey parrot,49.7
+1221,Chordata,Iris lorikeet,24.1
+1222,Chordata,Blue-rumped parrot,10.2
+1223,Chordata,Pesquet's parrot,25.0
+1224,Chordata,Red-capped parrot,15.3
+1225,Chordata,White-eared conure,18.5
+1226,Chordata,Crimson-bellied parakeet,14.3
+1227,Chordata,Thick-billed parrot,33.0
+1228,Chordata,Kakapo,60.0
+1229,Chordata,Great-billed parrot,23.0
+1230,Chordata,Blue-backed parrot,14.4
+1231,Chordata,Olive-headed lorikeet,16.0
+1232,Chordata,Rainbow lorikeet,16.1
+1233,Chordata,Mindanao lorikeet,17.8
+1234,Chordata,Ornate lorikeet,19.4
+1235,Chordata,Blue-bellied parrot,11.9
+1236,Chordata,Blue-crowned lorikeet,13.6
+1237,Chordata,Blue lorikeet,18.4
+1238,Chordata,King penguin,26.0
+1239,Chordata,Little penguin,25.6
+1240,Chordata,Jackass penguin,27.3
+1241,Chordata,Magellanic penguin,30.0
+1242,Chordata,Northern saw-whet owl,17.5
+1243,Chordata,Boreal owl,15.9
+1244,Chordata,Short-eared owl,21.8
+1245,Chordata,Long-eared owl,27.8
+1246,Chordata,Burrowing owl,11.0
+1247,Chordata,Little owl,11.1
+1248,Chordata,Eurasian eagle-owl,68.0
+1249,Chordata,Snowy owl,28.0
+1250,Chordata,Great horned owl,29.0
+1251,Chordata,Eurasian pygmy-owl,6.0
+1252,Chordata,Eastern screech-owl,20.7
+1253,Chordata,Western screech-owl,19.0
+1254,Chordata,Elf owl,14.0
+1255,Chordata,Flammulated owl,8.1
+1256,Chordata,Common or Eurasian scops-owl,6.8
+1257,Chordata,Spectacled owl,25.0
+1258,Chordata,Tawny owl,22.4
+1259,Chordata,Great grey owl,15.9
+1260,Chordata,Spotted owl,25.0
+1261,Chordata,Ural owl,23.8
+1262,Chordata,Barred owl,24.0
+1263,Chordata,Northern hawk-owl,16.2
+1264,Chordata,Barn owl,34.0
+1265,Chordata,Ostrich,50.0
+1266,Chordata,Anhinga,16.4
+1267,Chordata,Darter,16.0
+1268,Chordata,Christmas Island frigatebird,25.6
+1269,Chordata,Lesser frigatebird,27.6
+1270,Chordata,Magnificent frigatebird,34.0
+1271,Chordata,Great frigatebird,43.0
+1272,Chordata,European shag,30.6
+1273,Chordata,Double-crested cormorant,22.5
+1274,Chordata,Neotropic cormorant,12.6
+1275,Chordata,Great cormorant,27.2
+1276,Chordata,Pelagic cormorant,17.8
+1277,Chordata,Brandt's cormorant,18.0
+1278,Chordata,Northern gannet,37.4
+1279,Chordata,Australasian gannet,33.0
+1280,Chordata,Masked booby,25.5
+1281,Chordata,Nazca booby,21.0
+1282,Chordata,Brown booby,27.2
+1283,Chordata,Blue-footed booby,18.0
+1284,Chordata,Red-footed booby,23.0
+1285,Chordata,Solitary tinamou,15.0
+1286,Chordata,Volga lamprey,4.0
+1287,Chordata,Pacific lamprey,9.0
+1288,Chordata,Carpathian lamprey,8.0
+1289,Chordata,Ukrainian brook lamprey,8.0
+1290,Chordata,Chestnut lamprey,8.0
+1291,Chordata,Mountain brook lamprey,6.0
+1292,Chordata,Silver lamprey,8.0
+1293,Chordata,Least brook lamprey,8.0
+1294,Chordata,European river lamprey,10.0
+1295,Chordata,European brook lamprey,7.0
+1296,Chordata,American brook lamprey,5.0
+1297,Chordata,Arctic lamprey,7.0
+1298,Chordata,Siberian brook lamprey,7.0
+1299,Chordata,Far eastern brook lamprey,4.0
+1300,Chordata,Po brook lamprey,6.0
+1301,Chordata,Sea lamprey,9.0
+1302,Chordata,Blacknose shark,19.0
+1303,Chordata,Grey reef shark,25.0
+1304,Chordata,Copper shark,34.5
+1305,Chordata,Spinner shark,19.0
+1306,Chordata,Nervous shark,16.4
+1307,Chordata,Silky shark,23.0
+1308,Chordata,Galapagos shark,24.0
+1309,Chordata,Finetooth shark,8.0
+1310,Chordata,Bull shark,32.0
+1311,Chordata,Blacktip shark,12.0
+1312,Chordata,Oceanic whitetip shark,22.0
+1313,Chordata,Dusky shark,35.0
+1314,Chordata,Sandbar shark,32.0
+1315,Chordata,Smalltail shark,24.0
+1316,Chordata,Night shark,31.7
+1317,Chordata,Spot-tail shark,8.0
+1318,Chordata,Australian blacktip shark,12.0
+1319,Chordata,Tiger shark,50.0
+1320,Chordata,Lemon shark,20.0
+1321,Chordata,Blue shark,20.0
+1322,Chordata,Milk shark,8.0
+1323,Chordata,Australian sharpnose shark,7.0
+1324,Chordata,Atlantic sharpnose shark,10.2
+1325,Chordata,Spadenose shark,6.0
+1326,Chordata,Whitetip reef shark,25.0
+1327,Chordata,Small-spotted catshark,12.0
+1328,Chordata,Nursehound,19.0
+1329,Chordata,Scalloped hammerhead,35.0
+1330,Chordata,Bonnethead shark,6.5
+1331,Chordata,Whiskery skark,11.5
+1332,Chordata,Tope shark,55.0
+1333,Chordata,Japanese topeshark,15.0
+1334,Chordata,Gummy shark,16.0
+1335,Chordata,Gray smoothhound,9.0
+1336,Chordata,Dusky smooth-hound,16.0
+1337,Chordata,Spotless smooth-hound,9.0
+1338,Chordata,Brown smoothhound,13.0
+1339,Chordata,Spotted estuary smooth-hound,19.5
+1340,Chordata,Starspotted smooth-hound,10.0
+1341,Chordata,Smooth-hound,24.0
+1342,Chordata,Leopard shark,30.0
+1343,Chordata,Cape elephantfish,12.0
+1344,Chordata,Elephant fish,6.0
+1345,Chordata,Rabbitfish,29.4
+1346,Chordata,Horn shark,12.0
+1347,Chordata,Crested bullhead shark,12.0
+1348,Chordata,Bluntnose sevengill shark,49.0
+1349,Chordata,Pelagic thresher shark,29.0
+1350,Chordata,Bigeye thresher,21.0
+1351,Chordata,Basking shark,32.0
+1352,Chordata,Great white shark,50.0
+1353,Chordata,Shortfin mako,25.0
+1354,Chordata,Salmon shark,20.0
+1355,Chordata,Porbeagle,30.0
+1356,Chordata,Sand tiger shark,12.0
+1357,Chordata,Southern stingray,18.0
+1358,Chordata,Blue stingray,10.0
+1359,Chordata,Diamond stingray,28.0
+1360,Chordata,Common stingray,21.0
+1361,Chordata,Pelagic stingray,24.0
+1362,Chordata,Giant manta,20.0
+1363,Chordata,Longheaded eagle ray,16.0
+1364,Chordata,Bat ray,24.0
+1365,Chordata,Cownose ray,15.5
+1366,Chordata,Western shovelnose stingaree,16.0
+1367,Chordata,Masked stingaree,14.0
+1368,Chordata,Lobed stingaree,14.0
+1369,Chordata,Sparsely-spotted stingaree,12.0
+1370,Chordata,Nurse shark,25.0
+1371,Chordata,Whitespotted bambooshark,25.0
+1372,Chordata,Whale shark,54.0
+1373,Chordata,Largetooth sawfish,30.0
+1374,Chordata,White-dotted skate,17.0
+1375,Chordata,Alaska skate,17.0
+1376,Chordata,Roughtail skate,17.0
+1377,Chordata,Thorny skate,16.0
+1378,Chordata,Common skate,50.0
+1379,Chordata,Beaked skate,22.5
+1380,Chordata,New Zealand smooth skate,24.0
+1381,Chordata,New Zealand rough skate,9.0
+1382,Chordata,Slime skate,18.0
+1383,Chordata,Roughskin skate,26.0
+1384,Chordata,Little skate,8.0
+1385,Chordata,Sandy ray,14.0
+1386,Chordata,Winter skate,21.0
+1387,Chordata,Smooth skate,14.0
+1388,Chordata,Starry skate,6.3
+1389,Chordata,Big skate,26.0
+1390,Chordata,Blonde ray,8.0
+1391,Chordata,Thornback ray,12.0
+1392,Chordata,Painted ray,9.0
+1393,Chordata,Brown ray,8.2
+1394,Chordata,Longnose skate,26.0
+1395,Chordata,Roundel skate,9.0
+1396,Chordata,Undulate ray,13.0
+1397,Chordata,Brazilian guitarfish,28.0
+1398,Chordata,Shovelnose guitarfish,16.0
+1399,Chordata,Needle dogfish,20.0
+1400,Chordata,Gulper shark,25.0
+1401,Chordata,Leafscale gulper shark,70.0
+1402,Chordata,Birdbeak dogfish,35.0
+1403,Chordata,Kitefin shark,18.4
+1404,Chordata,Giant lanternshark,57.0
+1405,Chordata,Velvet belly,7.0
+1406,Chordata,Longnose velvet dogfish,57.0
+1407,Chordata,Greenland shark,392.0
+1408,Chordata,Spur dogfish,75.0
+1409,Chordata,Longnose spurdog,15.0
+1410,Chordata,Shortnose spurdog,75.0
+1411,Chordata,Shortspine dogfish,27.0
+1412,Chordata,Argentine angelfish,12.0
+1413,Chordata,Pacific angel shark,35.0
+1414,Chordata,Hidden angel shark,21.0
+1415,Chordata,Pacific electric ray,16.0
+1416,Chordata,Marbled electric ray,20.0
+1417,Chordata,Eyed electric ray,10.0
+1418,Chordata,Shortnose sturgeon,67.0
+1419,Chordata,Yangtze sturgeon,100.0
+1420,Chordata,Lake sturgeon,152.0
+1421,Chordata,Russian sturgeon,46.0
+1422,Chordata,Atlantic sturgeon,60.0
+1423,Chordata,Sterlet,46.1
+1424,Chordata,Amur sturgeon,60.0
+1425,Chordata,Star sturgeon,27.0
+1426,Chordata,European sturgeon,100.0
+1427,Chordata,White sturgeon,104.0
+1428,Chordata,Kaluga,55.0
+1429,Chordata,Beluga sturgeon,118.0
+1430,Chordata,Little shovelnose sturgeon,6.0
+1431,Chordata,Mississippi paddlefish,55.0
+1432,Chordata,Gray bichir,34.0
+1433,Chordata,Coelacanth,48.0
+1434,Chordata,Australian lungfish,80.0
+1435,Chordata,South American lungfish,8.3
+1436,Chordata,African lungfish,18.0
+1437,Chordata,Bowfin,30.0
+1438,Chordata,Spotted gar,18.0
+1439,Chordata,Longnose gar,36.0
+1440,Chordata,Shortnose gar,20.0
+1441,Chordata,Lesser hedgehog tenrec,19.0
+1442,Chordata,Streaked tenrec,2.7
+1443,Chordata,Dobson's shrew tenrec,5.6
+1444,Chordata,Talazac's shrew tenrec,5.8
+1445,Chordata,Greater hedgehog tenrec,14.1
+1446,Chordata,Tenrec,8.7
+1447,Chordata,Pronghorn,15.5
+1448,Chordata,Addax,28.0
+1449,Chordata,Impala,25.6
+1450,Chordata,Hartebeest,22.5
+1451,Chordata,Aoudad,21.7
+1452,Chordata,Springbok,19.8
+1453,Chordata,Blackbuck,23.9
+1454,Chordata,American bison,33.5
+1455,Chordata,European bison,26.4
+1456,Chordata,Gaur,26.2
+1457,Chordata,Yak,26.3
+1458,Chordata,Banteng,27.1
+1459,Chordata,Domestic cattle,20.0
+1460,Chordata,Nilgai,21.7
+1461,Chordata,Water buffalo,34.9
+1462,Chordata,Anoa,36.1
+1463,Chordata,Mountain anoa,29.2
+1464,Chordata,Takin,21.9
+1465,Chordata,West Caucasian tur,19.3
+1466,Chordata,East Caucasian tur,20.2
+1467,Chordata,Markhor,19.1
+1468,Chordata,Domestic goat,20.8
+1469,Chordata,Ibex,20.9
+1470,Chordata,Nubian ibex,22.4
+1471,Chordata,Siberian ibex,22.3
+1472,Chordata,Japanese serow,24.0
+1473,Chordata,Serow,18.5
+1474,Chordata,Bay duiker,17.5
+1475,Chordata,Jentink's duiker,21.0
+1476,Chordata,Natal duiker,15.2
+1477,Chordata,Black duiker,14.8
+1478,Chordata,Black-fronted duiker,17.9
+1479,Chordata,Red-flanked duiker,15.2
+1480,Chordata,Yellow-backed duiker,22.5
+1481,Chordata,Weyns's duiker,15.2
+1482,Chordata,Black wildebeest,21.8
+1483,Chordata,Blue wildebeest,24.3
+1484,Chordata,Topi,23.6
+1485,Chordata,Sassaby or blesbok,23.0
+1486,Chordata,Red-fronted gazelle,14.5
+1487,Chordata,Thomson's gazelle,20.0
+1488,Chordata,Cuvier's gazelle,17.9
+1489,Chordata,Dorcas gazelle,23.7
+1490,Chordata,Mountain gazelle,18.3
+1491,Chordata,Rhim gazelle,14.6
+1492,Chordata,Goitered gazelle,16.3
+1493,Chordata,Nilgiri tahr,17.3
+1494,Chordata,Himalayan tahr,21.8
+1495,Chordata,Roan antelope,25.9
+1496,Chordata,Sable antelope,22.2
+1497,Chordata,Waterbuck,30.0
+1498,Chordata,Kob,21.9
+1499,Chordata,Lechwe,25.4
+1500,Chordata,Nile lechwe,21.1
+1501,Chordata,Gerenuk,17.3
+1502,Chordata,Gunther's dik-dik,17.5
+1503,Chordata,Kirk's dik-dik,17.3
+1504,Chordata,Red goral,19.0
+1505,Chordata,Chinese goral,20.3
+1506,Chordata,Goral,17.6
+1507,Chordata,Dama gazelle,19.3
+1508,Chordata,Grant's gazelle,19.7
+1509,Chordata,Soemmering's gazelle,15.5
+1510,Chordata,Suni,13.5
+1511,Chordata,Royal antelope,11.1
+1512,Chordata,Mountain goat,20.8
+1513,Chordata,Klipspringer,25.9
+1514,Chordata,Scimitar-horned oryx,27.5
+1515,Chordata,Gemsbok,23.8
+1516,Chordata,Arabian oryx,20.8
+1517,Chordata,Oribi,15.9
+1518,Chordata,Muskox,27.4
+1519,Chordata,Argali,16.8
+1520,Chordata,Domestic sheep or mouflon,22.8
+1521,Chordata,Bighorn sheep,20.6
+1522,Chordata,Dall's sheep,19.6
+1523,Chordata,Maxwell's duiker,18.3
+1524,Chordata,Blue duiker,15.9
+1525,Chordata,Mongolian gazelle,12.0
+1526,Chordata,Bharal,20.9
+1527,Chordata,Steenbok,9.3
+1528,Chordata,Southern reedbuck,16.8
+1529,Chordata,Mountain reedbuck,15.0
+1530,Chordata,Chamois,17.6
+1531,Chordata,Bush duiker,15.4
+1532,Chordata,African buffalo,32.8
+1533,Chordata,Giant eland,20.3
+1534,Chordata,Eland,26.1
+1535,Chordata,Four-horned antelope,17.4
+1536,Chordata,Nyala,18.5
+1537,Chordata,Bongo,21.9
+1538,Chordata,Lesser kudu,19.8
+1539,Chordata,Bushbuck,15.3
+1540,Chordata,Sitatunga,22.6
+1541,Chordata,Greater kudu,23.5
+1542,Chordata,Bactrian camel,35.4
+1543,Chordata,Dromedary,28.4
+1544,Chordata,Llama,28.9
+1545,Chordata,Guanaco,33.7
+1546,Chordata,Alpaca,25.8
+1547,Chordata,Vicugna,31.6
+1548,Chordata,Chital,20.8
+1549,Chordata,Calamian deer,17.2
+1550,Chordata,Bawean deer,17.8
+1551,Chordata,Hog deer,22.9
+1552,Chordata,Western roe deer,17.5
+1553,Chordata,Red deer,31.5
+1554,Chordata,Sika deer,26.3
+1555,Chordata,Fallow deer,21.1
+1556,Chordata,Tufted deer,22.7
+1557,Chordata,Pere David's deer,27.5
+1558,Chordata,Chinese water deer,13.9
+1559,Chordata,Red brocket,17.1
+1560,Chordata,Gray brocket,14.8
+1561,Chordata,Indian muntjac,18.8
+1562,Chordata,Reeves's muntjac,23.2
+1563,Chordata,Mule deer,22.0
+1564,Chordata,White-tailed deer,23.0
+1565,Chordata,Pampas deer,21.9
+1566,Chordata,Thorold's deer,21.3
+1567,Chordata,Southern pudu,18.3
+1568,Chordata,Caribou and reindeer,21.8
+1569,Chordata,Barasingha,24.5
+1570,Chordata,Eld's deer,20.5
+1571,Chordata,Visayan spotted deer,18.5
+1572,Chordata,Timor deer,21.1
+1573,Chordata,Sambar,26.4
+1574,Chordata,Giraffe,39.5
+1575,Chordata,Okapi,33.5
+1576,Chordata,Pygmy hippopotamus,42.3
+1577,Chordata,Hippopotamus,61.2
+1578,Chordata,Babirusa,22.9
+1579,Chordata,Wart hog,20.9
+1580,Chordata,Red river hog,22.0
+1581,Chordata,Bearded pig,16.2
+1582,Chordata,Pygmy hog,14.0
+1583,Chordata,Wild boar,27.0
+1584,Chordata,Javan pig,17.0
+1585,Chordata,Collared peccary,31.5
+1586,Chordata,White-lipped peccary,28.5
+1587,Chordata,Indian spotted chevrotain,14.5
+1588,Chordata,Lesser mouse-deer,14.0
+1589,Chordata,Greater mouse-deer,16.7
+1590,Chordata,Red panda,19.0
+1591,Chordata,Short-eared dog,11.9
+1592,Chordata,Side-striped jackal,13.7
+1593,Chordata,Golden jackal,18.8
+1594,Chordata,Domestic dog,24.0
+1595,Chordata,Coyote,21.8
+1596,Chordata,Gray wolf,20.6
+1597,Chordata,Black-backed jackal,16.7
+1598,Chordata,Crab-eating fox,12.7
+1599,Chordata,Maned wolf,16.8
+1600,Chordata,Dhole,16.1
+1601,Chordata,Culpeo,13.1
+1602,Chordata,Argentinian gray fox,10.9
+1603,Chordata,Pampas fox,13.7
+1604,Chordata,Sechuran fox,9.9
+1605,Chordata,Hoary fox,12.6
+1606,Chordata,African wild dog,17.0
+1607,Chordata,Raccoon dog,16.6
+1608,Chordata,Bat-eared fox,17.0
+1609,Chordata,Bush dog,14.1
+1610,Chordata,Gray fox,16.2
+1611,Chordata,Corsac fox,13.0
+1612,Chordata,Arctic fox,16.3
+1613,Chordata,Kit fox,15.8
+1614,Chordata,Pale fox,16.0
+1615,Chordata,Ruppell's sand fox,14.3
+1616,Chordata,Swift fox,15.9
+1617,Chordata,Red fox,21.3
+1618,Chordata,Fennec,16.3
+1619,Chordata,Fossa,23.1
+1620,Chordata,Malagasy civet,21.4
+1621,Chordata,Ring-tailed mongoose,26.0
+1622,Chordata,Cheetah,20.5
+1623,Chordata,Caracal,20.3
+1624,Chordata,Asiatic golden cat,23.0
+1625,Chordata,Domestic cat,30.0
+1626,Chordata,Jungle cat,20.0
+1627,Chordata,Pallas' cat,15.9
+1628,Chordata,Sand cat,13.9
+1629,Chordata,Black-footed cat,15.6
+1630,Chordata,Wild cat,19.0
+1631,Chordata,Colocolo,19.6
+1632,Chordata,Geoffroy's cat,23.0
+1633,Chordata,Ocelot,28.2
+1634,Chordata,Little spotted cat,21.9
+1635,Chordata,Margay,24.0
+1636,Chordata,Serval,22.4
+1637,Chordata,Canada lynx,26.8
+1638,Chordata,Eurasian lynx,23.7
+1639,Chordata,Bobcat,32.3
+1640,Chordata,Clouded leopard,19.8
+1641,Chordata,Lion,27.0
+1642,Chordata,Jaguar,28.0
+1643,Chordata,Leopard,27.3
+1644,Chordata,Tiger,26.3
+1645,Chordata,Leopard cat,17.0
+1646,Chordata,Flat-headed cat,14.0
+1647,Chordata,Rusty-spotted cat,17.9
+1648,Chordata,Fishing cat,17.2
+1649,Chordata,African golden cat,21.0
+1650,Chordata,Cougar,23.8
+1651,Chordata,Jaguarundi,18.6
+1652,Chordata,Snow leopard,21.2
+1653,Chordata,Marsh mongoose,20.8
+1654,Chordata,Black-footed mongoose,15.8
+1655,Chordata,Long-nosed cusimanse,13.3
+1656,Chordata,Yellow mongoose,15.2
+1657,Chordata,Cape gray mongoose,11.7
+1658,Chordata,Slender mongoose,12.6
+1659,Chordata,Dwarf mongoose,18.0
+1660,Chordata,Indian gray mongoose,12.3
+1661,Chordata,Javan mongoose,16.6
+1662,Chordata,Ruddy mongoose,17.8
+1663,Chordata,Crab-eating mongoose,13.3
+1664,Chordata,Striped-necked mongoose,12.8
+1665,Chordata,White-tailed mongoose,14.8
+1666,Chordata,Banded mongoose,17.4
+1667,Chordata,Meerkat,20.6
+1668,Chordata,Spotted hyena,41.1
+1669,Chordata,Brown hyena,31.9
+1670,Chordata,Striped hyena,25.0
+1671,Chordata,Aardwolf,20.0
+1672,Chordata,Molina's hog-nosed skunk,10.0
+1673,Chordata,Hog-nosed skunk,10.2
+1674,Chordata,Striped skunk,13.9
+1675,Chordata,Eastern spotted skunk,10.5
+1676,Chordata,African clawless otter,14.2
+1677,Chordata,Oriental small-clawed otter,23.0
+1678,Chordata,Hog badger,15.8
+1679,Chordata,Tayra,22.3
+1680,Chordata,Sea otter,27.0
+1681,Chordata,Lesser grison,10.2
+1682,Chordata,Greater grison,12.5
+1683,Chordata,Wolverine,19.5
+1684,Chordata,Spotted-necked otter,22.9
+1685,Chordata,Striped polecat,14.0
+1686,Chordata,Northern river otter,27.0
+1687,Chordata,European otter,18.2
+1688,Chordata,American marten,17.8
+1689,Chordata,Yellow-throated marten,16.0
+1690,Chordata,Beech marten,18.2
+1691,Chordata,European pine marten,18.2
+1692,Chordata,Fisher,14.3
+1693,Chordata,Sable,18.4
+1694,Chordata,Old World badger,18.6
+1695,Chordata,Honey badger,31.3
+1696,Chordata,Chinese ferret-badger,19.0
+1697,Chordata,Ermine,12.5
+1698,Chordata,Steppe polecat,9.1
+1699,Chordata,Long-tailed weasel,8.8
+1700,Chordata,European mink,8.4
+1701,Chordata,Black-footed ferret,9.4
+1702,Chordata,Least weasel,9.1
+1703,Chordata,European polecat,11.1
+1704,Chordata,Siberian weasel,8.8
+1705,Chordata,American mink,11.4
+1706,Chordata,Giant otter,17.3
+1707,Chordata,American badger,25.0
+1708,Chordata,Marbled polecat,8.8
+1709,Chordata,African palm civet,21.0
+1710,Chordata,South American fur seal,30.6
+1711,Chordata,South African fur seal,32.1
+1712,Chordata,Steller sea lion,32.8
+1713,Chordata,Australian sea lion,24.1
+1714,Chordata,Southern sea lion,29.0
+1715,Chordata,California sea lion,35.7
+1716,Chordata,Gray seal,42.9
+1717,Chordata,Harbor seal,47.6
+1718,Chordata,Ringed seal,46.0
+1719,Chordata,Baikal seal,56.0
+1720,Chordata,Allen's olingo,25.2
+1721,Chordata,Olingo,21.8
+1722,Chordata,Ringtail,19.0
+1723,Chordata,Cacomistle,24.0
+1724,Chordata,White-nosed coati,26.4
+1725,Chordata,South american coati,23.7
+1726,Chordata,Kinkajou,38.4
+1727,Chordata,Crab-eating raccoon,19.0
+1728,Chordata,Common raccoon,21.0
+1729,Chordata,Giant panda,36.8
+1730,Chordata,Sun bear,35.9
+1731,Chordata,Sloth bear,33.3
+1732,Chordata,Spectacled bear,39.0
+1733,Chordata,American black bear,34.0
+1734,Chordata,Brown bear,40.0
+1735,Chordata,Polar bear,43.8
+1736,Chordata,Asiatic black bear,39.2
+1737,Chordata,Binturong,27.0
+1738,Chordata,Small-toothed palm civet,16.1
+1739,Chordata,African civet,28.0
+1740,Chordata,Small-spotted genet,22.7
+1741,Chordata,Panther genet,20.0
+1742,Chordata,Large-spotted genet,21.3
+1743,Chordata,Banded palm civet,16.0
+1744,Chordata,Masked palm civet,27.4
+1745,Chordata,Asian palm civet,24.5
+1746,Chordata,Malabar civet,15.4
+1747,Chordata,Malayan civet,15.0
+1748,Chordata,Large indian civet,21.7
+1749,Chordata,Bowhead whale,211.0
+1750,Chordata,Southern right whale,70.0
+1751,Chordata,North atlantic right whale,67.0
+1752,Chordata,Common minke whale,50.0
+1753,Chordata,Sei whale,74.0
+1754,Chordata,Bryde's whale,72.0
+1755,Chordata,Blue whale,110.0
+1756,Chordata,Fin whale,114.0
+1757,Chordata,Humpback whale,95.0
+1758,Chordata,Short-finned pilot whale,63.0
+1759,Chordata,Long-finned pilot whale,60.0
+1760,Chordata,Risso's dolphin,42.5
+1761,Chordata,Atlantic white-sided dolphin,27.0
+1762,Chordata,Pacific white-sided dolphin,46.0
+1763,Chordata,Irrawaddy dolphin,30.0
+1764,Chordata,Killer whale,90.0
+1765,Chordata,Melon-headed whale,47.0
+1766,Chordata,False killer whale,62.5
+1767,Chordata,Pantropical spotted dolphin,46.0
+1768,Chordata,Striped dolphin,57.5
+1769,Chordata,Rough-toothed dolphin,32.0
+1770,Chordata,Bottlenosed dolphin,51.6
+1771,Chordata,Gray whale,77.0
+1772,Chordata,Baird's beaked whale,84.0
+1773,Chordata,Northern bottlenose whale,37.0
+1774,Chordata,Gervais's beaked whale,48.0
+1775,Chordata,Cuvier's beaked whale,62.0
+1776,Chordata,Amazon dolphin,31.3
+1777,Chordata,Yangzte river dolphin or baiji,24.0
+1778,Chordata,Pygmy sperm whale,17.0
+1779,Chordata,Beluga,40.0
+1780,Chordata,Narwhal,50.0
+1781,Chordata,Finless porpoise,33.0
+1782,Chordata,Harbor porpoise,20.4
+1783,Chordata,Dall's porpoise,22.0
+1784,Chordata,Sperm whale,77.0
+1785,Chordata,Greater sac-winged bat,6.0
+1786,Chordata,Fulvus roundleaf bat,13.0
+1787,Chordata,Australian false vampire bat,22.6
+1788,Chordata,Greater false vampire bat,14.0
+1789,Chordata,Schreibers's long-fingered bat,22.0
+1790,Chordata,Pallas's mastiff bat,5.6
+1791,Chordata,Brazilian free-tailed bat,12.0
+1792,Chordata,European free-tailed bat,13.0
+1793,Chordata,New Zealand lesser short-tailed bat,7.6
+1794,Chordata,Greater bulldog bat,11.8
+1795,Chordata,Geoffroy's tailless bat,10.0
+1796,Chordata,Jamaican fruit-eating bat,19.2
+1797,Chordata,Seba's short-tailed bat,17.0
+1798,Chordata,Vampire bat,29.2
+1799,Chordata,Hairy-legged vampire bat,8.0
+1800,Chordata,Pallas's long-tongued bat,11.0
+1801,Chordata,Southern long-nosed bat,10.1
+1802,Chordata,California leaf-nosed bat,17.0
+1803,Chordata,Waterhouse's leaf-nosed bat,10.4
+1804,Chordata,Pale spear-nosed bat,9.0
+1805,Chordata,Greater spear-nosed bat,18.0
+1806,Chordata,White-lined broad-nosed bat,13.0
+1807,Chordata,Little yellow-shouldered bat,12.0
+1808,Chordata,Lesser short-nosed fruit bat,10.1
+1809,Chordata,Greater short-nosed fruit bat,10.0
+1810,Chordata,Moluccan naked-backed fruit bat,12.3
+1811,Chordata,Straw-colored fruit bat,21.8
+1812,Chordata,Gambian epauletted fruit bat,7.8
+1813,Chordata,Wahlberg's epauletted fruit bat,10.1
+1814,Chordata,Philippine pygmy fruit bat,10.0
+1815,Chordata,Black flying fox,19.7
+1816,Chordata,Ryukyu flying fox,24.0
+1817,Chordata,Indian flying fox,40.0
+1818,Chordata,Variable flying fox,20.3
+1819,Chordata,Comoro black flying fox,15.0
+1820,Chordata,Lyle's flying fox,20.4
+1821,Chordata,Greater mascarene flying fox,19.4
+1822,Chordata,Gray-headed flying fox,23.6
+1823,Chordata,Bonin flying fox,16.7
+1824,Chordata,Little golden-mantled flying fox,17.2
+1825,Chordata,Rodriguez flying fox,28.0
+1826,Chordata,Little red flying fox,15.8
+1827,Chordata,Large flying fox,20.9
+1828,Chordata,Egyptian rousette,22.9
+1829,Chordata,Long-haired rousette,18.7
+1830,Chordata,Leschenault's rousette,14.0
+1831,Chordata,Mediterranean horseshoe bat,13.0
+1832,Chordata,Greater horseshoe bat,30.5
+1833,Chordata,Lesser horseshoe bat,29.4
+1834,Chordata,Pallid bat,14.8
+1835,Chordata,Western barbastelle,23.0
+1836,Chordata,Townsend's big-eared bat,20.5
+1837,Chordata,Big brown bat,19.0
+1838,Chordata,Northern bat,20.0
+1839,Chordata,Serotine,21.0
+1840,Chordata,Silver-haired bat,12.0
+1841,Chordata,Hoary bat,14.0
+1842,Chordata,Bechstein's bat,21.0
+1843,Chordata,Lesser mouse-eared bat,33.0
+1844,Chordata,Brandt's bat,41.0
+1845,Chordata,Pond bat,20.5
+1846,Chordata,Daubenton's bat,28.0
+1847,Chordata,Geoffroy's bat,22.7
+1848,Chordata,Western long-eared myotis,22.0
+1849,Chordata,Gray myotis,16.5
+1850,Chordata,Keen's myotis,19.0
+1851,Chordata,Eastern small-footed myotis,12.0
+1852,Chordata,Little brown bat,34.0
+1853,Chordata,Mouse-eared bat,37.1
+1854,Chordata,Whiskered bat,24.0
+1855,Chordata,Natterer's bat,23.7
+1856,Chordata,Black myotis,7.0
+1857,Chordata,Indiana bat,20.0
+1858,Chordata,Fringed myotis,18.3
+1859,Chordata,Cave myotis,11.3
+1860,Chordata,Fish-eating bat,10.0
+1861,Chordata,Long-legged myotis,21.0
+1862,Chordata,Yuma myotis,14.0
+1863,Chordata,Lesser noctule,16.0
+1864,Chordata,Noctule,12.0
+1865,Chordata,Evening bat,6.0
+1866,Chordata,Eastern pipistrelle,14.8
+1867,Chordata,Kuhl's pipistrelle,8.0
+1868,Chordata,Nathusius's pipistrelle,11.0
+1869,Chordata,Common pipistrelle,16.6
+1870,Chordata,Brown big-eared bat,30.0
+1871,Chordata,Gray big-eared bat,25.5
+1872,Chordata,Western broad-nosed bat,9.7
+1873,Chordata,Particolored bat,14.5
+1874,Chordata,Screaming hairy armadillo,16.2
+1875,Chordata,Large hairy armadillo,25.2
+1876,Chordata,Nine-banded armadillo,22.3
+1877,Chordata,Seven-banded armadillo,16.8
+1878,Chordata,Six-banded armadillo,22.1
+1879,Chordata,Giant armadillo,15.0
+1880,Chordata,Southern three-banded armadillo,36.8
+1881,Chordata,Pichi,12.5
+1882,Chordata,Kultarr,3.5
+1883,Chordata,Agile antechinus,4.7
+1884,Chordata,Fawn antechinus,3.4
+1885,Chordata,Yellow-footed antechinus,3.9
+1886,Chordata,Brown antechinus,5.4
+1887,Chordata,Dusky antechinus,3.3
+1888,Chordata,Mulgara,7.4
+1889,Chordata,Kowari,8.0
+1890,Chordata,Western quoll,6.2
+1891,Chordata,Northern quoll,5.9
+1892,Chordata,Australian tiger cat,6.8
+1893,Chordata,Eastern quoll,6.8
+1894,Chordata,Southern dibbler,5.5
+1895,Chordata,Red-tailed phascogale,4.7
+1896,Chordata,Brush-tailed phascogale,5.9
+1897,Chordata,Pygmy planigale,5.8
+1898,Chordata,Narrow-nosed planigale,5.2
+1899,Chordata,Fat-tailed marsupial mouse,7.0
+1900,Chordata,Tasmanian devil,13.0
+1901,Chordata,Fat-tailed dunnart,5.0
+1902,Chordata,Gray-bellied dunnart,3.6
+1903,Chordata,Stripe-faced dunnart,4.9
+1904,Chordata,Red-cheeked dunnart,5.3
+1905,Chordata,Lesser hairy-footed dunnart,5.3
+1906,Chordata,Numbat,11.0
+1907,Chordata,Central American woolly opossum,8.7
+1908,Chordata,Bare-tailed woolly opossum,8.9
+1909,Chordata,Water opossum (yapok),3.1
+1910,Chordata,Big-eared opossum,4.0
+1911,Chordata,Southern opossum,4.2
+1912,Chordata,Virginia opossum,6.6
+1913,Chordata,Paraguayan slender mouse opossum,6.1
+1914,Chordata,Lutrine opossum,2.9
+1915,Chordata,Murine mouse opossum,3.6
+1916,Chordata,Robinson's mouse opossum,5.0
+1917,Chordata,Rio Napo mouse opossum,4.5
+1918,Chordata,Brown four-eyed opossum,3.0
+1919,Chordata,Sepia short-tailed opossum,4.1
+1920,Chordata,Short bare-tailed opossum,3.9
+1921,Chordata,Gray short-tailed opossum,5.1
+1922,Chordata,Gray four-eyed opossum,4.4
+1923,Chordata,Pygmy gliding possum,8.8
+1924,Chordata,Mountain pygmy possum,12.0
+1925,Chordata,Eastern pygmy possum,10.3
+1926,Chordata,Doria's tree kangaroo,19.0
+1927,Chordata,Goodfellow's tree kangaroo,23.6
+1928,Chordata,Grizzled tree kangaroo,23.8
+1929,Chordata,Matschie's tree kangaroo,26.9
+1930,Chordata,Black tree kangaroo,20.0
+1931,Chordata,Gray dorcopsis,13.9
+1932,Chordata,Brown dorcopsis,12.4
+1933,Chordata,Papuan mountain wallaby,7.9
+1934,Chordata,Spectacled hare-wallaby,8.8
+1935,Chordata,Rufous hare-wallaby,13.2
+1936,Chordata,Agile wallaby,16.9
+1937,Chordata,Antilopine wallaroo,19.8
+1938,Chordata,Black wallaroo,11.8
+1939,Chordata,Tammar wallaby,15.1
+1940,Chordata,Western gray kangaroo,23.2
+1941,Chordata,Eastern gray kangaroo,25.0
+1942,Chordata,Parma wallaby,15.9
+1943,Chordata,Wallaroo,22.0
+1944,Chordata,Red-necked wallaby,15.2
+1945,Chordata,Red kangaroo,25.0
+1946,Chordata,Ridled nail-tailed wallaby,7.4
+1947,Chordata,Northern nail-tailed wallaby,5.5
+1948,Chordata,Western rock wallaby,10.1
+1949,Chordata,Nabarlek,11.7
+1950,Chordata,Brush-tailed rock wallaby,14.3
+1951,Chordata,Ringtailed rock wallaby,14.4
+1952,Chordata,Quokka,13.8
+1953,Chordata,Tasmanian pademelon,8.8
+1954,Chordata,Dusky pademelon,9.4
+1955,Chordata,Red-legged pademelon,9.7
+1956,Chordata,Red-necked pademelon,9.0
+1957,Chordata,Swamp wallaby,16.8
+1958,Chordata,Striped possum,9.6
+1959,Chordata,Leadbeater's possum,14.1
+1960,Chordata,Yellow-bellied glider,15.0
+1961,Chordata,Sugar glider,17.8
+1962,Chordata,Squirrel glider,14.8
+1963,Chordata,Ground cuscus,18.9
+1964,Chordata,Spotted cuscus,17.0
+1965,Chordata,Brush-tailed possum,15.9
+1966,Chordata,Koala,22.1
+1967,Chordata,Rufous 'rat'-kangaroo,12.8
+1968,Chordata,Woylie,18.8
+1969,Chordata,Long-footed potoroo,15.3
+1970,Chordata,Long-nosed potoroo,14.5
+1971,Chordata,Lemuroid ringtail possum,5.4
+1972,Chordata,Ring-tailed possum,10.1
+1973,Chordata,Northern hairy-nosed wombat,30.0
+1974,Chordata,Southern hairy-nosed wombat,29.9
+1975,Chordata,Coarse-haired wombat,30.0
+1976,Chordata,Four-toed hedgehog,11.4
+1977,Chordata,Amur hedgehog,8.0
+1978,Chordata,Eastern European hedgehog,7.0
+1979,Chordata,Western European hedgehog,11.7
+1980,Chordata,Long-eared hedgehog,7.6
+1981,Chordata,Desert hedgehog,6.3
+1982,Chordata,Brandt's hedgehog,7.0
+1983,Chordata,Tree hyrax,13.6
+1984,Chordata,Rock hyrax,14.8
+1985,Chordata,Japanese hare,13.0
+1986,Chordata,Black-tailed jackrabbit,11.8
+1987,Chordata,European hare,10.7
+1988,Chordata,Mountain hare,18.0
+1989,Chordata,European rabbit,9.0
+1990,Chordata,Audubon's cottontail rabbit,7.8
+1991,Chordata,Eastern cottontail,9.8
+1992,Chordata,Mountain cottontail,7.4
+1993,Chordata,Marsh rabbit,7.6
+1994,Chordata,New England cottontail,9.3
+1995,Chordata,Northern pika,9.4
+1996,Chordata,American pika,7.0
+1997,Chordata,Long-eared elephant shrew,9.3
+1998,Chordata,North African elephant shrew,7.2
+1999,Chordata,Rufous elephant shrew,7.9
+2000,Chordata,Short-eared elephant shrew,8.7
+2001,Chordata,Golden-rumped elephant shrew,11.0
+2002,Chordata,Duck-billed platypus,22.6
+2003,Chordata,Short-beaked echidna,49.5
+2004,Chordata,Long-nosed echidna,41.2
+2005,Chordata,Long-nosed echymipera,3.1
+2006,Chordata,Golden bandicoot,6.7
+2007,Chordata,Northern brown bandicoot,6.8
+2008,Chordata,Southern brown bandicoot,6.5
+2009,Chordata,Western barred bandicoot,5.8
+2010,Chordata,Eastern barred bandicoot,6.1
+2011,Chordata,Long-nosed bandicoot,5.6
+2012,Chordata,Raffray's bandicoot,3.2
+2013,Chordata,Rabbit-bandicoot or bilby,9.6
+2014,Chordata,African wild ass,47.0
+2015,Chordata,Horse,57.0
+2016,Chordata,Grevy's zebra,31.0
+2017,Chordata,Kulan,31.6
+2018,Chordata,Kiang,30.1
+2019,Chordata,Quagga,38.0
+2020,Chordata,Mountain zebra,33.2
+2021,Chordata,White rhinoceros,45.0
+2022,Chordata,Sumatran rhinoceros,32.8
+2023,Chordata,Black rhinoceros,49.0
+2024,Chordata,Indian rhinoceros,43.5
+2025,Chordata,Malayan tapir,36.5
+2026,Chordata,Baird's tapir,29.6
+2027,Chordata,Mountain tapir,28.5
+2028,Chordata,Brazilian tapir,39.6
+2029,Chordata,Southern two-toed sloth,36.8
+2030,Chordata,Hoffmann's two-toed sloth,41.0
+2031,Chordata,Giant anteater,31.0
+2032,Chordata,Northern tamandua,16.0
+2033,Chordata,Southern tamandua,19.0
+2034,Chordata,Azara's night monkey,30.0
+2035,Chordata,Lemurine night monkey,33.8
+2036,Chordata,Northern night monkey,30.1
+2037,Chordata,Noisy night monkey,22.1
+2038,Chordata,Black howler monkey,32.4
+2039,Chordata,Mantled howler monkey,24.0
+2040,Chordata,Red howler monkey,25.0
+2041,Chordata,White-bellied spider monkey,37.0
+2042,Chordata,Chamek spider monkey,42.8
+2043,Chordata,Brown-headed spider monkey,46.0
+2044,Chordata,Central American spider monkey,47.1
+2045,Chordata,White-whiskered spider monkey,44.0
+2046,Chordata,Black spider monkey,46.0
+2047,Chordata,Woolly spider monkey or muriqui,40.0
+2048,Chordata,Humboldt's woolly monkey,32.0
+2049,Chordata,Goeldi's monkey,22.2
+2050,Chordata,Geoffroy's marmoset,17.6
+2051,Chordata,White-tufted-ear marmoset,22.8
+2052,Chordata,Weid's black-tufted-ear marmoset,20.0
+2053,Chordata,Black-pencilled marmoset,15.4
+2054,Chordata,Pygmy marmoset,18.6
+2055,Chordata,Saddlebacked tamarin,24.9
+2056,Chordata,Black-mantled tamarin,20.2
+2057,Chordata,Golden-headed lion tamarin,21.3
+2058,Chordata,Golden-rumped lion tamarin,17.9
+2059,Chordata,Golden lion tamarin,31.6
+2060,Chordata,Silvery marmoset,16.5
+2061,Chordata,Tassel-eared marmoset,15.0
+2062,Chordata,Brazilian bare-faced tamarin,19.0
+2063,Chordata,Geoffroy's tamarin,20.5
+2064,Chordata,Emperor tamarin,23.7
+2065,Chordata,Red-chested mustached tamarin,20.5
+2066,Chordata,Silvery-brown bare-face tamarin,15.2
+2067,Chordata,Midas tamarin,21.0
+2068,Chordata,Black-chested mustached tamarin,20.0
+2069,Chordata,Cotton-top tamarin,26.2
+2070,Chordata,White-fronted capuchin,40.4
+2071,Chordata,White-faced capuchin,54.0
+2072,Chordata,Weeping capuchin,47.0
+2073,Chordata,Bolivian squirrel monkey,30.3
+2074,Chordata,South American squirrel monkey,30.2
+2075,Chordata,Brown capuchin,46.0
+2076,Chordata,Allen's swamp monkey,27.0
+2077,Chordata,L'hoest's monkey,24.1
+2078,Chordata,Preuss's monkey,26.0
+2079,Chordata,Agile mangabey,31.0
+2080,Chordata,Red-capped mangabey,46.0
+2081,Chordata,Black-cheeked white-nosed monkey,31.2
+2082,Chordata,Campbell's monkey,30.0
+2083,Chordata,Moustached monkey,36.0
+2084,Chordata,Diana monkey,35.1
+2085,Chordata,Red-bellied monkey,24.0
+2086,Chordata,Owl-faced monkey,28.6
+2087,Chordata,Blue monkey,37.8
+2088,Chordata,Mona monkey,30.0
+2089,Chordata,De Brazza's monkey,30.8
+2090,Chordata,White-nosed guenon,31.0
+2091,Chordata,Lesser white-nosed monkey,29.0
+2092,Chordata,Crowned guenon,27.0
+2093,Chordata,Wolf's monkey,24.0
+2094,Chordata,Vervet,30.8
+2095,Chordata,Angolan colobus,35.3
+2096,Chordata,Guereza,35.0
+2097,Chordata,King colobus,33.9
+2098,Chordata,Patas monkey,28.3
+2099,Chordata,Gray-cheeked mangabey,36.0
+2100,Chordata,Stump-tailed macaque,29.2
+2101,Chordata,Assam macaque,31.4
+2102,Chordata,Long-tailed macaque,39.0
+2103,Chordata,Japanese macaque,38.5
+2104,Chordata,Moor macaque,33.0
+2105,Chordata,Rhesus monkey,40.0
+2106,Chordata,Pigtail macaque,37.6
+2107,Chordata,Celebes crested macaque,34.0
+2108,Chordata,Booted macaque,29.0
+2109,Chordata,Bonnet macaque,30.0
+2110,Chordata,Liontail macaque,40.0
+2111,Chordata,Toque macaque,29.3
+2112,Chordata,Barbary macaque,29.1
+2113,Chordata,Tibetan macaque,27.0
+2114,Chordata,Tonkean macaque,28.4
+2115,Chordata,Drill,39.0
+2116,Chordata,Mandrill,40.0
+2117,Chordata,Talapoin,27.7
+2118,Chordata,Proboscis monkey,25.1
+2119,Chordata,Hamadryas baboon,37.5
+2120,Chordata,Mitred leaf monkey,20.0
+2121,Chordata,Douc langur,26.0
+2122,Chordata,Golden snub-nosed monkey,29.5
+2123,Chordata,Hanuman langur,29.0
+2124,Chordata,Hooded leaf monkey,34.0
+2125,Chordata,Purple-faced leaf monkey,26.1
+2126,Chordata,Gelada baboon,36.0
+2127,Chordata,Javan langur,31.1
+2128,Chordata,Silvered leaf monkey,28.3
+2129,Chordata,Fran?ois's leaf monkey,26.3
+2130,Chordata,Dusky leaf monkey,33.9
+2131,Chordata,Phayre's leaf monkey,28.3
+2132,Chordata,Capped leaf monkey,25.2
+2133,Chordata,Greater dwarf lemur,13.4
+2134,Chordata,Fat-tailed dwarf lemur,29.0
+2135,Chordata,Gray mouse lemur,18.2
+2136,Chordata,Giant mouse lemur,17.4
+2137,Chordata,Fork-marked lemur,25.0
+2138,Chordata,Aye-aye,32.3
+2139,Chordata,South African galago,16.6
+2140,Chordata,Senegal galago,17.1
+2141,Chordata,Demidoff's galago,13.4
+2142,Chordata,Greater galago,22.7
+2143,Chordata,Small-eared galago,20.0
+2144,Chordata,Gorilla,60.1
+2145,Chordata,Human,122.5
+2146,Chordata,Pygmy chimpanzee or bonobo,55.0
+2147,Chordata,Chimpanzee,59.4
+2148,Chordata,Orangutan,59.0
+2149,Chordata,Hoolock gibbon,41.0
+2150,Chordata,Agile gibbon,49.0
+2151,Chordata,Kloss's gibbon,37.0
+2152,Chordata,White-handed gibbon,56.0
+2153,Chordata,Silvery gibbon,45.0
+2154,Chordata,Borneo gibbon,60.0
+2155,Chordata,Pileated gibbon,38.0
+2156,Chordata,Crested gibbon,46.1
+2157,Chordata,White-cheeked gibbon,44.1
+2158,Chordata,Siamang,43.0
+2159,Chordata,Diademed sifaka,21.0
+2160,Chordata,Golden-crowned sifaka,20.0
+2161,Chordata,Verreaux's sifaka,31.0
+2162,Chordata,Crowned lemur,27.0
+2163,Chordata,Brown lemur,35.5
+2164,Chordata,Black lemur,37.5
+2165,Chordata,Mongoose lemur,36.2
+2166,Chordata,Red-bellied lemur,31.7
+2167,Chordata,Bamboo lemur,23.3
+2168,Chordata,Ring-tailed lemur,37.3
+2169,Chordata,Greater bamboo lemur,17.6
+2170,Chordata,Red ruffed lemur,37.5
+2171,Chordata,Ruffed lemur,39.4
+2172,Chordata,Calabar angwantibo,13.0
+2173,Chordata,Slender loris,21.6
+2174,Chordata,Slow loris,25.8
+2175,Chordata,Pygmy slow loris,19.3
+2176,Chordata,Potto,32.4
+2177,Chordata,Red uakari,35.8
+2178,Chordata,White-nosed bearded saki,20.0
+2179,Chordata,Brown-bearded saki,19.6
+2180,Chordata,Monk saki,25.0
+2181,Chordata,Guianan saki,36.0
+2182,Chordata,Coppery titi,26.4
+2183,Chordata,Bolivian titi,25.0
+2184,Chordata,Dusky titi,26.2
+2185,Chordata,Philippine tarsier,16.0
+2186,Chordata,Western tarsier,16.3
+2187,Chordata,Asiatic elephant,65.5
+2188,Chordata,African bush elephant,65.0
+2189,Chordata,Bennett's chinchilla rat,2.3
+2190,Chordata,Ansell's mole-rat,20.6
+2191,Chordata,Damaraland mole-rat,15.5
+2192,Chordata,African mole rat,11.0
+2193,Chordata,Giant mole-rat,16.0
+2194,Chordata,Cape mole-rat,11.2
+2195,Chordata,Naked mole-rat,31.0
+2196,Chordata,Mouse-like hamster,9.4
+2197,Chordata,Desmarest's hutia,13.8
+2198,Chordata,Brown's hutia,13.5
+2199,Chordata,Hispaniolan hutia,15.9
+2200,Chordata,American beaver,23.4
+2201,Chordata,Brazilian guinea pig,6.0
+2202,Chordata,Guinea pig,12.0
+2203,Chordata,Montane guinea pig,6.3
+2204,Chordata,Patagonian mara,14.4
+2205,Chordata,Common yellow-toothed cavy,3.5
+2206,Chordata,Spix's yellow-toothed cavy,4.6
+2207,Chordata,Capybara,15.1
+2208,Chordata,Rock cavy,12.9
+2209,Chordata,Long-tailed chinchilla,17.2
+2210,Chordata,Mountain viscacha,19.5
+2211,Chordata,Plains viscacha,10.8
+2212,Chordata,Mongolian silver vole,3.8
+2213,Chordata,European water vole,2.5
+2214,Chordata,Northern pygmy mouse,3.3
+2215,Chordata,Striped dwarf hamster,5.3
+2216,Chordata,Black-bellied hamster,3.6
+2217,Chordata,Collared lemming,3.3
+2218,Chordata,Northern mole vole,5.0
+2219,Chordata,Steppe lemming,3.8
+2220,Chordata,Brandt's vole,4.1
+2221,Chordata,Norway lemming,3.3
+2222,Chordata,Crested rat,7.5
+2223,Chordata,Golden hamster,3.9
+2224,Chordata,Brandt's hamster,4.4
+2225,Chordata,Field vole,4.8
+2226,Chordata,Common vole,4.8
+2227,Chordata,Vole,3.9
+2228,Chordata,Prairie vole,5.3
+2229,Chordata,Woodland vole,3.8
+2230,Chordata,Bank vole,4.9
+2231,Chordata,White-throated woodrat,9.5
+2232,Chordata,Eastern woodrat,8.6
+2233,Chordata,Desert woodrat,10.5
+2234,Chordata,Vesper rat,5.7
+2235,Chordata,Golden mouse,8.4
+2236,Chordata,Northern grasshopper mouse,5.6
+2237,Chordata,Southern grasshopper mouse,4.6
+2238,Chordata,California mouse,5.5
+2239,Chordata,Canyon mouse,7.7
+2240,Chordata,Cactus mouse,7.4
+2241,Chordata,Guatemalan deer mouse,5.7
+2242,Chordata,White-footed mouse,7.9
+2243,Chordata,Deer mouse,8.3
+2244,Chordata,Oldfield mouse,5.5
+2245,Chordata,Pinyon mouse,5.4
+2246,Chordata,Desert hamster,4.8
+2247,Chordata,Dzhungarian hamster,3.9
+2248,Chordata,Florida mouse,7.4
+2249,Chordata,Bunny or coney rat,5.5
+2250,Chordata,Hispid cotton rat,5.2
+2251,Chordata,Peters's climbing rat,5.4
+2252,Chordata,Gundi,5.8
+2253,Chordata,Lowland paca,16.3
+2254,Chordata,Mountain paca,18.9
+2255,Chordata,Azara's agouti,11.8
+2256,Chordata,Crested agouti,14.0
+2257,Chordata,Black agouti,18.0
+2258,Chordata,Agouti,17.8
+2259,Chordata,Mexican agouti,13.1
+2260,Chordata,Black-rumped agouti,16.3
+2261,Chordata,Central American agouti,13.8
+2262,Chordata,Ruatan agouti,13.7
+2263,Chordata,Red acouchi,14.8
+2264,Chordata,Pacarana,12.8
+2265,Chordata,Small five-toed jerboa,5.2
+2266,Chordata,Euphrates jerboa,4.2
+2267,Chordata,Great jerboa,7.0
+2268,Chordata,Mongolian five-toed jerboa,4.5
+2269,Chordata,Lesser Egyptian jerboa,7.3
+2270,Chordata,Greater Egyptian jerboa,5.5
+2271,Chordata,Meadow jumping mouse,5.6
+2272,Chordata,Armored rat,7.0
+2273,Chordata,Andean spiny rat. Short-tailed spiny-rat,6.8
+2274,Chordata,Spiny rat,5.8
+2275,Chordata,Brazilian spiny rat,7.0
+2276,Chordata,Prehensile-tailed porcupine,26.6
+2277,Chordata,North American porcupine,23.4
+2278,Chordata,Mexican hairy dwarf porcupine,16.7
+2279,Chordata,Plains pocket gopher,12.0
+2280,Chordata,Botta's pocket gopher,6.1
+2281,Chordata,Forest dormouse,4.1
+2282,Chordata,Asian garden dormouse,6.2
+2283,Chordata,Garden dormouse,5.5
+2284,Chordata,Japanese dormouse,7.0
+2285,Chordata,Fat dormouse,8.7
+2286,Chordata,Woodland dormouse,6.9
+2287,Chordata,Rock dormouse,7.3
+2288,Chordata,Hazel dormouse,5.3
+2289,Chordata,San Diego pocket mouse,8.3
+2290,Chordata,Long-tailed pocket mouse,7.1
+2291,Chordata,Desert kangaroo rat,8.6
+2292,Chordata,Heermann's kangaroo rat,8.3
+2293,Chordata,Merriam's kangaroo rat,9.7
+2294,Chordata,Ord's kangaroo rat,9.9
+2295,Chordata,Banner-tailed kangaroo rat,12.7
+2296,Chordata,Arizona pocket mouse,5.9
+2297,Chordata,Little pocket mouse,8.3
+2298,Chordata,Great Basin pocket mouse,5.8
+2299,Chordata,African brush-tailed porcupine,22.9
+2300,Chordata,Cape porcupine,23.1
+2301,Chordata,Malayan porcupine,27.3
+2302,Chordata,African porcupine,28.0
+2303,Chordata,Indian crested porcupine,27.1
+2304,Chordata,Spiny mouse,5.9
+2305,Chordata,Turkish spiny mouse,4.0
+2306,Chordata,Wilson's spiny mouse,5.6
+2307,Chordata,Small Japanese field mouse,5.0
+2308,Chordata,Yellow-necked mouse,4.5
+2309,Chordata,Korean field mouse,4.4
+2310,Chordata,Large Japanese field mouse,5.3
+2311,Chordata,Long-tailed field mouse,6.3
+2312,Chordata,Nile kusu,6.7
+2313,Chordata,Pencil-tailed tree mouse,3.6
+2314,Chordata,Brush-tailed rabbit rat,4.5
+2315,Chordata,Panay crateromys,8.8
+2316,Chordata,Cape short-eared gerbil,6.1
+2317,Chordata,North African gerbil,7.3
+2318,Chordata,Cape gerbil,5.7
+2319,Chordata,Southern savanna gerbil,5.0
+2320,Chordata,Lesser Egyptian gerbil,5.9
+2321,Chordata,Baluchistan gerbil,4.5
+2322,Chordata,Pale gerbil,5.5
+2323,Chordata,Greater Egyptian gerbil,8.2
+2324,Chordata,Woodland mouse,4.4
+2325,Chordata,Golden-bellied water rat,7.3
+2326,Chordata,Barbary striped grass mouse,4.4
+2327,Chordata,Typical striped grass mouse,4.8
+2328,Chordata,Greater stick-nest rat,5.3
+2329,Chordata,Sundevall's jird,5.6
+2330,Chordata,Libyan jird,5.2
+2331,Chordata,Mid-day jird,6.8
+2332,Chordata,Persian jird,6.0
+2333,Chordata,Mongolian jird,6.3
+2334,Chordata,Vinogradov's jird,6.7
+2335,Chordata,Black-footed tree rat,7.8
+2336,Chordata,Golden-backed tree rat,7.1
+2337,Chordata,Rock mouse,4.7
+2338,Chordata,Old World harvest mouse,3.8
+2339,Chordata,Sand-colored rat,4.0
+2340,Chordata,Mouse,4.3
+2341,Chordata,House mouse,4.0
+2342,Chordata,Mound-building mouse,3.5
+2343,Chordata,Spinifex hopping mouse,6.4
+2344,Chordata,Mitchell's hopping mouse,5.3
+2345,Chordata,Fat-tailed gerbil,8.3
+2346,Chordata,Slender-tailed cloud rat,13.6
+2347,Chordata,Northern Luzon slender-tailed cloud rat,10.7
+2348,Chordata,Long-tailed tree mouse,3.1
+2349,Chordata,Tullberg's rock rat,5.2
+2350,Chordata,Fat sand rat,3.2
+2351,Chordata,Australian native mouse,7.9
+2352,Chordata,Western pebble-mound mouse,6.8
+2353,Chordata,Smoky mouse,6.5
+2354,Chordata,Kimberly mouse,6.9
+2355,Chordata,Heath mouse,6.0
+2356,Chordata,Bush rat,5.3
+2357,Chordata,Australian swamp rat,4.4
+2358,Chordata,Norway rat,3.8
+2359,Chordata,Rat,4.2
+2360,Chordata,Four-striped grass mouse,4.5
+2361,Chordata,Great gerbil,4.5
+2362,Chordata,Bushy-tailed jird,7.3
+2363,Chordata,Indian gerbil,7.0
+2364,Chordata,Carpentarian rock rat,6.2
+2365,Chordata,Central rock rat,7.5
+2366,Chordata,Nutria,8.5
+2367,Chordata,Giant rat,7.4
+2368,Chordata,Gambian rat,8.4
+2369,Chordata,Gray climbing mouse,4.2
+2370,Chordata,Brant's climbing mouse,3.3
+2371,Chordata,Malagasy giant rat,12.6
+2372,Chordata,White-tailed mouse,6.3
+2373,Chordata,Pouched mouse,4.5
+2374,Chordata,Degu,14.0
+2375,Chordata,Coruro,10.8
+2376,Chordata,Springhare,20.0
+2377,Chordata,Harris's antelope squirrel,10.6
+2378,Chordata,White-tailed antelope squirrel,11.2
+2379,Chordata,Gray-bellied squirrel,13.7
+2380,Chordata,Pallas's squirrel,17.0
+2381,Chordata,Finlayson's squirrel,12.8
+2382,Chordata,Plantain squirrel,14.8
+2383,Chordata,Prevost's squirrel,21.1
+2384,Chordata,Golden-mantled ground squirrel,10.4
+2385,Chordata,Black-tailed prairie dog,11.0
+2386,Chordata,Thomas's rope squirrel,10.0
+2387,Chordata,Fire-footed rope squirrel,9.5
+2388,Chordata,Northern flying squirrel,14.2
+2389,Chordata,Southern flying squirrel,19.0
+2390,Chordata,Red-legged sun squirrel,8.7
+2391,Chordata,Thirteen-lined ground squirrel,7.9
+2392,Chordata,Hoary marmot,12.1
+2393,Chordata,Yellow-bellied marmot,21.2
+2394,Chordata,Alpine marmot,17.4
+2395,Chordata,Woodchuck,14.0
+2396,Chordata,Vancouver marmot,12.1
+2397,Chordata,Rock squirrel,9.8
+2398,Chordata,Red and white giant flying squirrel,21.4
+2399,Chordata,Japanese giant flying squirrel,19.2
+2400,Chordata,Franklin's ground squirrel,7.2
+2401,Chordata,Siberian flying squirrel,11.4
+2402,Chordata,Black giant squirrel,19.0
+2403,Chordata,Indian giant squirrel,20.0
+2404,Chordata,Red-bellied squirrel,11.5
+2405,Chordata,Eastern gray squirrel,23.6
+2406,Chordata,Red-tailed squirrel,11.5
+2407,Chordata,Eastern fox squirrel,16.0
+2408,Chordata,Variegated squirrel,15.1
+2409,Chordata,Eurasian red squirrel,14.8
+2410,Chordata,European ground squirrel,6.7
+2411,Chordata,Little ground squirrel,7.1
+2412,Chordata,Horse-tailed squirrel,14.0
+2413,Chordata,Low's squirrel,11.1
+2414,Chordata,Slender squirrel,10.0
+2415,Chordata,Cliff chipmunk,12.6
+2416,Chordata,Least chipmunk,10.0
+2417,Chordata,Siberian chipmunk,9.6
+2418,Chordata,Eastern chipmunk,9.5
+2419,Chordata,Townsend's chipmunk,9.3
+2420,Chordata,Red squirrel,9.8
+2421,Chordata,Mohave ground squirrel,7.8
+2422,Chordata,Round-tailed ground squirrel,8.9
+2423,Chordata,Striped ground squirrel,10.3
+2424,Chordata,South African ground squirrel,11.5
+2425,Chordata,Lesser bamboo rat,4.8
+2426,Chordata,Palestine mole rat,20.2
+2427,Chordata,Greater cane rat,5.4
+2428,Chordata,Northern tree shrew,11.1
+2429,Chordata,Common tree shrew,12.4
+2430,Chordata,Pygmy tree shrew,12.2
+2431,Chordata,Large tree shrew,11.6
+2432,Chordata,Mindanao tree shrew,11.5
+2433,Chordata,Dugong,73.0
+2434,Chordata,Amazonian manatee,40.0
+2435,Chordata,West Indian manatee,69.0
+2436,Chordata,Hispaniolan solenodon,12.1
+2437,Chordata,Northern short-tailed shrew,2.2
+2438,Chordata,Elliot's short-tailed shrew,2.8
+2439,Chordata,Greater red musk shrew,2.2
+2440,Chordata,Bicolored shrew,2.9
+2441,Chordata,White-toothed shrew,4.0
+2442,Chordata,Lesser shrew,2.8
+2443,Chordata,Least shrew,3.5
+2444,Chordata,Forest shrew,2.1
+2445,Chordata,Eurasian water shrew,3.1
+2446,Chordata,Eurasian shrew,3.2
+2447,Chordata,Laxmann's shrew,3.0
+2448,Chordata,White-toothed pygmy shrew,3.2
+2449,Chordata,Asian house shrew,3.2
+2450,Chordata,Star-nosed mole,2.5
+2451,Chordata,Japanese mole,3.2
+2452,Chordata,Aardvark,29.8
+2453,Chordata,American alligator,77.0
+2454,Chordata,Chinese alligator,65.0
+2455,Chordata,Spectacled caiman,40.0
+2456,Chordata,Broad-snouted caiman,58.0
+2457,Chordata,Black caiman,40.0
+2458,Chordata,Dwarf caiman,24.1
+2459,Chordata,Smooth-fronted caiman,40.0
+2460,Chordata,American crocodile,47.0
+2461,Chordata,Orinoco crocodile,41.0
+2462,Chordata,Johnson's crocodile,55.0
+2463,Chordata,Morelet's crocodile,25.4
+2464,Chordata,Nile crocodile,56.0
+2465,Chordata,New Guinea crocodile,51.0
+2466,Chordata,Mugger or marsh crocodile,44.0
+2467,Chordata,Saltwater crocodile,57.0
+2468,Chordata,Cuban crocodile,48.0
+2469,Chordata,Siamese crocodile,49.0
+2470,Chordata,African slender-snouted crocodile,56.1
+2471,Chordata,West African dwarf crocodile,70.0
+2472,Chordata,Gharial,59.0
+2473,Chordata,False gharial,24.7
+2474,Chordata,Tuatara,90.0
+2475,Chordata,Arafuran file snake,8.8
+2476,Chordata,Javan wart snake,5.8
+2477,Chordata,Plains agama,6.0
+2478,Chordata,Bibron's agama,6.0
+2479,Chordata,Indian changeable lizard,5.0
+2480,Chordata,Frilled lizard,9.9
+2481,Chordata,Sailfin lizard,24.4
+2482,Chordata,Philippine sailfin lizard,15.2
+2483,Chordata,Levant starred lizard,6.0
+2484,Chordata,Butterfly lizard,5.6
+2485,Chordata,Water dragon,15.3
+2486,Chordata,Eastern water dragon,18.9
+2487,Chordata,Eastern bearded dragon,9.9
+2488,Chordata,Central bearded dragon,12.0
+2489,Chordata,North African spiny dabb lizard,11.4
+2490,Chordata,Egyptian spiny-tailed lizard,15.3
+2491,Chordata,Sudan mastigure,17.0
+2492,Chordata,Red worm lizard,15.1
+2493,Chordata,Spanish grey amphisbaena,16.0
+2494,Chordata,Slow worm,54.0
+2495,Chordata,Galliwasp,12.3
+2496,Chordata,Madrean alligator lizard,12.3
+2497,Chordata,Southern alligator lizard,9.8
+2498,Chordata,Eastern glass lizard,14.8
+2499,Chordata,Armored glass lizard,54.0
+2500,Chordata,Bibron's mole viper,23.9
+2501,Chordata,Boa constrictor,40.4
+2502,Chordata,Cuban boa,22.6
+2503,Chordata,Turks and Caicos boa,14.2
+2504,Chordata,Abaco Island boa,21.7
+2505,Chordata,Haitian ground boa,24.4
+2506,Chordata,Puerto rican boa,23.9
+2507,Chordata,Haitian boa,22.1
+2508,Chordata,Jamaica boa,24.3
+2509,Chordata,Annulated boa,15.3
+2510,Chordata,Emerald tree-boa,18.6
+2511,Chordata,Amazonian tree boa,15.0
+2512,Chordata,Rainbow boa,31.0
+2513,Chordata,Dark-spotted anaconda,23.2
+2514,Chordata,Green anaconda,31.8
+2515,Chordata,Paraguayan anaconda,23.6
+2516,Chordata,Round Island boas,17.8
+2517,Chordata,New Guinea boa,9.9
+2518,Chordata,Pacific tree boa,16.9
+2519,Chordata,Pacific ground boa,16.6
+2520,Chordata,Thick-tailed gecko,12.0
+2521,Chordata,Parson's chameleon,9.0
+2522,Chordata,Common chameleon,3.6
+2523,Chordata,Flapneck chameleon,4.0
+2524,Chordata,Labord's chameleon,0.4
+2525,Chordata,Panther chameleon,5.2
+2526,Chordata,Jackson's chameleon,8.2
+2527,Chordata,Rubber boa,26.5
+2528,Chordata,Rosy boa,31.0
+2529,Chordata,Round-spot banana boa,17.7
+2530,Chordata,Panama wood snake,14.2
+2531,Chordata,Glossy snake,19.1
+2532,Chordata,Trans-pecos rat snake,23.8
+2533,Chordata,Blanding's cat snake,12.6
+2534,Chordata,Dog-tooth cat snake,9.6
+2535,Chordata,Mangrove snake,17.0
+2536,Chordata,Brown tree snake,13.1
+2537,Chordata,Common catsnake/indian gamma snake,8.2
+2538,Chordata,Scarlet snake,10.4
+2539,Chordata,Banded sand snake,4.0
+2540,Chordata,Mussarana,11.5
+2541,Chordata,Kirtland's snake,8.4
+2542,Chordata,Northern black racer,10.0
+2543,Chordata,Palaearctic tail-lined snake,13.8
+2544,Chordata,East African egg-eating snake,8.6
+2545,Chordata,African egg-eating snake,22.1
+2546,Chordata,Red barded snake,13.7
+2547,Chordata,Indigo snake,25.9
+2548,Chordata,Baird's rat snake,16.3
+2549,Chordata,Japanese rat snake,13.1
+2550,Chordata,Yellow-red/tropical rat snake,16.3
+2551,Chordata,Corn snake,32.3
+2552,Chordata,Trinket snake,15.0
+2553,Chordata,Red-headed rat snake,21.1
+2554,Chordata,Black rat snake,33.9
+2555,Chordata,Japanese four-lined rat snake,16.8
+2556,Chordata,Russian ratsnake,13.7
+2557,Chordata,European leopard snake,23.0
+2558,Chordata,Taipan beauty snake,11.6
+2559,Chordata,Eastern fox snake,17.0
+2560,Chordata,Western mud snake,19.0
+2561,Chordata,Red-tailed rat snake,15.1
+2562,Chordata,Mexican hognose snake,19.8
+2563,Chordata,Eastern hognose snake,9.1
+2564,Chordata,False water snake,16.9
+2565,Chordata,Night snake,12.2
+2566,Chordata,Gray-banded kingsnake,19.7
+2567,Chordata,Prairie kingsnake,23.8
+2568,Chordata,Common kingsnake,33.3
+2569,Chordata,Greer's kingsnake,15.6
+2570,Chordata,Sonoran mountain kingsnake,22.4
+2571,Chordata,Milk snake,22.6
+2572,Chordata,California mountain kingsnake,28.8
+2573,Chordata,African house snake,9.0
+2574,Chordata,Madagascar giant hognose snake,27.2
+2575,Chordata,Parrot snake,7.7
+2576,Chordata,False smooth snake,5.9
+2577,Chordata,Coachwhip,20.2
+2578,Chordata,Lapi file snake,10.9
+2579,Chordata,Grass snake,20.0
+2580,Chordata,Plain-bellied water snake,14.8
+2581,Chordata,Northern water snake,9.6
+2582,Chordata,Brown water snake,6.1
+2583,Chordata,Rough greensnake,7.2
+2584,Chordata,Smooth green snake,6.1
+2585,Chordata,Brown vine snake,15.2
+2586,Chordata,Gopher snake,33.8
+2587,Chordata,Bull snake,22.4
+2588,Chordata,Stripe-belly sand racer,5.8
+2589,Chordata,Mole snake,8.3
+2590,Chordata,Indian rat snake,11.3
+2591,Chordata,Queen snake,19.3
+2592,Chordata,Rufous beaked snake,13.3
+2593,Chordata,Western long-nosed snake,19.8
+2594,Chordata,Western patch-nosed snake,14.3
+2595,Chordata,Green rat snake,19.8
+2596,Chordata,Diademed snake,17.0
+2597,Chordata,Tropical rat snake,17.5
+2598,Chordata,Brown snake,7.0
+2599,Chordata,Redbelly snake,4.6
+2600,Chordata,Eastern tiger snake,7.6
+2601,Chordata,Butler's garter snake,14.0
+2602,Chordata,Western aquatic garter snake,7.7
+2603,Chordata,Eastern blackneck garter snake,10.8
+2604,Chordata,Western terrestrial garter snake,17.8
+2605,Chordata,Checkered garter snake,7.0
+2606,Chordata,Northwestern garter snake,15.8
+2607,Chordata,Plains garter snake,8.4
+2608,Chordata,Eastern ribbon snake,10.6
+2609,Chordata,Common garter snake,14.0
+2610,Chordata,Western lyresnake,11.8
+2611,Chordata,Pointed snake,18.9
+2612,Chordata,Rough earth snake,7.2
+2613,Chordata,Smooth earth snake,9.5
+2614,Chordata,Armadillo girdled lizard,20.2
+2615,Chordata,Rough-scaled girdled lizard,15.6
+2616,Chordata,Giant spinytail lizard,24.9
+2617,Chordata,Warren's spinytail lizard,19.8
+2618,Chordata,Rough-scaled plated lizard,24.0
+2619,Chordata,Giant plated lizard,17.2
+2620,Chordata,Lesser flat lizard,15.6
+2621,Chordata,Emperor flat lizard,14.0
+2622,Chordata,Green basilisk,13.0
+2623,Chordata,Brown basilisk,9.1
+2624,Chordata,Smooth helmeted iguana,7.1
+2625,Chordata,Eastern casquehead iguana,15.4
+2626,Chordata,Panther anole,7.0
+2627,Chordata,Green anole,7.2
+2628,Chordata,Puerto Rican giant anole,9.2
+2629,Chordata,Knight anole,16.5
+2630,Chordata,Anole,6.7
+2631,Chordata,Giant gecko,25.0
+2632,Chordata,Auckland green gecko,20.0
+2633,Chordata,Jewelled gecko,16.0
+2634,Chordata,Northland green gecko,16.0
+2635,Chordata,Rough scale gecko,13.0
+2636,Chordata,Marbled velvet gecko,21.2
+2637,Chordata,New Caledonia giant gecko,8.5
+2638,Chordata,Common death adder,9.3
+2639,Chordata,Coral snake,9.0
+2640,Chordata,Shieldnose cobra,13.5
+2641,Chordata,Indian krait,17.4
+2642,Chordata,Red-headed krait,13.2
+2643,Chordata,Many-banded krait,13.7
+2644,Chordata,Common mamba,18.8
+2645,Chordata,Jameson's mamba,13.1
+2646,Chordata,Black mamba,26.2
+2647,Chordata,Green mamba,18.7
+2648,Chordata,Sundevall's garter sanke,11.6
+2649,Chordata,Ringneck spitting cobra,13.0
+2650,Chordata,Western coral snake,17.6
+2651,Chordata,Eastern coral snake,19.0
+2652,Chordata,Indian/golden spitting cobra,11.7
+2653,Chordata,Egyptian cobra,22.1
+2654,Chordata,Indian/monocled cobra,25.4
+2655,Chordata,Black and white-lipped cobra,29.1
+2656,Chordata,Mozambique spitting cobra,16.7
+2657,Chordata,Indian cobra,32.3
+2658,Chordata,Blackneck spitting cobra,23.2
+2659,Chordata,Cape cobra,26.0
+2660,Chordata,Red spitting cobra,20.2
+2661,Chordata,Indian/southeastern philippine cobra,11.4
+2662,Chordata,Indian/Indochinese spitting cobra,13.5
+2663,Chordata,Mainland tigersnake,14.1
+2664,Chordata,King cobra,22.5
+2665,Chordata,Taipan,15.6
+2666,Chordata,King grown/brown snake,11.1
+2667,Chordata,Australian purplish death adder,11.6
+2668,Chordata,Kenya sand-boa,20.7
+2669,Chordata,Rough-scaled sand-boa,28.2
+2670,Chordata,Caucasian sand-boa,24.7
+2671,Chordata,John's Indian sand-boa,24.4
+2672,Chordata,Tartar sand-boa,24.0
+2673,Chordata,Mexican banded gecko,11.0
+2674,Chordata,Western banded gecko,15.2
+2675,Chordata,Leopard gecko,28.5
+2676,Chordata,African fat-tailed gecko,16.2
+2677,Chordata,Namib sand gecko,10.8
+2678,Chordata,Bibron's gecko,6.1
+2679,Chordata,Marbled gecko,12.8
+2680,Chordata,Pacific sticky-toed gecko,13.0
+2681,Chordata,Oceanic dtella,10.5
+2682,Chordata,Tokay gecko,23.5
+2683,Chordata,Mediterranean house gecko,8.4
+2684,Chordata,Prickly gecko,13.6
+2685,Chordata,Forest gecko,21.0
+2686,Chordata,Seychelles small day gecko,7.4
+2687,Chordata,Blue-tailed day gecko,9.3
+2688,Chordata,Round island day gecko,17.8
+2689,Chordata,Orange-spotted day gecko,7.1
+2690,Chordata,Broad-tailed day gecko,8.7
+2691,Chordata,Striped day gecko,10.0
+2692,Chordata,Madagascar day gecko,13.6
+2693,Chordata,Standing's day gecko,9.6
+2694,Chordata,Seychelles giant day gecko,15.9
+2695,Chordata,Gray gecko,37.0
+2696,Chordata,Beaded lizard,34.4
+2697,Chordata,Gila monster,28.9
+2698,Chordata,East Indian tentacled snake,13.6
+2699,Chordata,Chinese water snake,4.2
+2700,Chordata,Marine iguana,6.4
+2701,Chordata,Fiji banded iguana,5.9
+2702,Chordata,Santa Fe land iguana,17.1
+2703,Chordata,Baker's spinytail iguana,13.8
+2704,Chordata,Cape spinytail iguana,9.6
+2705,Chordata,Honduran dwarf spiny-tailed iguana,10.2
+2706,Chordata,Western spiny-tailed iguana,8.2
+2707,Chordata,Black iguana,22.4
+2708,Chordata,Rhinoceros iguana,22.9
+2709,Chordata,Andros island iguana,23.4
+2710,Chordata,Cayman rock iguana,47.6
+2711,Chordata,Desert iguana,14.6
+2712,Chordata,Common green iguana,19.8
+2713,Chordata,Northern chuckwalla,9.3
+2714,Chordata,Spiny chuckwalla,17.2
+2715,Chordata,Piebald chuckwalla,11.3
+2716,Chordata,Desert spiny lizard,5.9
+2717,Chordata,Crevice spiny lizard,8.0
+2718,Chordata,Blue spiny lizard,6.7
+2719,Chordata,Gallot's Canary Island lizard,5.6
+2720,Chordata,Simony's Canary Island lizard,5.4
+2721,Chordata,European green lizard,10.0
+2722,Chordata,Viviparous lizard,11.0
+2723,Chordata,Common wall lizard,10.0
+2724,Chordata,Madeira wall lizard,4.8
+2725,Chordata,Jeweled lizard,17.0
+2726,Chordata,Northern curly-tailed lizard,10.8
+2727,Chordata,Mexican burrowing python,32.8
+2728,Chordata,Cuvier's Madagascar swift,21.2
+2729,Chordata,Merrem's Madagascar swift,9.3
+2730,Chordata,Colorado desert fringe-toed lizard,8.1
+2731,Chordata,Fan-footed gecko,10.9
+2732,Chordata,Ringed wall gecko,11.8
+2733,Chordata,Common wall gecko,14.0
+2734,Chordata,Children's python,25.7
+2735,Chordata,Black-headed python,22.6
+2736,Chordata,Bismarck ringed python,22.2
+2737,Chordata,D'albert's python,18.0
+2738,Chordata,Brown water python,26.8
+2739,Chordata,Macklot's python,17.4
+2740,Chordata,Scrub python,13.8
+2741,Chordata,Boelen's python,20.1
+2742,Chordata,Carpet python,19.6
+2743,Chordata,Green tree python,20.6
+2744,Chordata,Short-tailed python,27.8
+2745,Chordata,Indian python,34.2
+2746,Chordata,Ball python,47.5
+2747,Chordata,Reticulated python,29.4
+2748,Chordata,African python,27.3
+2749,Chordata,Timor python,20.5
+2750,Chordata,Dumeril's ground boa,26.0
+2751,Chordata,Madagascar boa,28.4
+2752,Chordata,Madagascar tree boa,21.8
+2753,Chordata,Palaearctic eyed skink,14.0
+2754,Chordata,Solomon Island skink,24.3
+2755,Chordata,Mcgregor's skink,20.0
+2756,Chordata,Cunningham's skink,26.5
+2757,Chordata,Hosmer's skink,24.5
+2758,Chordata,Mourning skink,18.2
+2759,Chordata,Land mullet,10.8
+2760,Chordata,Gidgee skink,18.2
+2761,Chordata,Algerian skink,22.8
+2762,Chordata,Broadhead skink,7.7
+2763,Chordata,Great Plains skink,7.3
+2764,Chordata,Pink-tongued skink,12.9
+2765,Chordata,Otago skink,44.0
+2766,Chordata,Great moluccan skink,17.3
+2767,Chordata,Australian black and yellow skink,11.5
+2768,Chordata,Australian blue-tongued lizard,26.6
+2769,Chordata,Shingleback skink,20.9
+2770,Chordata,Yellowhead gecko,5.6
+2771,Chordata,Common wonder gecko,12.6
+2772,Chordata,Giant ameiva,4.6
+2773,Chordata,Six-lined racerunner,6.0
+2774,Chordata,Western whiptail,7.8
+2775,Chordata,Guyana caiman lizard,9.3
+2776,Chordata,Red tegu,10.8
+2777,Chordata,Columbian tegu,16.1
+2778,Chordata,Dwarf boa,16.1
+2779,Chordata,Cayman islands dwarf boa,25.9
+2780,Chordata,Haitian dwarf boa,15.3
+2781,Chordata,Bengal monitor,11.2
+2782,Chordata,Dumeril's monitor,10.7
+2783,Chordata,Bosc's monitor and Savannah monitor,12.7
+2784,Chordata,Perentie,19.7
+2785,Chordata,Sand monitor,18.3
+2786,Chordata,Desert monitor,17.0
+2787,Chordata,Indian monitor lizard and Indian monitor,17.4
+2788,Chordata,Komodo dragon,62.0
+2789,Chordata,Merten's water monitor,20.3
+2790,Chordata,Nile monitor,14.6
+2791,Chordata,Gray's monitor lizard,15.2
+2792,Chordata,New Guinea green tree monitor,14.2
+2793,Chordata,Common water monitor,15.7
+2794,Chordata,Spotted tree monitor,14.9
+2795,Chordata,Lace monitor,14.7
+2796,Chordata,Cantil,24.3
+2797,Chordata,Northern copperhead,29.8
+2798,Chordata,Water moccasin,24.5
+2799,Chordata,Jumping pit viper,19.0
+2800,Chordata,Picado's pit viper,13.0
+2801,Chordata,Puff adder,15.8
+2802,Chordata,Gaboon viper,18.0
+2803,Chordata,Rhinoceros viper,9.4
+2804,Chordata,Yellos-spotted palm pit viper,13.7
+2805,Chordata,Side-striped palm pit viper,12.5
+2806,Chordata,Rowley's palm pit viper,12.8
+2807,Chordata,Eyelash palm pit viper,19.5
+2808,Chordata,Urutu,15.2
+2809,Chordata,Fer-de-lance,20.4
+2810,Chordata,Common lancehead,8.5
+2811,Chordata,Saint Lucia lancehead,14.4
+2812,Chordata,Martinique lancehead,13.0
+2813,Chordata,Yara,15.1
+2814,Chordata,Cape viper,6.6
+2815,Chordata,Horned viper,18.0
+2816,Chordata,Godman's montane pit viper,15.8
+2817,Chordata,Eastern diamondback rattlesnake,22.8
+2818,Chordata,Western diamond-backed rattlesnake,27.0
+2819,Chordata,Mexican West-Coast rattlesnake,16.0
+2820,Chordata,Saint Catalina rattlesnake,11.8
+2821,Chordata,Sidewinder,27.3
+2822,Chordata,Neotropical rattlesnake,19.8
+2823,Chordata,Baja California rattlesnake,17.1
+2824,Chordata,Timber rattlesnake,30.2
+2825,Chordata,New Mexico banded rock rattlesnake,33.6
+2826,Chordata,Southwestern speckled rattlesnake,22.0
+2827,Chordata,Northern black-tailed rattlesnake,20.7
+2828,Chordata,Twin-spotted rattlesnake,15.7
+2829,Chordata,Red diamond rattlesnake,19.2
+2830,Chordata,Mojave rattlesnake,14.4
+2831,Chordata,Tiger rattlesnake,15.3
+2832,Chordata,Tortuga Island rattlesnake,18.3
+2833,Chordata,Uracoan rattlesnake,19.8
+2834,Chordata,Southern Pacific rattlesnake,24.1
+2835,Chordata,Arizona ridge-nosed rattlesnake,21.3
+2836,Chordata,Russell's viper,15.0
+2837,Chordata,Saw-scaled viper,23.8
+2838,Chordata,Palestine saw-scaled viper,28.3
+2839,Chordata,Mcmahon's viper,14.6
+2840,Chordata,Japanese mamushi,13.8
+2841,Chordata,Bushmaster,31.6
+2842,Chordata,Bluntnose viper,13.3
+2843,Chordata,Black-tailed montane pit viper,17.1
+2844,Chordata,Mexican horned pit viper,14.9
+2845,Chordata,Okinawan habu,19.0
+2846,Chordata,Persian horned viper,17.1
+2847,Chordata,Massasauga,20.0
+2848,Chordata,Pigmy rattlesnake,16.1
+2849,Chordata,Pygmy rattlesnake,14.8
+2850,Chordata,White-lipped tree viper,11.4
+2851,Chordata,Yellow-spotted pit viper,24.9
+2852,Chordata,Indian green tree viper,8.4
+2853,Chordata,Pope's pit viper,14.0
+2854,Chordata,Long-nosed viper,22.0
+2855,Chordata,Asp viper,25.0
+2856,Chordata,Northern palaearctic viper,19.0
+2857,Chordata,Lataste's viper,9.7
+2858,Chordata,Armenian viper,10.7
+2859,Chordata,Palestine viper,16.4
+2860,Chordata,Yellow-spotted night lizard,11.0
+2861,Chordata,Granite night lizard,14.3
+2862,Chordata,Island night lizard,13.9
+2863,Chordata,Desert night lizard,10.9
+2864,Chordata,Sunbeam snake,12.1
+2865,Chordata,Boomslang,8.7
+2866,Chordata,Pignose turtle,38.4
+2867,Chordata,Common snake-necked turtle,37.0
+2868,Chordata,Mata mata,35.8
+2869,Chordata,Northern Australian snapping turtle,21.8
+2870,Chordata,Krefft's river turtle,15.8
+2871,Chordata,Macquarie turtle,20.9
+2872,Chordata,Dahl's toad-headed turtle,27.4
+2873,Chordata,Serrated snapping turtle,26.5
+2874,Chordata,Geoffrey's sideneck turtle,37.5
+2875,Chordata,Hilaire's side-necked turtle,37.4
+2876,Chordata,Twistneck turtle,20.0
+2877,Chordata,Loggerhead sea turtle,37.0
+2878,Chordata,Green sea turtle,75.0
+2879,Chordata,Common snapping turtle,47.0
+2880,Chordata,Alligator snapping turtle,70.3
+2881,Chordata,Central american river turtle,11.3
+2882,Chordata,Leatherback sea turtle,30.0
+2883,Chordata,Southwestern pond turtle,27.3
+2884,Chordata,Painted turtle,61.0
+2885,Chordata,Spotted turtle,30.0
+2886,Chordata,Chicken turtle,24.0
+2887,Chordata,Blanding's turtle,77.0
+2888,Chordata,European pond turtle,120.0
+2889,Chordata,Wood turtle,60.0
+2890,Chordata,Bog turtle,40.0
+2891,Chordata,Barbour's map turtle,31.7
+2892,Chordata,Cagle's map turtle,14.5
+2893,Chordata,Black-knobbed map turtle,20.3
+2894,Chordata,Ringed map turtle,20.3
+2895,Chordata,Mississippi map turtle,35.4
+2896,Chordata,Alabama map turtle,15.7
+2897,Chordata,River cooter,44.0
+2898,Chordata,Florida red-bellied turtle,26.1
+2899,Chordata,Eastern box turtle,138.0
+2900,Chordata,Coahuilan box turtle,18.8
+2901,Chordata,Spotted box turtle,24.9
+2902,Chordata,Ornate box turtle,28.4
+2903,Chordata,Common slider,41.3
+2904,Chordata,Indian batagur terrapin,21.7
+2905,Chordata,Southeast Asian box turtle,38.2
+2906,Chordata,Yellow-margined box turtle,19.1
+2907,Chordata,Chinese three-striped box turtle,31.8
+2908,Chordata,Asian leaf turtle,14.7
+2909,Chordata,Indian black pond turtle,19.2
+2910,Chordata,Crowned river turtle,18.0
+2911,Chordata,Yellow-headed temple turtle,9.3
+2912,Chordata,Giant asian pond turtle,29.6
+2913,Chordata,Spiny turtle,22.9
+2914,Chordata,Malayan snail-eating turtle,14.2
+2915,Chordata,Annam leaf turtle,23.9
+2916,Chordata,Caspian turtle,17.6
+2917,Chordata,Japanese pond turtle,16.2
+2918,Chordata,Spanish pond turtle,24.5
+2919,Chordata,Yellow pond turtle,22.1
+2920,Chordata,Red-necked pond turtle,18.0
+2921,Chordata,Reeves' turtle,24.2
+2922,Chordata,Chinese stripe-necked turtle,22.8
+2923,Chordata,Indian black turtle,40.0
+2924,Chordata,Malayan flat-shelled turtle,18.8
+2925,Chordata,Brown roofed turtle,13.8
+2926,Chordata,Indian roofed turtle,11.0
+2927,Chordata,Furrowed wood turtle,19.3
+2928,Chordata,Painted wood turtle,20.4
+2929,Chordata,Mexican spotted wood turtle,11.8
+2930,Chordata,Beal's eyed turtle,27.3
+2931,Chordata,Thick-necked turtle,16.7
+2932,Chordata,Narrow-bridged musk turtle,16.1
+2933,Chordata,Striped mud turtle,49.6
+2934,Chordata,Herrera's mud turtle,19.5
+2935,Chordata,Mexican mud turtle,18.5
+2936,Chordata,White-lipped mud turtle,19.2
+2937,Chordata,Scorpion mud turtle,44.7
+2938,Chordata,Sonoran mud turtle,36.5
+2939,Chordata,Common mud turtle,40.0
+2940,Chordata,Pacific Coast giant musk turtle,26.3
+2941,Chordata,Mexican giant musk turtle,33.5
+2942,Chordata,Keel-backed musk turtle,29.3
+2943,Chordata,Loggerhead musk turtle,23.9
+2944,Chordata,Stinkpot,54.8
+2945,Chordata,Helmeted turtle,20.1
+2946,Chordata,West African mud turtle,41.0
+2947,Chordata,East African black mud turtle,47.0
+2948,Chordata,Big-headed turtle,27.0
+2949,Chordata,Red-headed Amazon side-neck turtle,18.0
+2950,Chordata,South American river turtle,25.3
+2951,Chordata,Aldabra tortoise,152.0
+2952,Chordata,Radiated tortoise,32.8
+2953,Chordata,African spurred tortoise,54.3
+2954,Chordata,Red-footed tortoise,49.0
+2955,Chordata,Yellow-footed tortoise,35.2
+2956,Chordata,Galapagos tortoise,177.0
+2957,Chordata,Indian star tortoise,24.3
+2958,Chordata,Desert tortoise,62.8
+2959,Chordata,Berlandier's tortoise,30.7
+2960,Chordata,Parrot-beaked tortoise,28.6
+2961,Chordata,Travancore tortoise,32.9
+2962,Chordata,Hingeback tortoise,26.5
+2963,Chordata,Serrated forest hingeback tortoise,24.8
+2964,Chordata,Pancake tortoise,25.9
+2965,Chordata,East Indian upland tortoise,19.9
+2966,Chordata,Leopard tortoise,30.0
+2967,Chordata,Mediterranean spur-thighed tortoise,127.0
+2968,Chordata,Egyptian tortoise,21.0
+2969,Chordata,Marginated tortoise,21.2
+2970,Chordata,Florida softshell turtle,26.2
+2971,Chordata,Spiny softshell turtle,25.2
+2972,Chordata,Indian flapshell turtle,17.8
+2973,Chordata,Wattle-necked softshell turtle,41.0
+2974,Chordata,African softshell turtle,50.6
+2975,Chordata,European eel,88.0
+2976,Chordata,Shortfin eel,32.0
+2977,Chordata,Indonesian shortfin eel,20.0
+2978,Chordata,New Zealand longfin eel,60.0
+2979,Chordata,Marbled eel,40.0
+2980,Chordata,African longfin eel,20.0
+2981,Chordata,Long-finned eel,15.0
+2982,Chordata,Speckled longfin eel,41.0
+2983,Chordata,American eel,50.0
+2984,Chordata,Sand smelt,4.0
+2985,Chordata,Topsmelt,9.0
+2986,Chordata,Jacksmelt,11.0
+2987,Chordata,Brook silverside,2.0
+2988,Chordata,California grunion,8.0
+2989,Chordata,Inland silverside,2.0
+2990,Chordata,Waccamaw silverside,3.0
+2991,Chordata,Atlantic silverside,2.0
+2992,Chordata,Snakefish,7.0
+2993,Chordata,Japanese medaka,5.0
+2994,Chordata,Dusky sea garfish,10.0
+2995,Chordata,Pacific saury,2.0
+2996,Chordata,Alfonsino,23.0
+2997,Chordata,Orange roughy,149.0
+2998,Chordata,Spot-tail,5.0
+2999,Chordata,Silversides,5.0
+3000,Chordata,Tiger fish,8.0
+3001,Chordata,Sharptooth tetra,3.0
+3002,Chordata,Twospot astyanax,18.0
+3003,Chordata,Pirapitinga,28.0
+3004,Chordata,Nile distichodus,7.5
+3005,Chordata,Pike characid,5.0
+3006,Chordata,Blueback shad,8.0
+3007,Chordata,Twaite shad,25.0
+3008,Chordata,Alabama shad,4.0
+3009,Chordata,Alice shad,10.0
+3010,Chordata,Caspian shad,7.0
+3011,Chordata,Blue herring,4.0
+3012,Chordata,Macedonia shad,10.0
+3013,Chordata,Black sea shad,6.0
+3014,Chordata,Pontic shad,7.0
+3015,Chordata,Alewife,8.0
+3016,Chordata,American shad,13.0
+3017,Chordata,Spotted sardinella,8.0
+3018,Chordata,Atlantic herring,22.0
+3019,Chordata,Pacific herring,19.0
+3020,Chordata,Black sea sprat,5.0
+3021,Chordata,American gizzard shad,6.0
+3022,Chordata,Threadfin shad,4.0
+3023,Chordata,Gilchrist's round herring,6.0
+3024,Chordata,Scaled herring,3.0
+3025,Chordata,Australian freshwater herring,11.0
+3026,Chordata,True sardine,15.0
+3027,Chordata,Round sardinella,7.0
+3028,Chordata,Goldstripe sardinella,7.0
+3029,Chordata,Indian oil sardine,4.0
+3030,Chordata,Pacific sardine,25.0
+3031,Chordata,European sprat,6.0
+3032,Chordata,Deepbody anchovy,6.0
+3033,Chordata,Anchoveta,4.0
+3034,Chordata,Australian anchovy,6.0
+3035,Chordata,European anchovy,3.0
+3036,Chordata,Japanese anchovy,3.0
+3037,Chordata,Californian anchoveta,7.0
+3038,Chordata,Peruvian anchoveta,3.0
+3039,Chordata,Stone loach,7.0
+3040,Chordata,River carpsucker,10.0
+3041,Chordata,Quillback,11.0
+3042,Chordata,Highfin carpsucker,11.0
+3043,Chordata,Longnose sucker,20.0
+3044,Chordata,White sucker,12.0
+3045,Chordata,Largescale sucker,15.0
+3046,Chordata,Modoc sucker,18.0
+3047,Chordata,Sacramento sucker,10.0
+3048,Chordata,Mountain sucker,9.0
+3049,Chordata,Klamath smallscale sucker,9.0
+3050,Chordata,Tahoe sucker,15.0
+3051,Chordata,Cui-ui,41.0
+3052,Chordata,June sucker,40.0
+3053,Chordata,Blue sucker,13.0
+3054,Chordata,Southeastern blue sucker,33.0
+3055,Chordata,Lost river sucker,18.0
+3056,Chordata,Creek chubsucker,6.0
+3057,Chordata,Northern hog sucker,11.0
+3058,Chordata,Roanoke hog sucker,5.0
+3059,Chordata,Smallmouth buffalo,15.0
+3060,Chordata,Bigmouth buffalo,20.0
+3061,Chordata,Black buffalo,24.0
+3062,Chordata,Spotted sucker,6.0
+3063,Chordata,Silver redhorse,10.0
+3064,Chordata,Hookfin redhorse,8.0
+3065,Chordata,River redhorse,12.0
+3066,Chordata,Black redhorse,10.0
+3067,Chordata,Golden redhorse,11.0
+3068,Chordata,Shorthead redhorse,9.0
+3069,Chordata,Blackfin sucker,4.0
+3070,Chordata,Rustyside sucker,5.0
+3071,Chordata,Torrent sucker,7.0
+3072,Chordata,Loach,21.7
+3073,Chordata,Bream,23.0
+3074,Chordata,Asp,11.0
+3075,Chordata,Barb,16.3
+3076,Chordata,Papermouth,9.0
+3077,Chordata,Treur barb,6.0
+3078,Chordata,Largescale stoneroller,5.0
+3079,Chordata,Goldfish,41.0
+3080,Chordata,Sneep,15.0
+3081,Chordata,Blackside dace,4.0
+3082,Chordata,Northern redbelly dace,3.0
+3083,Chordata,Southern redbelly dace,3.0
+3084,Chordata,Finescale dace,6.0
+3085,Chordata,Redside dace,4.0
+3086,Chordata,Lake chub,5.0
+3087,Chordata,Silver orfe,21.0
+3088,Chordata,Satinfin shiner,4.0
+3089,Chordata,Whitetail shiner,4.0
+3090,Chordata,Red shiner,2.0
+3091,Chordata,Spotfin shiner,5.0
+3092,Chordata,Steelcolor shiner,3.0
+3093,Chordata,Common carp,47.0
+3094,Chordata,Zebra danio or zebrafish,5.5
+3095,Chordata,Tonguetied minnow,4.0
+3096,Chordata,Cutlip minnow,2.0
+3097,Chordata,Arroyo chub,4.0
+3098,Chordata,Roundtail chub,8.0
+3099,Chordata,Gudgeon,8.0
+3100,Chordata,Rednose labeo,9.0
+3101,Chordata,Rohu,10.0
+3102,Chordata,Smallmouth yellowfish,12.0
+3103,Chordata,Virgin spinedace,3.0
+3104,Chordata,Belica,2.0
+3105,Chordata,European chub,22.0
+3106,Chordata,Ide,29.8
+3107,Chordata,Common dace,16.0
+3108,Chordata,Striped shiner,4.0
+3109,Chordata,Warpaint shiner,5.0
+3110,Chordata,Common shiner,4.0
+3111,Chordata,Bleeding shiner,3.0
+3112,Chordata,Cherryfin shiner,1.0
+3113,Chordata,Redfin shiner,3.0
+3114,Chordata,Pearl dace,4.0
+3115,Chordata,Horneyhead chub,4.0
+3116,Chordata,Bluehead chub,4.0
+3117,Chordata,River chub,5.0
+3118,Chordata,Bull chub,5.0
+3119,Chordata,Golden shiner,9.0
+3120,Chordata,Palezone shiner,3.0
+3121,Chordata,Pugnose shiner,3.0
+3122,Chordata,Emerald shiner,4.0
+3123,Chordata,Rough shiner,4.0
+3124,Chordata,River shiner,4.0
+3125,Chordata,Silverjaw minnow,3.0
+3126,Chordata,Ghost shiner,2.0
+3127,Chordata,Silverside shiner,2.0
+3128,Chordata,Blackchin shiner,3.0
+3129,Chordata,Spottail shiner,5.0
+3130,Chordata,Ozark minnow,4.0
+3131,Chordata,Peppered shiner,4.0
+3132,Chordata,Coastal shiner,4.0
+3133,Chordata,Swallowtail shiner,3.0
+3134,Chordata,Rosyface shiner,3.0
+3135,Chordata,Saffron shiner,5.0
+3136,Chordata,Roughhead shiner,4.0
+3137,Chordata,Sand shiner,3.0
+3138,Chordata,Weed shiner,3.0
+3139,Chordata,Topeka shiner,3.0
+3140,Chordata,Mimic shiner,2.0
+3141,Chordata,Dwarf altai osman,15.0
+3142,Chordata,Altai osman,40.0
+3143,Chordata,Ziege,11.0
+3144,Chordata,Fatlips minnow,3.0
+3145,Chordata,Suckermouth minnow,3.0
+3146,Chordata,Minnow,13.0
+3147,Chordata,Bluntnose minnow,5.0
+3148,Chordata,Fathead minnow,2.0
+3149,Chordata,Woundfin,4.0
+3150,Chordata,Burchell's redfin,6.0
+3151,Chordata,Bluehead shiner,2.0
+3152,Chordata,Colorado pikeminnow,12.0
+3153,Chordata,Relict dace,5.0
+3154,Chordata,Blacknose dace,4.0
+3155,Chordata,Longnose dace,5.0
+3156,Chordata,Loach minnow,5.0
+3157,Chordata,Bitterling,5.0
+3158,Chordata,Lahontan redside,5.0
+3159,Chordata,Kutum,12.0
+3160,Chordata,Roach,14.0
+3161,Chordata,Pearl roach,19.0
+3162,Chordata,Creek chub,8.0
+3163,Chordata,Annual fish,3.7
+3164,Chordata,Argentine pearlfish,3.0
+3165,Chordata,Blackfin pearlfish,1.0
+3166,Chordata,Turquoise killifish,1.1
+3167,Chordata,Gunther's nothobranch,2.3
+3168,Chordata,Kilombero,0.8
+3169,Chordata,Korthaus' killifish,1.6
+3170,Chordata,Beira killifish,1.2
+3171,Chordata,Bluefin notho,1.5
+3172,Chordata,Desert pupfish,2.0
+3173,Chordata,Owens pupfish,2.0
+3174,Chordata,White sands pupfish,5.0
+3175,Chordata,Northern studfish,5.0
+3176,Chordata,California killifish,3.0
+3177,Chordata,Seminole killifish,2.0
+3178,Chordata,Plains killifish,3.0
+3179,Chordata,Pygmy killifish,2.0
+3180,Chordata,Bluefin killifish,2.0
+3181,Chordata,Mosquitofish,3.0
+3182,Chordata,Guppy,5.0
+3183,Chordata,Gila topminnow,1.0
+3184,Chordata,Tarpon,55.0
+3185,Chordata,Oxeye,44.0
+3186,Chordata,Northern pike,30.0
+3187,Chordata,Muskellunge,30.0
+3188,Chordata,Chain pickerel,9.0
+3189,Chordata,Alaska blackfish,8.0
+3190,Chordata,Central mudminnow,4.0
+3191,Chordata,Arctic cod,7.0
+3192,Chordata,Cusk,20.0
+3193,Chordata,Fivebeard rockling,3.0
+3194,Chordata,Saffron cod,12.0
+3195,Chordata,Fourbeard rockling,9.0
+3196,Chordata,Silvery pout,3.0
+3197,Chordata,Alaska pollock,15.0
+3198,Chordata,Pacific cod,18.0
+3199,Chordata,Atlantic cod,25.0
+3200,Chordata,Greenland cod,12.0
+3201,Chordata,Burbot,20.0
+3202,Chordata,Haddock,20.0
+3203,Chordata,English whiting,20.0
+3204,Chordata,Blue whiting,20.0
+3205,Chordata,Blue ling,25.0
+3206,Chordata,Mediterranean ling,20.0
+3207,Chordata,Greater forkbeard,20.0
+3208,Chordata,European pollock,8.0
+3209,Chordata,Pollock,25.0
+3210,Chordata,Norway pout,5.0
+3211,Chordata,Pout whiting,4.0
+3212,Chordata,Mud hake,23.0
+3213,Chordata,Giant grenadier,56.0
+3214,Chordata,Roughscale rattail,73.0
+3215,Chordata,Rock grenadier,54.0
+3216,Chordata,Onion-eye grenadier,25.0
+3217,Chordata,Ridge scaled rattail,19.0
+3218,Chordata,Blue grenadier,25.0
+3219,Chordata,Southern hake,30.0
+3220,Chordata,Silver hake,12.0
+3221,Chordata,Chilean hake,13.0
+3222,Chordata,European hake,20.0
+3223,Chordata,North pacific hake,15.0
+3224,Chordata,Fourspine stickleback,3.0
+3225,Chordata,Brook stickleback,2.0
+3226,Chordata,Alaskan stickleback,8.0
+3227,Chordata,Ninespine stickleback,5.0
+3228,Chordata,Korean sandeel,1.0
+3229,Chordata,Hudson sea horse,4.7
+3230,Chordata,Sea horse,6.0
+3231,Chordata,White's seahorse,5.0
+3232,Chordata,Dwarf seahorse,1.0
+3233,Chordata,Gulf pipefish,3.0
+3234,Chordata,Milkfish,15.0
+3235,Chordata,Airbreathing shellear,3.0
+3236,Chordata,Electric eel,12.6
+3237,Chordata,Goosefish,30.0
+3238,Chordata,Black-bellied angler,21.0
+3239,Chordata,Anglerfish,24.0
+3240,Chordata,Cape monk,11.0
+3241,Chordata,Yellow-eye mullet,7.0
+3242,Chordata,Thicklipped mullet,25.0
+3243,Chordata,Thinlip mullet,10.0
+3244,Chordata,Striped mullet,16.0
+3245,Chordata,Glacier lanterfish,8.0
+3246,Chordata,Chubby flashlightfish,1.0
+3247,Chordata,Hector's lanternfish,3.0
+3248,Chordata,Northern lampfish,8.0
+3249,Chordata,Australian rockling,30.0
+3250,Chordata,Baird's smoothhead,38.0
+3251,Chordata,Silverside,16.0
+3252,Chordata,Atlantic argentine,35.0
+3253,Chordata,Black-stripe minnow,1.0
+3254,Chordata,Pond smelt,5.0
+3255,Chordata,Surf smelt,5.0
+3256,Chordata,Capelin,10.0
+3257,Chordata,Smelt,10.0
+3258,Chordata,Rainbow smelt,7.0
+3259,Chordata,Ayu,3.0
+3260,Chordata,Longfin smelt,3.0
+3261,Chordata,Eulachon,5.0
+3262,Chordata,Australian grayling,6.0
+3263,Chordata,Australian smelt,2.0
+3264,Chordata,Goldeye,14.0
+3265,Chordata,Mooneye,10.0
+3266,Chordata,Mormyrids,6.0
+3267,Chordata,Mormyrid,29.0
+3268,Chordata,African knifefish,11.4
+3269,Chordata,Arawana,6.5
+3270,Chordata,Pacific sand lance,8.0
+3271,Chordata,Sand eel,10.0
+3272,Chordata,Lesser sand eel,7.0
+3273,Chordata,Climbing perch,8.0
+3274,Chordata,Miss Kingsley's climbing perch,8.7
+3275,Chordata,Australian ruff,7.0
+3276,Chordata,Australian salmon,26.0
+3277,Chordata,Western Australian salmon,9.0
+3278,Chordata,Shanny,10.0
+3279,Chordata,Muzzled blenny,4.0
+3280,Chordata,Tompot blenny,5.0
+3281,Chordata,Atlantic pomfret,9.0
+3282,Chordata,Sickle pomfret,8.0
+3283,Chordata,European dragonet,7.0
+3284,Chordata,Blue runner,11.0
+3285,Chordata,White trevally,49.0
+3286,Chordata,Greenback horse mackerel,25.0
+3287,Chordata,Inca scad,16.0
+3288,Chordata,Yellowtail horse mackerel,25.0
+3289,Chordata,Jack mackerel,30.0
+3290,Chordata,Mud sunfish,8.0
+3291,Chordata,Rock bass,18.0
+3292,Chordata,Sacramento perch,6.0
+3293,Chordata,Flier,5.0
+3294,Chordata,Redbreast sunfish,8.0
+3295,Chordata,Green sunfish,9.0
+3296,Chordata,Bluegill,10.0
+3297,Chordata,Dollar sunfish,6.0
+3298,Chordata,Longear sunfish,6.0
+3299,Chordata,Redear sunfish,7.0
+3300,Chordata,Bantam sunfish,3.0
+3301,Chordata,Smallmouth bass,26.0
+3302,Chordata,Spotted bass,7.0
+3303,Chordata,Largemouth bass,23.0
+3304,Chordata,White crappie,10.0
+3305,Chordata,Black crappie,15.0
+3306,Chordata,Antarctic butterfish,15.0
+3307,Chordata,Whario,15.0
+3308,Chordata,Silver warehou,15.0
+3309,Chordata,Common snook,7.0
+3310,Chordata,Snook,7.8
+3311,Chordata,Lined butterflyfish,10.0
+3312,Chordata,Longnosed butterflyfish,10.0
+3313,Chordata,Longnose butterflyfish,18.0
+3314,Chordata,Brownbanded morwong,59.0
+3315,Chordata,Tarakihi,50.0
+3316,Chordata,Black acara,20.0
+3317,Chordata,Chanchito,10.0
+3318,Chordata,Rio Grande cichlid,5.0
+3319,Chordata,Three spotted tilapia,13.0
+3320,Chordata,Singida tilapia,10.0
+3321,Chordata,Kariba tilapia,8.0
+3322,Chordata,Mozambique mouth-breeder,11.0
+3323,Chordata,Nile tilapia,9.0
+3324,Chordata,Southern mouthbrooder,5.0
+3325,Chordata,Green happy,7.0
+3326,Chordata,Pink happy,7.0
+3327,Chordata,Thinface cichlid,9.0
+3328,Chordata,Rainbow happy,6.0
+3329,Chordata,Purpleface largemouth,6.0
+3330,Chordata,Redbreast tilapia,7.0
+3331,Chordata,Redbelly tilapia,7.0
+3332,Chordata,Pompano dolphin,4.0
+3333,Chordata,Common dolphinfish,4.0
+3334,Chordata,Banded pygmy sunfish,3.0
+3335,Chordata,Barred surfperch,9.0
+3336,Chordata,Shiner perch,8.0
+3337,Chordata,Black perch,10.0
+3338,Chordata,Silver surfperch,7.0
+3339,Chordata,Telescope cardinal,104.0
+3340,Chordata,Short-lined escolar,15.0
+3341,Chordata,Silver gemfish,16.0
+3342,Chordata,Atun,10.0
+3343,Chordata,New Zealand slender clingfish,4.0
+3344,Chordata,Hector's clingfish,4.0
+3345,Chordata,Giant clingfish,6.0
+3346,Chordata,Striped clingfish,4.0
+3347,Chordata,Arrow goby,3.0
+3348,Chordata,Crystal goby,1.0
+3349,Chordata,Tidewater goby,1.0
+3350,Chordata,Pygmy goby,0.16
+3351,Chordata,Code goby,1.0
+3352,Chordata,Black goby,5.0
+3353,Chordata,Rock goby,10.0
+3354,Chordata,Twospotted goby,2.0
+3355,Chordata,Diminutive goby,2.0
+3356,Chordata,Bay goby,7.0
+3357,Chordata,Fries' goby,11.0
+3358,Chordata,Round goby,4.0
+3359,Chordata,Lozano's goby,2.0
+3360,Chordata,Marbled goby,2.0
+3361,Chordata,Freckled goby,3.0
+3362,Chordata,Painted goby,2.0
+3363,Chordata,Leopard-spotted goby,9.0
+3364,Chordata,Bluestriped grunt,12.0
+3365,Chordata,Pigfish,4.0
+3366,Chordata,Antarctic spiny plunderfish,9.0
+3367,Chordata,Atlantic sailfish,13.0
+3368,Chordata,Black spearfish,28.0
+3369,Chordata,Rock cook,6.0
+3370,Chordata,Goldsinny wrasse,8.0
+3371,Chordata,Cleaner fish,4.0
+3372,Chordata,Ballan wrasse,29.0
+3373,Chordata,Brown wrasse,17.0
+3374,Chordata,Spotty,7.0
+3375,Chordata,California sheephead,53.0
+3376,Chordata,Corkwing wrasse,9.0
+3377,Chordata,Tautog,34.0
+3378,Chordata,Cunner,6.0
+3379,Chordata,Bluehead,3.0
+3380,Chordata,Bastard trumpeter,33.0
+3381,Chordata,Pacific yellowtail emperor,24.0
+3382,Chordata,Lancer,7.0
+3383,Chordata,Blackspot emperor,15.0
+3384,Chordata,Pig-face bream,19.0
+3385,Chordata,Sky emperor,27.0
+3386,Chordata,Lipper,22.0
+3387,Chordata,Blue emperor,27.0
+3388,Chordata,Orange-striped emperor,14.0
+3389,Chordata,Slender emperor,15.0
+3390,Chordata,Blue-gray snapper,21.0
+3391,Chordata,Hussar,40.0
+3392,Chordata,Mutton snapper,29.0
+3393,Chordata,Mangrove jack,18.0
+3394,Chordata,Red bass,13.0
+3395,Chordata,Northern red snapper,57.0
+3396,Chordata,Spanish flag snapper,20.0
+3397,Chordata,Crimson snapper,8.0
+3398,Chordata,Black spot snapper,23.0
+3399,Chordata,Humpback red snapper,18.0
+3400,Chordata,Bigeye snapper,11.0
+3401,Chordata,Malabar blood snapper,31.0
+3402,Chordata,Pacific red snapper,7.2
+3403,Chordata,Caribbean red snapper,18.0
+3404,Chordata,Blue-banded sea perch,31.0
+3405,Chordata,Saddletailed sea perch,13.0
+3406,Chordata,Emperor snapper,35.0
+3407,Chordata,Lane snapper,10.0
+3408,Chordata,Blackstriped snapper,12.0
+3409,Chordata,Yellowtail snapper,14.0
+3410,Chordata,Crimson jobfish,18.0
+3411,Chordata,Goldbanded jobfish,30.0
+3412,Chordata,Sharptooth jobfish,11.0
+3413,Chordata,Vermilion snapper,10.0
+3414,Chordata,Red tilefish,12.0
+3415,Chordata,Blueline tilefish,15.0
+3416,Chordata,Ocean whitefish,13.0
+3417,Chordata,Blue tilefish,35.0
+3418,Chordata,European seabass,15.0
+3419,Chordata,White perch,7.0
+3420,Chordata,White bass,9.0
+3421,Chordata,Yellow bass,6.0
+3422,Chordata,Striped bass,30.0
+3423,Chordata,Red mullet,10.0
+3424,Chordata,Goldband goatfish,5.0
+3425,Chordata,Japanese threadfin-bream,8.0
+3426,Chordata,Antarctic toothfish,31.0
+3427,Chordata,Grey rockcod,19.0
+3428,Chordata,Marbled rockcod,16.0
+3429,Chordata,Antarctic silverfish,20.0
+3430,Chordata,Emerald rockcod,10.0
+3431,Chordata,Siamese fighting fish,2.0
+3432,Chordata,Murray cod,48.0
+3433,Chordata,Golden perch,20.0
+3434,Chordata,Australian bass,22.0
+3435,Chordata,Western sand darter,3.0
+3436,Chordata,Crystal darter,3.0
+3437,Chordata,Sharphead darter,3.0
+3438,Chordata,Mud darter,3.0
+3439,Chordata,Teardrop darter,2.0
+3440,Chordata,Greenside darter,5.0
+3441,Chordata,Blenny darter,3.0
+3442,Chordata,Rainbow darter,3.0
+3443,Chordata,Creole darter,3.0
+3444,Chordata,Coosa darter,3.0
+3445,Chordata,Arkansas darter,3.0
+3446,Chordata,Coldwater darter,2.0
+3447,Chordata,Iowa darter,3.0
+3448,Chordata,Fantail darter,4.0
+3449,Chordata,Swamp darter,2.0
+3450,Chordata,Slough darter,4.0
+3451,Chordata,Yoke darter,3.0
+3452,Chordata,Stripetail darter,3.0
+3453,Chordata,Longfin darter,3.0
+3454,Chordata,Least darter,2.0
+3455,Chordata,Yellowcheek darter,4.0
+3456,Chordata,Niangua darter,4.0
+3457,Chordata,Johnny darter,4.0
+3458,Chordata,Okaloosa darter,8.0
+3459,Chordata,Dirty darter,2.0
+3460,Chordata,Tessellated darter,4.0
+3461,Chordata,Paleback darter,2.0
+3462,Chordata,Cypress darter,2.0
+3463,Chordata,Stippled darter,4.0
+3464,Chordata,Orangebelly darter,4.0
+3465,Chordata,Bayou darter,3.0
+3466,Chordata,Redline darter,4.0
+3467,Chordata,Slabrock darter,2.0
+3468,Chordata,Spottail darter,3.0
+3469,Chordata,Striated darter,2.0
+3470,Chordata,Variegate darter,4.0
+3471,Chordata,Banded darter,4.0
+3472,Chordata,Yellow perch,12.0
+3473,Chordata,Eurasian perch,22.0
+3474,Chordata,Tangerine darter,4.5
+3475,Chordata,Blotchside logperch,4.0
+3476,Chordata,Logperch,3.0
+3477,Chordata,Gilt darter,4.0
+3478,Chordata,Longhead darter,4.0
+3479,Chordata,Blackside darter,4.0
+3480,Chordata,Leopard darter,3.0
+3481,Chordata,Slenderhead darter,3.0
+3482,Chordata,Roanoke logperch,6.0
+3483,Chordata,Roanoke darter,3.0
+3484,Chordata,Dusky darter,4.0
+3485,Chordata,River darter,3.0
+3486,Chordata,Snail darter,4.0
+3487,Chordata,Saddleback darter,2.0
+3488,Chordata,Sauger,18.0
+3489,Chordata,Zander,16.0
+3490,Chordata,Walleye,29.0
+3491,Chordata,Rock gunnel,5.0
+3492,Chordata,Taumaka,9.0
+3493,Chordata,King threadfin,20.0
+3494,Chordata,Hapuka,60.0
+3495,Chordata,Giant sea bass,75.0
+3496,Chordata,Black and gold angelfish,13.0
+3497,Chordata,Lemonpeel angelfish,11.0
+3498,Chordata,Bluegirdled angelfish,15.0
+3499,Chordata,Royal angelfish,14.5
+3500,Chordata,Black clown,11.0
+3501,Chordata,Red saddleback anemonefish,16.0
+3502,Chordata,Black anemonefish,5.0
+3503,Chordata,Bluefish,9.0
+3504,Chordata,Bulleye,9.0
+3505,Chordata,Cobia,15.0
+3506,Chordata,Heavybeak parrotfish,14.0
+3507,Chordata,Bridled parrotfish,20.0
+3508,Chordata,Flame parrotfish,13.0
+3509,Chordata,Palenose parrotfish,5.0
+3510,Chordata,Bicolor parrotfish,20.0
+3511,Chordata,Freshwater drum,13.0
+3512,Chordata,Southern meagre,30.0
+3513,Chordata,White seabass,20.0
+3514,Chordata,Black croaker,20.0
+3515,Chordata,Spotted seatrout,18.0
+3516,Chordata,White croaker,15.0
+3517,Chordata,Spot,4.0
+3518,Chordata,California corbina,8.0
+3519,Chordata,Whitemouth drummer,7.0
+3520,Chordata,Atlantic croaker,5.0
+3521,Chordata,Black drum,43.0
+3522,Chordata,Red drum,50.0
+3523,Chordata,Totoaba,15.0
+3524,Chordata,Frigate tuna,5.0
+3525,Chordata,Little tunny,10.0
+3526,Chordata,Skipjack tuna,12.0
+3527,Chordata,Indian mackerel,4.0
+3528,Chordata,Atlantic bonito,5.0
+3529,Chordata,Chub mackerel,18.0
+3530,Chordata,Atlantic mackerel,17.0
+3531,Chordata,King mackerel,14.0
+3532,Chordata,Spanish mackerel,5.0
+3533,Chordata,West African Spanish mackerel,5.0
+3534,Chordata,Albacore,13.0
+3535,Chordata,Yellowfin tuna,9.0
+3536,Chordata,Southern bluefin tuna,20.0
+3537,Chordata,Bigeye tuna,11.0
+3538,Chordata,Horse mackerel,15.0
+3539,Chordata,Black sea bass,20.0
+3540,Chordata,Bluespot rockcod,25.0
+3541,Chordata,Areolate grouper,15.0
+3542,Chordata,Brownspotted grouper,29.0
+3543,Chordata,Orange-spotted grouper,22.0
+3544,Chordata,Speckled hind,25.0
+3545,Chordata,Yellowedge grouper,32.0
+3546,Chordata,Dusky grouper,50.0
+3547,Chordata,Snowy grouper,27.0
+3548,Chordata,Nassau grouper,16.0
+3549,Chordata,Yellowmouth grouper,41.0
+3550,Chordata,Scamp,21.0
+3551,Chordata,Kelp bass,31.0
+3552,Chordata,Barred sand bass,31.0
+3553,Chordata,Bluedotted coraltrout,26.0
+3554,Chordata,Painted comber,60.0
+3555,Chordata,Spotted whiting,15.0
+3556,Chordata,Sand whiting,22.0
+3557,Chordata,Western sand whiting,12.0
+3558,Chordata,Northern whiting,7.0
+3559,Chordata,Surf bream,12.0
+3560,Chordata,Southern black bream,29.0
+3561,Chordata,Sheepshead,20.0
+3562,Chordata,Knobbed porgy,17.0
+3563,Chordata,Squirefish,35.0
+3564,Chordata,Annular seabream,7.0
+3565,Chordata,White seabream,21.0
+3566,Chordata,West coast seabream,50.0
+3567,Chordata,Blackspot seabream,15.0
+3568,Chordata,Gilthead seabream,11.0
+3569,Chordata,Black sea bream,15.0
+3570,Chordata,Scup,19.0
+3571,Chordata,Pacific barracuda,11.0
+3572,Chordata,Great barracuda,14.0
+3573,Chordata,Atlantic cutlassfish,15.0
+3574,Chordata,Mottled twister,3.0
+3575,Chordata,Common triplefin,3.0
+3576,Chordata,Striped triplefin,4.0
+3577,Chordata,Flathead,20.0
+3578,Chordata,Blackbelly eelpout,5.0
+3579,Chordata,Ocean pout,18.0
+3580,Chordata,Viviporous blenny,10.0
+3581,Chordata,Spring cavefish,3.0
+3582,Chordata,Southern cavefish,4.0
+3583,Chordata,Pirate perch,4.0
+3584,Chordata,Trout-perch,4.0
+3585,Chordata,Sand roller,6.0
+3586,Chordata,Hogchoker,6.0
+3587,Chordata,Scaldfish,8.0
+3588,Chordata,Grohmann's scaldfish,10.0
+3589,Chordata,Fringed flounder,2.0
+3590,Chordata,California halibut,30.0
+3591,Chordata,Southern flounder,8.0
+3592,Chordata,Fivespot flounder,3.0
+3593,Chordata,Arrowtooth flounder,15.0
+3594,Chordata,Petrale sole,25.0
+3595,Chordata,Witch flounder,25.0
+3596,Chordata,Rex sole,24.0
+3597,Chordata,American plaice,30.0
+3598,Chordata,Atlantic halibut,90.0
+3599,Chordata,Pacific halibut,42.0
+3600,Chordata,Butter sole,11.0
+3601,Chordata,Stone flounder,12.0
+3602,Chordata,Rock sole,22.0
+3603,Chordata,Yellowfin sole,26.0
+3604,Chordata,Yellowtail flounder,12.0
+3605,Chordata,Lemon sole,23.0
+3606,Chordata,Dover sole,45.0
+3607,Chordata,European flounder,15.0
+3608,Chordata,Starry flounder,24.0
+3609,Chordata,Plaice,50.0
+3610,Chordata,Winter flounder,14.0
+3611,Chordata,Greenland halibut,30.0
+3612,Chordata,Dab,12.0
+3613,Chordata,Turbot,26.0
+3614,Chordata,Brill,6.0
+3615,Chordata,Solenette,13.0
+3616,Chordata,Thickback sole,14.0
+3617,Chordata,Adriatic sole,12.0
+3618,Chordata,Atlantic sole,15.0
+3619,Chordata,Common sole,27.0
+3620,Chordata,Vendace,10.0
+3621,Chordata,Cisco,11.0
+3622,Chordata,Lake whitefish,50.0
+3623,Chordata,Bloater,10.0
+3624,Chordata,Kiyi,10.0
+3625,Chordata,Muksun,23.0
+3626,Chordata,Broad whitefish,15.0
+3627,Chordata,Blackfin cisco,14.0
+3628,Chordata,Humpback whitefish,14.0
+3629,Chordata,Irish pollan,10.0
+3630,Chordata,Shortnose cisco,8.0
+3631,Chordata,Least cisco,26.0
+3632,Chordata,Longjaw cisco,11.0
+3633,Chordata,Danube salmon,15.0
+3634,Chordata,Taimen,16.0
+3635,Chordata,Cutthroat trout,10.0
+3636,Chordata,Pink salmon,3.0
+3637,Chordata,Chum salmon,7.0
+3638,Chordata,Coho salmon,5.0
+3639,Chordata,Steelhead,11.0
+3640,Chordata,Sockeye salmon,8.0
+3641,Chordata,Chinook salmon,9.0
+3642,Chordata,Pygmy whitefish,9.0
+3643,Chordata,Round whitefish,16.0
+3644,Chordata,Bonneville cisco,6.0
+3645,Chordata,Bonneville whitefish,8.0
+3646,Chordata,Mountain whitefish,17.0
+3647,Chordata,Atlantic salmon,13.0
+3648,Chordata,Brown trout,38.0
+3649,Chordata,Arctic char,40.0
+3650,Chordata,Bunnylake brook trout,24.0
+3651,Chordata,Lake trout,50.0
+3652,Chordata,Inconnu,22.0
+3653,Chordata,Arctic grayling,18.0
+3654,Chordata,Armed bullhead,3.0
+3655,Chordata,Sablefish,114.0
+3656,Chordata,Coastrange sculpin,8.0
+3657,Chordata,Prickly sculpin,7.0
+3658,Chordata,Mottled sculpin,6.0
+3659,Chordata,Banded sculpin,4.0
+3660,Chordata,Slimy sculpin,7.0
+3661,Chordata,Shorthead sculpin,6.0
+3662,Chordata,Bullhead,5.0
+3663,Chordata,Pygmy sculpin,2.0
+3664,Chordata,Alpine bullhead,8.0
+3665,Chordata,Pacific staghorn sculpin,10.0
+3666,Chordata,Longhorn sculpin,11.0
+3667,Chordata,Fourhorn sculpin,14.0
+3668,Chordata,Kelp greenling,12.0
+3669,Chordata,Lingcod,20.0
+3670,Chordata,Tiger flathead,12.0
+3671,Chordata,Deepwater flathead,20.0
+3672,Chordata,Devilfish,14.0
+3673,Chordata,Sea perch,42.0
+3674,Chordata,Red firefish,10.0
+3675,Chordata,Rougheye rockfish,205.0
+3676,Chordata,Pacific ocean perch,100.0
+3677,Chordata,Kelp rockfish,20.0
+3678,Chordata,Brown rockfish,20.0
+3679,Chordata,Redbanded rockfish,106.0
+3680,Chordata,Shortraker rockfish,157.0
+3681,Chordata,Silvergray rockfish,82.0
+3682,Chordata,Gopher rockfish,30.0
+3683,Chordata,Copper rockfish,55.0
+3684,Chordata,Greenspotted rockfish,33.0
+3685,Chordata,Black-and-yellow rockfish,22.0
+3686,Chordata,Dusky rockfish,67.0
+3687,Chordata,Starry rockfish,32.0
+3688,Chordata,Darkblotched rockfish,66.0
+3689,Chordata,Calico rockfish,12.0
+3690,Chordata,Splitnose rockfish,84.0
+3691,Chordata,Greenstriped rockfish,42.0
+3692,Chordata,Widow rockfish,60.0
+3693,Chordata,Yellowtail rockfish,64.0
+3694,Chordata,Chilipepper,27.0
+3695,Chordata,Rosethorn rockfish,87.0
+3696,Chordata,Squarespot rockfish,19.0
+3697,Chordata,Shortbelly rockfish,31.0
+3698,Chordata,Cowcod,55.0
+3699,Chordata,Quillback rockfish,90.0
+3700,Chordata,Black rockfish,50.0
+3701,Chordata,Deepwater redfish,75.0
+3702,Chordata,Vermilion rockfish,43.0
+3703,Chordata,Blue rockfish,44.0
+3704,Chordata,China rockfish,79.0
+3705,Chordata,Tiger rockfish,116.0
+3706,Chordata,Speckled rockfish,37.0
+3707,Chordata,Bocaccio,50.0
+3708,Chordata,Canary rockfish,84.0
+3709,Chordata,Northern rockfish,57.0
+3710,Chordata,Redstripe rockfish,55.0
+3711,Chordata,Grass rockfish,23.0
+3712,Chordata,Yellowmouth rockfish,99.0
+3713,Chordata,Rosy rockfish,14.0
+3714,Chordata,Greenblotched rockfish,50.0
+3715,Chordata,Rasphead rockfish,118.0
+3716,Chordata,Flag rockfish,18.0
+3717,Chordata,Bank rockfish,53.0
+3718,Chordata,Stripetail rockfish,38.0
+3719,Chordata,Olive rockfish,25.0
+3720,Chordata,Harlequin rockfish,47.0
+3721,Chordata,Norway haddock,40.0
+3722,Chordata,Pygmy rockfish,24.0
+3723,Chordata,Sharpchin rockfish,58.0
+3724,Chordata,Shortspine thornyhead,115.0
+3725,Chordata,Longspine thornyhead,45.0
+3726,Chordata,Cape gurnard,16.0
+3727,Chordata,East Atlantic red gurnard,21.0
+3728,Chordata,Bluefin searobin,15.0
+3729,Chordata,Tub gurnard,15.0
+3730,Chordata,Lesser gurnard,7.0
+3731,Chordata,Lyre gurnard,7.0
+3732,Chordata,Streaked gurnard,18.0
+3733,Chordata,White sea catfish,36.0
+3734,Chordata,African catfish,17.0
+3735,Chordata,South American catfish,8.8
+3736,Chordata,Stinging catfish,17.5
+3737,Chordata,White catfish,14.0
+3738,Chordata,Black bullhead,10.0
+3739,Chordata,Yellow bullhead,7.0
+3740,Chordata,Flat bullhead,7.0
+3741,Chordata,Blue catfish,21.0
+3742,Chordata,Channel catfish,16.0
+3743,Chordata,Ozark madtom,3.0
+3744,Chordata,Mountain madtom,5.0
+3745,Chordata,Slender madtom,4.0
+3746,Chordata,Checkered madtom,5.0
+3747,Chordata,Yellowfin madtom,4.0
+3748,Chordata,Stonecat,9.0
+3749,Chordata,Orangefin madtom,3.0
+3750,Chordata,Tadpole madtom,3.0
+3751,Chordata,Speckled madtom,3.0
+3752,Chordata,Brindled madtom,3.0
+3753,Chordata,Freckled madtom,4.0
+3754,Chordata,Flathead catfish,20.0
+3755,Chordata,Suckermouthed catfish,18.0
+3756,Chordata,Electric catfish,10.0
+3757,Chordata,Upside-down catfish,31.0
+3758,Chordata,Cobbler,13.0
+3759,Chordata,Striped eel-catfish,7.0
+3760,Chordata,Sheatfish,60.0
+3761,Chordata,Brauer's bristlemouth,1.0
+3762,Chordata,Shiny loosejaw,7.0
+3763,Chordata,Pacific viperfish,8.0
+3764,Chordata,Chinaman-leatherjacket,9.0
+3765,Chordata,Prickly toadfish,7.0
+3766,Chordata,Nile globe-fish,5.9
+3767,Chordata,Black oreo,100.0
+3768,Chordata,Warty oreo,140.0
+3769,Chordata,Spiky oreo,100.0
+3770,Chordata,Smooth oreo,100.0
+3771,Chordata,European john dory,12.0
+3772,Echinodermata,Red sea urchin,200.0
+3773,Echinodermata,Purple sea urchin,50.0
+3774,Mollusca,Ocean quahog clam,507.0
+3775,Nematoda,Roundworm,0.16
+3776,Porifera,Epibenthic sponge,1550.0
+3777,Porifera,Hexactinellid sponge,15000.0
+3778,Pinophyta,Great Basin bristlecone pine,5062.0
+3779,Ascomycota,Baker's yeast,0.04

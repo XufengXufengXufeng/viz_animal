@@ -1,0 +1,17 @@
+path order
+IIF([Table Name]="inact_age_data.csv",0,1)
+
+radial field
+[Maximum longevity (yrs)]
+
+radial angle
+(INDEX()-1)*(1/WINDOW_COUNT(COUNT([radial field])))*2*PI()
+
+radial normalized length
+[radial inner] + IIF(ATTR([path order])=0,0,SUM([radial field])/WINDOW_MAX(SUM([radial field])))*([radial outter]-[radial inner])
+
+radial x
+[radial normalized length] * COS([radial angle])
+
+radial y
+[radial normalized length] * SIN([radial angle])
